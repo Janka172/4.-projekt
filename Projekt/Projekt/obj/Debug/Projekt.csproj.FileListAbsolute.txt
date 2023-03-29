@@ -1,0 +1,7 @@
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.AssemblyReference.cache
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.exe
+C:\Users\Detlef Wagner\Documents\GitHub\A minden\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
