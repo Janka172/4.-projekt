@@ -1,8 +1,36 @@
-Nap;Verzió;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
-1;
-2;
-3;
-4;
-5;
+1;1;665;A versenyre rengeteg résztvevő jelentkezett. Lovad nem tud gyorsan rajtolni, ezért leszakadsz az élbojtól. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni, tudod, hogy éjszaka nagyon hideg lesz, ezért fedezéket kell keresned...;1: Gyorsítasz, hogy elérd a falut;90;2: Keresel egy közelebbi menedéket;60
+
+2;1;575;Próbálsz gyorsítani, de nem érsz időben a faluba. Egész éjjel léptetsz a falu felé, mivel félsz, hogy megfagynátok.\n Napkeltére értek be a faluba, mindketten ki vagytok merülve...;1: Tovább haladsz;65;2: Megállsz pihenni eggyet;30
+
+2;2;605;Egy oáziba érsz, tudtok pihenni. Másnap reggel újult erővel indultok útnak. Még délelőtt a faluba értek. Tudod, hogy nagy a lemaradásotok...;1: Elindulsz a szabványos úton;95;2: Elindulsz egy másik úton;150
+
+3;1;510;Haladsz a megadott úton de nagyon erősen fúj a szél...;1: Lassabban haladsz a lehető legrövidebb úton;60;2: Letérsz az útról, szélárnyékba, és gyorsabban kezdesz haladni;150
+
+3;2;545;Sikerül kipihennetek magatokat. Napkeltekor újult erővel indultok el. Tudjátok mindeketten, hogy hatalmas lemaradásban vagytok, ezért a mai nap...;1: A part fele indulsz;130;2: Belevágsz a homoktengerbe;185
+
+3;3;455;Valamivel a középmezőny előtt jársz, nagyon jó a tempó és az idő...;1: Lassítasz, hogy tudjatok pihenni;40;2: Tartod az eddigi ütemet, a többi versenyzőről függetlenül;120
+
+4;1;450;Továbbra is le vagy maradva a többiektől, ahhoz, hogy behozd a lemaradásodat...;1: Kimész nyilt terepre és begyorsítasz;1;2: Belovagolsz a sziklás dombokra;2
+
+4;2;415;Megfontoltan haladtál eddig, és tudod hogy így a lovad végig tudna menni a pályán, de be kell hoznotok egy hatalmas lemaradást...;1: Bemész szélárnyékba, és ütemes galoppal haladtok előre;100;2: Lemész a völgybe, ugyan fúj a szél, de sokkal könnyebb a terep;120
+
+4;3;335;Nagyon jól haladsz, szinte teljesen elhagytad a többi versenyzőt. Parázs egyre jobban kezd elfáradni, többször veszi fel magát vágtából.;1: Tartod a tervet és tovább vágtatsz;1;2: Tekintettel vagy a lovadra, ezért lassítasz;65
+
+5;1;449;A terep nagyon homokos, Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs megcsúszik a homokon, és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+
+5;2;448;Fellovagolsz a sziklák közé. A terep nagyon száraz, minden lépésnél érezhetően omlik a sziklafal, de te tudod, hogy nagy lemaradást kell behoznotok. Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs patája alatt a falból leomlik egy jelentős rész, elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád 
+a lovad életét.;1;1;1;1
+
+5;3;334;A többszöri ellenkezés ellenére is tovább vágtatsz.\nParázs két galoppüteme között összeesik. A hatalmas mén elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+
+5;4;270;Jó tempóban haladsz előre, Parázs laza tempóban halad előre, jól megszokta a terepet...;1: Lassítasz mielőtt még valami baj fog történni;70;2: Gyorsítasz abban reménykedve, hogy idő előtt teljesíted a versenyt;150
+
+5;5;
+
+5;6;
+
+6;1;120;Levágtatsz a homokdombról, és megpillantod a célt. Parázs nyugodt vágtában átvágja a célvonalat.\nEgy nappal az átlag idő alatt értél a célba.;1;1;1;1
+
 6;
+
 7;
