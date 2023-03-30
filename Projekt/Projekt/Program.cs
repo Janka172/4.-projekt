@@ -123,6 +123,7 @@ namespace Projekt
                     //Sodashi
                     if (lo == 1)
                     {
+                        energia = lovak[lo].kitartas;
                         //Sivatag
                         if (palya == 0)
                         {
@@ -151,6 +152,7 @@ namespace Projekt
                     //Szélvihar
                     if (lo == 2)
                     {
+                        energia = lovak[lo].kitartas;
                         //Sivatag
                         if (palya == 0)
                         {
