@@ -21,7 +21,7 @@ namespace Projekt
             public int hossz, tav;
         }
         
-        struct p0
+        struct pas
         {
             public int nap, verzio, be, epont, mpont;
             public string szoveg, edontes, mdontes;
@@ -62,8 +62,8 @@ namespace Projekt
             //Parázs - Sivatag
             //Nap;Verzió;Belép;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
             StreamReader psi = new StreamReader("00.txt");
-            List<p0> ps = new List<p0>();
-            p0 p0seged;
+            List<pas> ps = new List<pas>();
+            pas p0seged;
             while (!pr.EndOfStream)
             {
                 string[] d = pr.ReadLine().Split(';');
@@ -75,7 +75,7 @@ namespace Projekt
                 p0seged.epont = int.Parse(d[5]);
                 p0seged.mdontes = d[6];
                 p0seged.mpont = int.Parse(d[7]);
-                palyak.Add(p0seged);
+                ps.Add(p0seged);
             }
             psi.Close();
 
@@ -152,9 +152,9 @@ namespace Projekt
                                 Console.Write("Add meg a döntésted sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
-                            if (mi == "1") tav - ps[0].epont; //575
-                            if (mi == "2") tav - ps[0].mpont; //605
-
+                            if (mi == "1") tav = tav - ps[0].epont; //575
+                            if (mi == "2") tav = tav - ps[0].mpont; //605
+                            
                             //2. nap 1. verzió
                             if (tav == 575)
                             {
@@ -170,8 +170,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[1].epont; //510
-                                if (mi == "2") tav - ps[1].mpont; //545
+                                if (mi == "1") tav = tav - ps[1].epont; //510
+                                if (mi == "2") tav = tav - ps[1].mpont; //545
                             }
 
                             //2. nap 2. verzió
@@ -189,8 +189,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[2].epont;//510
-                                if (mi == "2") tav - ps[2].mpont;//455
+                                if (mi == "1") tav = tav - ps[2].epont;//510
+                                if (mi == "2") tav = tav - ps[2].mpont;//455
                             }
 
                             //3. nap 1. verzió
@@ -208,8 +208,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[3].epont;//450
-                                if (mi == "2") tav - ps[3].mpont;//360
+                                if (mi == "1") tav = tav - ps[3].epont;//450
+                                if (mi == "2") tav = tav - ps[3].mpont;//360
                             }
 
                             //3. nap 2. verzió
@@ -227,8 +227,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[4].epont;//415
-                                if (mi == "2") tav - ps[4].mpont;//360
+                                if (mi == "1") tav = tav - ps[4].epont;//415
+                                if (mi == "2") tav = tav - ps[4].mpont;//360
                             }
 
                             //3. nap 3. verzió
@@ -246,8 +246,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[5].epont;//415
-                                if (mi == "2") tav - ps[5].mpont;//335
+                                if (mi == "1") tav = tav - ps[5].epont;//415
+                                if (mi == "2") tav = tav - ps[5].mpont;//335
                             }
 
                             //4. nap 1. verzió
@@ -265,8 +265,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[6].epont;//449
-                                if (mi == "2") tav - ps[6].mpont;//448
+                                if (mi == "1") tav = tav - ps[6].epont;//449
+                                if (mi == "2") tav = tav - ps[6].mpont;//448
                             }
 
                             //4. nap 2. verzió
@@ -284,8 +284,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[7].epont;//315
-                                if (mi == "2") tav - ps[7].mpont;//295
+                                if (mi == "1") tav = tav - ps[7].epont;//315
+                                if (mi == "2") tav = tav - ps[7].mpont;//295
                             }
 
                             //4. nap 3. verzió
@@ -303,8 +303,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[8].epont;//334
-                                if (mi == "2") tav - ps[8].mpont;//270
+                                if (mi == "1") tav = tav - ps[8].epont;//334
+                                if (mi == "2") tav = tav - ps[8].mpont;//270
                             }
 
                             //5. nap 1. verzió - vég - b
@@ -358,8 +358,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[12].epont;//200
-                                if (mi == "2") tav - ps[12].mpont;//120
+                                if (mi == "1") tav = tav - ps[12].epont;//200
+                                if (mi == "2") tav = tav - ps[12].mpont;//120
                             }
 
                             //5. nap 5. verzió
@@ -377,8 +377,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[13].epont;//
-                                if (mi == "2") tav - ps[13].mpont;//
+                                if (mi == "1") tav = tav - ps[13].epont;//294
+                                if (mi == "2") tav = tav - ps[13].mpont;//293
                             }
 
                             //5. nap 6. verzió
@@ -396,8 +396,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav - ps[14].epont;//
-                                if (mi == "2") tav - ps[14].mpont;//
+                                if (mi == "1") tav = tav - ps[14].epont;//
+                                if (mi == "2") tav = tav - ps[14].mpont;//
                             }
 
                             //6. nap 1. verzió - vég - ny
@@ -412,6 +412,61 @@ namespace Projekt
                                 Console.ForegroundColor = ConsoleColor.White;
                             }
 
+                            //6. nap 2. verzió
+                            if (tav == 200)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[16].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ps[16].szoveg}");
+                                Console.WriteLine($"{ps[16].edontes}");
+                                Console.WriteLine($"{ps[16].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ps[16].epont;//0
+                                if (mi == "2") tav = tav - ps[16].mpont;//50
+                            }
+
+                            //6. nap 3. verzió - vég - b
+                            if (tav == 294)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[17].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[17].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //6. nap 4. verzió - vég - b
+                            if (tav == 293)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[18].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[18].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+
+                            //Győzelem SZÁMOOOK
+                            if (tav == 0)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Megnyerted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
                         }
 
                         //Erdő

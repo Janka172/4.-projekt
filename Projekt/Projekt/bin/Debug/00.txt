@@ -18,19 +18,22 @@
 
 5;1;449;A terep nagyon homokos, Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs megcsúszik a homokon, és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
 
-5;2;448;Fellovagolsz a sziklák közé. A terep nagyon száraz, minden lépésnél érezhetően omlik a sziklafal, de te tudod, hogy nagy lemaradást kell behoznotok. Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs patája alatt a falból leomlik egy jelentős rész, elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád 
-a lovad életét.;1;1;1;1
+5;2;448;Fellovagolsz a sziklák közé. A terep nagyon száraz, minden lépésnél érezhetően omlik a sziklafal, de te tudod, hogy nagy lemaradást kell behoznotok. Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs patája alatt a falból leomlik egy jelentős rész, elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
 
 5;3;334;A többszöri ellenkezés ellenére is tovább vágtatsz.\nParázs két galoppüteme között összeesik. A hatalmas mén elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
 
 5;4;270;Jó tempóban haladsz előre, Parázs laza tempóban halad előre, jól megszokta a terepet...;1: Lassítasz mielőtt még valami baj fog történni;70;2: Gyorsítasz abban reménykedve, hogy idő előtt teljesíted a versenyt;150
 
-5;5;
+5;5;295;Belovagolsz egy oázisba, a lovad fáradtnak tűnik. Nem akar tovább haladni. Odamegy inni a tóhoz. Egész jól haladsz a középmezőnyben, de a cél a győzelem.;1: Kimész a nyílt terepre, és gyorsítasz;1;2: Fellovagolsz a sziklás vidékre;2
 
 5;6;
 
 6;1;120;Levágtatsz a homokdombról, és megpillantod a célt. Parázs nyugodt vágtában átvágja a célvonalat.\nEgy nappal az átlag idő alatt értél a célba.;1;1;1;1
 
-6;
+6;2;200;Parázs kellően kipihente magát, de mivel tudod, hogy holnapra a célvonalhoz kell érned...;1: Gyorsítas, hogy időben odaérj;200;2: Tartod az eddigi tempót;150
 
-7;
+6;3;294;A terep nagyon homokos, Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs megcsúszik a homokon, és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+
+6;4;293;Fellovagolsz a sziklák közé. A terep nagyon száraz, minden lépésnél érezhetően omlik a sziklafal, de te tudod, hogy nagy lemaradást kell behoznotok. Parázs ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott.\nParázs patája alatt a falból leomlik egy jelentős rész, elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+
+7;1;0;Levágtatsz a homokdombról, és megpillantod a célt. Parázs nyugodt vágtában átvágja a célvonalat.
