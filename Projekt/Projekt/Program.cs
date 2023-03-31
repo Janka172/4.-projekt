@@ -64,9 +64,9 @@ namespace Projekt
             StreamReader psi = new StreamReader("00.txt");
             List<pas> ps = new List<pas>();
             pas p0seged;
-            while (!pr.EndOfStream)
+            while (!psi.EndOfStream)
             {
-                string[] d = pr.ReadLine().Split(';');
+                string[] d = psi.ReadLine().Split(';');
                 p0seged.nap = int.Parse(d[0]);
                 p0seged.verzio = int.Parse(d[1]);
                 p0seged.be = int.Parse(d[2]);
@@ -79,7 +79,25 @@ namespace Projekt
             }
             psi.Close();
 
-            
+            //Sodashi - Sivatag
+            //Nap;Verzió;Belép;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
+            StreamReader ssi = new StreamReader("10.txt");
+            List<pas> ss = new List<pas>();
+            pas s0seged;
+            while (!psi.EndOfStream)
+            {
+                string[] d = psi.ReadLine().Split(';');
+                s0seged.nap = int.Parse(d[0]);
+                s0seged.verzio = int.Parse(d[1]);
+                s0seged.be = int.Parse(d[2]);
+                s0seged.szoveg = d[3];
+                s0seged.edontes = d[4];
+                s0seged.epont = int.Parse(d[5]);
+                s0seged.mdontes = d[6];
+                s0seged.mpont = int.Parse(d[7]);
+                ps.Add(s0seged);
+            }
+            ssi.Close();
 
 
 
@@ -87,8 +105,6 @@ namespace Projekt
             string mi = "";
             int lo;
             int palya;
-            int energia;
-            int napok;
             int tav;
             while (akarsz == "i")
             {
@@ -133,7 +149,6 @@ namespace Projekt
                     //Parázs
                     if (lo == 0)
                     {
-                        energia = lovak[lo].kitartas;
                         //Sivatag
                         if (palya == 0)
                         {
@@ -396,8 +411,8 @@ namespace Projekt
                                     Console.Write("Add meg a döntésted sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
-                                if (mi == "1") tav = tav - ps[14].epont;//
-                                if (mi == "2") tav = tav - ps[14].mpont;//
+                                if (mi == "1") tav = tav - ps[14].epont;//314
+                                if (mi == "2") tav = tav - ps[14].mpont;//313
                             }
 
                             //6. nap 1. verzió - vég - ny
@@ -455,14 +470,49 @@ namespace Projekt
                                 Console.ForegroundColor = ConsoleColor.White;
                             }
 
+                            //6. nap 5. verzió - vég - b
+                            if (tav == 314)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[19].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[19].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
 
-                            //Győzelem SZÁMOOOK
+                            //6. nap 5. verzió - vég - b
+                            if (tav == 313)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[20].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[20].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 1. verzió - vég - ny
                             if (tav == 0)
                             {
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[].nap}. nap");
+                                Console.WriteLine($"{ps[21].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[].szoveg}");
+                                Console.WriteLine($"{ps[21].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Megnyerted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 2. verzió - vég - ny
+                            if (tav == 50)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ps[22].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ps[22].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Megnyerted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -487,7 +537,6 @@ namespace Projekt
                     //Sodashi
                     if (lo == 1)
                     {
-                        energia = lovak[lo].kitartas;
                         //Sivatag
                         if (palya == 0)
                         {
@@ -513,7 +562,6 @@ namespace Projekt
                     //Szélvihar
                     if (lo == 2)
                     {
-                        energia = lovak[lo].kitartas;
                         //Sivatag
                         if (palya == 0)
                         {

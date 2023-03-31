@@ -1,0 +1,15 @@
+1;1;665;A versenyre rengeteg résztvevő jelentkezett. Lovad nagyon jól rajtol, ezért aznonnal előnyt szerzet a többiekkel szemben. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni, tudod, hogy éjszaka nagyon hideg lesz, ezért fedezéket kell keresned...;1: tartod a rajtkor megszerzett lendületet, hogy elérd a közeli falut;100;2: Keresel egy közelebbi menedéket;80
+
+2;1;565;
+
+2;2;585;
+
+3;
+
+4;
+
+5;
+
+6;
+
+7;
