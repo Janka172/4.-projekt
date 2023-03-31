@@ -1,15 +1,25 @@
-1;1;665;A versenyre rengeteg résztvevő jelentkezett. Lovad nagyon jól rajtol, ezért aznonnal előnyt szerzet a többiekkel szemben. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni, tudod, hogy éjszaka nagyon hideg lesz, ezért fedezéket kell keresned...;1: tartod a rajtkor megszerzett lendületet, hogy elérd a közeli falut;100;2: Keresel egy közelebbi menedéket;80
-
-2;1;565;
-
-2;2;585;
-
-3;
-
-4;
-
-5;
-
-6;
-
-7;
+1;1;665;A versenyre rengeteg résztvevő jelentkezett. Lovad nagyon jól rajtol, ezért aznonnal előnyt szerzet a többiekkel szemben. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni, tudod, hogy éjszaka nagyon hideg lesz, ezért fedezéket kell keresned...;1: Tartod a rajtkor megszerzett lendületet, hogy elérd a közeli falut;100;2: Keresel egy közelebbi menedéket;80
+2;1;565;Időben érsz a faluba, így másnak kora hajnalban tudsz útnak indulni.;1: Az oázis felé indulsz;120;2: A hegyekbe indulsz;60
+2;2;585;Egy oáziba érsz, tudtok pihenni. Másnap reggel újult erővel indultok útnak. Még délelőtt a faluba értek. Tudod, hogy nagy a lemaradásotok...;1: Elindulsz a szabványos úton;95;2: Elindulsz egy másik úton;150
+3;1;445;Elindulsz az úton, Sodashi szinte azonnal lendületbe jött, és hatalmas sebbességel kezd el galoppozni...;1: Hagyod, galoppozni;130;2: Megpróbálod visszatartani;1
+3;2;505;A hegyekben könnyen omlanak a sziklák, Sodashi lassít, mivel megrémítí a patája alatt leomló sziklafal...;1: Figyelmen kívül hagyod lovad jelzéssét, és gyorsítasz;1;2: Tekinetttel vagy lovad jelzésére, és lassítasz;75
+3;3;490;Elindulsz az úton, Sodashi szinte azonnal lendületbe jött, és hatalmas sebbességel kezd el galoppozni...;1: Hagyod, galoppozni;120;2: Megpróbálod visszatartani;1
+3;4;435;A másik út egy egyenes útszakaszt tartogatott magával, ahol a lovad jól tudott tartani egy határozott, gyors ütemet. Viszont egyre esősebben fújja a szél a homokot...;1: Rögtönzött pihenőt tartasz, mert tartasz attól hogy nagyobb vihar kerekedik;20;2: Tovább haladsz abban bízva hogy nem lesz nagyobb baj;1
+4;1;315;Sodashi élvezi, hogy vágtázhatott, de kezd egyre jobban fáradni, többször is felveszi magát vágtából...;1: Lassítasz mielőtt még bármi baja esne;90;2: Gyorsítasz, hogy addig menjen amíg van még ereje hozzá;1
+4;2;444;Lovad ellenszegül, te nem tudod megtartani. Felágaskodik, majd elesik, te pedig kiesel a nyeregből. Sodasi feltehetően megrántotta a lábát. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;3;504;Lovad ellenszegül, te nem tudod megtartani. Felágaskodik, majd elesik, te pedig kiesel a nyeregből. Sodasi feltehetően megrántotta a lábát. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;4;430;A tegnapi nap során Sodashi láthatóan kipihente magát. A serület sivár. A homoktenger végégeláthatatlanul nyúlik el az égig. A homok nagyon csúszik, veszélyesnek tűnik.;1: Gyorsítasz, hogy tarts az eddigi tempót;1;2: Lassítasz, nehogy a lovad megsérüljön;75
+4;5;370;Sodashi élvezi, hogy vágtázhatott, de kezd egyre jobban fáradni, többször is felveszi magát vágtából...;1: Lassítasz mielőtt még bármi baja esne;90;2: Gyorsítasz, hogy addig menjen amíg van még ereje hozzá;56
+4;6;489;Lovad ellenszegül, te nem tudod megtartani. Felágaskodik, majd elesik, te pedig kiesel a nyeregből. Sodasi feltehetően megrántotta a lábát. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;7;415;Lovad kellően kipihente magát, és újult erővel indul neki az újabb napnak. Nagy lemaradást kell behoznotok...;1: Megpróbálsz a hegyekben rövidíteni;2;2: Nyílt terepen galoppozol végig;340
+4;8;434;A terep nagyon homokos, Sodashi ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott. Sodashi megcsúszik a homokon, és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;1;225;Sodashi kellően ki tudta pihenni magát ahhoz, hogy teljes erőbedobással tovább induljon.;1: Kilovagolsz a homoktengerbe;150;2: Közelebb mész az oázishoz, ha a lovad esetleg szomjas lenne;1
+5;2;314;A többszöri ellenkezés ellenére is tovább vágtatsz. Sodashi két galoppüteme között összeesik. A kanca elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;3;429;A terep nagyon homokos, Sodashi ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott. Sodashi megcsúszik a homokon, és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;4;355;Lovad kellően kipihente magát, és újult erővel indul neki az újabb napnak. Nagy lemaradást kell behoznotok...;1: Megpróbálsz a hegyekben rövidíteni;1;2: Nyílt terepen galoppozol végig;135
+5;5;280;Sodashi kellően ki tudta pihenni magát ahhoz, hogy teljes erőbedobással tovább induljon.;1: Kilovagolsz a homoktengerbe;205;2: Közelebb mész az oázishoz, ha a lovad esetleg szomjas lenne;56
+5;6;413;Fellovagolsz a sziklák közé. A terep nagyon száraz, minden lépésnél érezhetően omlik a sziklafal, de te tudod, hogy nagy lemaradást kell behoznotok. Sodashi ellenkezik a gyorsításnál, hiszen érzi, hogy nagyon csúszik a patája.Te ezt figyelmen kívül hagyod, de lovad vészjelzésének relevanciája beigazolódott. Sodashi patája alatt a falból leomlik egy jelentős rész, elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+6;1;75;Már nincsen messze a cél, bőven a többi versenyző előtt vagy.;1: Nyugodt tempóban haladsz előre, mivel nem szorulsz rá, hogy túlterheld a lovad;75;2: Gyorsítasz, hogy minél jobb legyen az időd;1
+6;2;224;Ahogy közelebb mész az oházishoz, a homok egyszer csak elkezd süllyedni alattatok. Futóhomok. Lovad szerncsér nyugodta maradt, és kitartott, amíg az utánnatok lévő versenyző oda nem ért, és sikeresen meg nem mentett titeket. Sodashi sokkos állapotban van, és teljesen kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+7;1;0;Levágtatsz a homokdombról, és megpillantod a célt. Sodashi nyugodt vágtában átvágja a célvonalat.;1;1;1;1
+7;2;74;A többszöri ellenkezés ellenére is tovább vágtatsz. Sodashi két galoppüteme között összeesik. A kanca elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1

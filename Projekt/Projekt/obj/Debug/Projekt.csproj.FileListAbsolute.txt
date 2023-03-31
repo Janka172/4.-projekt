@@ -16,3 +16,6 @@ C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\obj
 C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.csproj.CoreCompileInputs.cache
 C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.exe
 C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\obj\Debug\Projekt.pdb
+C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.exe.config
+C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.exe
+C:\Users\Detlef Wagner\Documents\GitHub\1.-projet\4.-projekt\Projekt\Projekt\bin\Debug\Projekt.pdb
