@@ -1,0 +1,37 @@
+1;1;1045;Gyönyörűen süt a nap aznap reggel mikor a verseny résztvevői az erőbe értek. A versenyre rengeteg résztvevő jelentkezett. Lovad nem tud elég gyorsan rajtolni, ezért leszakadsz az élbojtól. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni...;1: Lepihensz a fák között;95;2: Lepihensz a tisztáson;100
+
+2;1;950;Időt spóroltál azzal, hogy ott pihentél le, ahol éppen tartottál. Másnap kora hajnalban újra útnak indulsz a cél felé.;1: Kimész a tisztásra, és gyorsítasz;95;2: Nyugodt tempóban haladsz a fák között;45
+
+2;2;945;Este még sokáig keresed a tisztásig vezető utat. Késődélelőtt ébredsz, Parázs hátán, aki valószínűleg korábban kelt nálad, mivel amíg te a hátán aludtál ő elindult egy patak mentén a megfelelő irányba.;1: Nyugodt tempóban haladsz, mivel már haladtál az éjszaka is;90;2: Gyorsítasz, amíg a lovad még ereje teljében van;120
+
+3;1;855;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb.;1: Lassítasz, mivel tekinettel vagy a lovad állapotára;45;2: Gyorsítasz mivel így még akár rekordot is dönthetsz;1
+
+3;2;905;
+
+3;3;825;
+
+
+4;1;810;
+
+4;2;854;A többszöri ellenkezés ellenére is tovább vágtatsz. Parázs két galoppüteme között összeesik. A hatalmas mén elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+
+
+5;
+
+
+6;
+
+
+7;
+
+
+8;
+
+
+9;
+
+
+10;
+
+
+11;

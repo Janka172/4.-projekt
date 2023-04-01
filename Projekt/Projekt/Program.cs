@@ -741,9 +741,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[8].nap}. nap");
+                                Console.WriteLine($"{ss[8].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[8].szoveg}");
+                                Console.WriteLine($"{ss[8].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -754,9 +754,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[9].nap}. nap");
+                                Console.WriteLine($"{ss[9].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[9].szoveg}");
+                                Console.WriteLine($"{ss[9].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -807,9 +807,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[12].nap}. nap");
+                                Console.WriteLine($"{ss[12].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[12].szoveg}");
+                                Console.WriteLine($"{ss[12].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -840,9 +840,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[14].nap}. nap");
+                                Console.WriteLine($"{ss[14].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[14].szoveg}");
+                                Console.WriteLine($"{ss[14].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -873,9 +873,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[16].nap}. nap");
+                                Console.WriteLine($"{ss[16].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[16].szoveg}");
+                                Console.WriteLine($"{ss[16].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -886,9 +886,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[17].nap}. nap");
+                                Console.WriteLine($"{ss[17].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[17].szoveg}");
+                                Console.WriteLine($"{ss[17].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -939,9 +939,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[20].nap}. nap");
+                                Console.WriteLine($"{ss[20].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[20].szoveg}");
+                                Console.WriteLine($"{ss[20].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -973,9 +973,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[22].nap}. nap");
+                                Console.WriteLine($"{ss[22].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[22].szoveg}");
+                                Console.WriteLine($"{ss[22].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -986,9 +986,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[23].nap}. nap");
+                                Console.WriteLine($"{ss[23].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[23].szoveg}");
+                                Console.WriteLine($"{ss[23].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Megnyerted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
@@ -999,9 +999,9 @@ namespace Projekt
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
-                                Console.WriteLine($"{ps[24].nap}. nap");
+                                Console.WriteLine($"{ss[24].nap}. nap");
                                 Console.ForegroundColor = ConsoleColor.White;
-                                Console.WriteLine($"{ps[24].szoveg}");
+                                Console.WriteLine($"{ss[24].szoveg}");
                                 Console.ForegroundColor = ConsoleColor.Red;
                                 Console.WriteLine("Elvesztetted a versenyt.");
                                 Console.ForegroundColor = ConsoleColor.White;
