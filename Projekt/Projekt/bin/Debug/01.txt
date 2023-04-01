@@ -1,37 +1,26 @@
 1;1;1045;Gyönyörűen süt a nap aznap reggel mikor a verseny résztvevői az erőbe értek. A versenyre rengeteg résztvevő jelentkezett. Lovad nem tud elég gyorsan rajtolni, ezért leszakadsz az élbojtól. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni...;1: Lepihensz a fák között;95;2: Lepihensz a tisztáson;100
-
 2;1;950;Időt spóroltál azzal, hogy ott pihentél le, ahol éppen tartottál. Másnap kora hajnalban újra útnak indulsz a cél felé.;1: Kimész a tisztásra, és gyorsítasz;95;2: Nyugodt tempóban haladsz a fák között;45
-
 2;2;945;Este még sokáig keresed a tisztásig vezető utat. Késődélelőtt ébredsz, Parázs hátán, aki valószínűleg korábban kelt nálad, mivel amíg te a hátán aludtál ő elindult egy patak mentén a megfelelő irányba.;1: Nyugodt tempóban haladsz, mivel már haladtál az éjszaka is;90;2: Gyorsítasz, amíg a lovad még ereje teljében van;120
-
-3;1;855;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb.;1: Lassítasz, mivel tekinettel vagy a lovad állapotára;45;2: Gyorsítasz mivel így még akár rekordot is dönthetsz;1
-
-3;2;905;
-
-3;3;825;
-
-
-4;1;810;
-
-4;2;854;A többszöri ellenkezés ellenére is tovább vágtatsz. Parázs két galoppüteme között összeesik. A hatalmas mén elretül a homokban, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
-
-
-5;
-
-
-6;
-
-
-7;
-
-
-8;
-
-
-9;
-
-
-10;
-
-
-11;
+3;1;855;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb.;1: Lassítasz, mivel tekinettel vagy a lovad állapotára;45;2: Gyorsítasz mivel így még akár rekordot is dönthetsz;31
+3;2;905;Sikerül kipihennetek magatokat. Napkeltekor újult erővel indultok el. Tudjátok mindeketten, hogy hatalmas lemaradásban vagytok, ezért a mai nap...;1: A part fele indulsz;2;2: Gyorsítani kezdesz a tisztáson;110
+3;3;825;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb.;1: Lassítasz, mivel tekinettel vagy a lovad állapotára;45;2: Gyorsítasz mivel így még akár rekordot is dönthetsz;1
+4;1;810;Sikerül kipihennetek magatokat. Napkeltekor újult erővel indultok el. Tudjátok mindeketten, hogy hatalmas lemaradásban vagytok, ezért a mai nap...;1: A part fele indulsz;1;2: Gyorsítani kezdesz a tisztáson;110
+4;2;824;A többszöri ellenkezés ellenére is tovább vágtatsz. Parázs két galoppüteme között összeesik. A hatalmas mén elretül a fák között, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;3;903;Ahogy elhaladsz a tó mellett, Parázs egy iszaposabb részre lép, és megcsúszik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;4;795;Ahogy kiérsz a fák közül egyre erősödik a szél, de titeket ez nem zavar, inkább csak dob a hangulaton, Parázs nagyon könynedény tud vágtatni.;1: Kilovagolsz a tóhoz pihenni;14;2: Hagyod galoppozni;95
+4;5;780;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb, többször is felveszi magát vágtából...;1: Gyorsítasz, hogy időben célba érj;2;2: Figyelembe veszed a lovad jelzését, és lassítasz;80
+5;1;809;Ahogy elhaladsz a tó mellett, Parázs egy iszaposabb részre lép, és megcsúszik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;2;700;Enyhe lemaradásban vagy, de még behozhatónak tűnik. Ezzel szemben Parázs egyre kimerültebb, többször is feléveszi magát vágtából.;1: Gyorsítasz, hogy behozd a lemaradást;1;2: Lassítasz, hogy lovad ki tudja magát pihenni;50
+5;3;778;A többszöri ellenkezés ellenére is tovább vágtatsz. Parázs két galoppüteme között összeesik. A hatalmas mén elretül a fák között, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+6;1;699;A többszöri ellenkezés ellenére is tovább vágtatsz. Parázs két galoppüteme között összeesik. A hatalmas mén elretül a fák között, nehézkesen veszi a levegőt. Láthatóan kimerült. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+6;2;650;Volt időtök pihenni, de az enyhe lamarádásból, már egy komolyabb lemaradás lett...;1: Tovább haladsz a tóhoz;1;2: Kersel egy rövidebb, és biztonságosabb utat;150
+7;1;649;Ahogy elhaladsz a tó mellett, Parázs egy iszaposabb részre lép, és megcsúszik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+7;2;500;Sikerült találnod egy rövidebb utat, ami segítségével felzárkóztál a többiekhez. A tó partján megpillantasz egy palominó kancát. A tó mellett fekszik könyékig iszapban, a gazdája sehol, teljesen amgára hagyták...;1: Odamész hozzá, segíteni neki;100;2: Figyelmen kívül hagyod mivel csak hátráltatna;1
+8;1;499;Ahogy elhaladsz a kanca mellett Parázs hirtelen felágaskodik, de rosszul érkezik visza a földre, és elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+8;2;400;Megállsz a kanca mellett, bekötöd a sebet a lábán és felsegíted. A kötőfékén annyi áll: ,,Sunny", valószalószínűleg ez lehet a kanca neve.;1: Teszel egy kis kitérőt, és ott hagyod egy közeli városba;1;2: Úgy döntesz magaddal viszed;150
+9;1;399;A városban nehezen kezelik, hogy két ló van az úton. Sunny-t fellépteted a járdára, de eközben egy autó nekimegy Parázsnak, aki azonnal elesik. Az állatorvos szerencsére gyorsan kiér. A bal hátsó csánkja megzúzódott. Nehezen de fel tud állni, de az állatorvos szerint pár hét alatt rendbe jöhet. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+9;2;250;Egy vezetőszárat teszel Sunny-ra és tovább haladtok a tisztáson. Téged is meglep, hogy a kanca termetéhez viszonyítva milyen gyorsan tud haladni.;1: Úgy látod mindkét ló jó ütemben halad, tartod a gyors tempót;150;2: Belovagolsz a városba;1
+10;1;249;A városban nehezen kezelik, hogy két ló van az úton. Sunny-t fellépteted a járdára, de eközben egy autó nekimegy Parázsnak, aki azonnal elesik. Az állatorvos szerencsére gyorsan kiér. A jobb hátsó csánkja megzúzódott. Nehezen de fel tud állni, de az állatorvos szerint pár hét alatt rendbe jöhet. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+10;2;100;A két ló nagyon jól összeillik, jól müködnek együtt, energiát, kitartást adnak egymásnak.;1: Tartod a feszített tempót, bízva abban, hogy jól bírják;100;2: Megpróbálsz keresni egy rövidítő utat;1
+11;1;99;Fellovagolsz egy sziklás dombra, de Parázs megcsúszik és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+11;2;0;Kilovagolsz a fák közül, és megpillantod a célt. Parázs nyugodt vágtában átvágja a célvonalat, közvetlenül mögötte igyekszik Sunny is tartani a tempót. A kanca gazdája nem kerül elő, úgy döntesz magaddal viszed.;1;1;1;1
