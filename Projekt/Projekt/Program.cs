@@ -99,6 +99,26 @@ namespace Projekt
             }
             per.Close();
 
+            //Parázs - Hegység
+            //Nap;Verzió;Belép;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
+            StreamReader phe = new StreamReader("02.txt");
+            List<pas> ph = new List<pas>();
+            pas p2seged;
+            while (!phe.EndOfStream)
+            {
+                string[] d = phe.ReadLine().Split(';');
+                p2seged.nap = int.Parse(d[0]);
+                p2seged.verzio = int.Parse(d[1]);
+                p2seged.be = int.Parse(d[2]);
+                p2seged.szoveg = d[3];
+                p2seged.edontes = d[4];
+                p2seged.epont = int.Parse(d[5]);
+                p2seged.mdontes = d[6];
+                p2seged.mpont = int.Parse(d[7]);
+                ph.Add(p2seged);
+            }
+            phe.Close();
+
             //Sodashi - Sivatag
             //Nap;Verzió;Belép;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
             StreamReader ssi = new StreamReader("10.txt");
@@ -139,6 +159,26 @@ namespace Projekt
             }
             ser.Close();
 
+            //Sodashi - Hegység
+            //Nap;Verzió;Belép;Szöveg;Egyikdöntés;epont;Másikdöntés;mpont
+            StreamReader she = new StreamReader("12.txt");
+            List<pas> sh = new List<pas>();
+            pas s2seged;
+            while (!she.EndOfStream)
+            {
+                string[] d = she.ReadLine().Split(';');
+                s2seged.nap = int.Parse(d[0]);
+                s2seged.verzio = int.Parse(d[1]);
+                s2seged.be = int.Parse(d[2]);
+                s2seged.szoveg = d[3];
+                s2seged.edontes = d[4];
+                s2seged.epont = int.Parse(d[5]);
+                s2seged.mdontes = d[6];
+                s2seged.mpont = int.Parse(d[7]);
+                sh.Add(s2seged);
+            }
+            she.Close();
+
 
             string akarsz = "i";
             string mi = "";
@@ -150,16 +190,16 @@ namespace Projekt
                 Console.Clear();
                 do
                 {
-                    Console.WriteLine("Mivel szeretnél játszani?\n\t1: Távlovagló verseny\n\t");
+                    Console.WriteLine("Mivel szeretnél játszani?\n\t1: Távlovagló verseny szimulátor\n\t2: Rendőr szimulátor\n\t");
                     mi = Console.ReadLine();
-                } while (mi != "1");
+                } while (mi != "1" && mi != "2");
 
                 //Távlovaglás
                 if (mi == "1")
                 {
                     Console.Clear();
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Távlovagló verseny");
+                    Console.WriteLine("Távlovagló verseny szimulátor");
                     Console.ForegroundColor = ConsoleColor.White;
                     Console.WriteLine("A játék során a döntéseid befolyásolják a végkimenetelt. Megadott idő alatt kell teljesíteni a távot. Minden a játékban lezajló nap egy-egy döntési lehetőséget foglal magába. Ezek közül annak sorszámának beírásával lehet választani.");
 
@@ -851,7 +891,7 @@ namespace Projekt
                             }
 
                             //6. nap 1. verzió - vég - b
-                            if (tav == 669)
+                            if (tav == 699)
                             {
                                 Console.Clear();
                                 Console.ForegroundColor = ConsoleColor.Red;
@@ -1046,7 +1086,510 @@ namespace Projekt
                         if (palya == 2)
                         {
                             tav = palyak[palya].tav;
+                            //1. nap 1. verzió
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($"{ph[0].nap}. nap");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine($"A hátralévő távolság: {palyak[1].tav} km");
+                            Console.WriteLine($"{ph[0].szoveg}");
+                            Console.WriteLine($"{ph[0].edontes}");
+                            Console.WriteLine($"{ph[0].mdontes}");
+                            do
+                            {
+                                Console.Write("Add meg a döntésted sorszámát! ");
+                                mi = Console.ReadLine();
+                            } while (mi != "1" && mi != "2");
+                            if (mi == "1") tav = tav - ph[0].epont;
+                            if (mi == "2") tav = tav - ph[0].mpont;
 
+                            //2. nap 1. verzió
+                            if (tav == 760)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[1].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[1].szoveg}");
+                                Console.WriteLine($"{ph[1].edontes}");
+                                Console.WriteLine($"{ph[1].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[1].epont;
+                                if (mi == "2") tav = tav - ph[1].mpont;
+                            }
+
+                            //2. nap 2. verzió
+                            if (tav == 780)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[2].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[2].szoveg}");
+                                Console.WriteLine($"{ph[2].edontes}");
+                                Console.WriteLine($"{ph[2].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[2].epont;
+                                if (mi == "2") tav = tav - ph[2].mpont;
+                            }
+
+                            //3. nap 1. verzió
+                            if (tav == 655)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[3].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[3].szoveg}");
+                                Console.WriteLine($"{ph[3].edontes}");
+                                Console.WriteLine($"{ph[3].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[3].epont;
+                                if (mi == "2") tav = tav - ph[3].mpont;
+                            }
+
+                            //3. nap 2. verzió
+                            if (tav == 705)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[4].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[4].szoveg}");
+                                Console.WriteLine($"{ph[4].edontes}");
+                                Console.WriteLine($"{ph[4].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[4].epont;
+                                if (mi == "2") tav = tav - ph[4].mpont;
+                            }
+
+                            //3. nap 3. verzió
+                            if (tav == 685)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[5].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[5].szoveg}");
+                                Console.WriteLine($"{ph[5].edontes}");
+                                Console.WriteLine($"{ph[5].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[5].epont;
+                                if (mi == "2") tav = tav - ph[5].mpont;
+                            }
+
+                            //3. nap 4. verzió
+                            if (tav == 715)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[6].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[6].szoveg}");
+                                Console.WriteLine($"{ph[6].edontes}");
+                                Console.WriteLine($"{ph[6].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[6].epont;
+                                if (mi == "2") tav = tav - ph[6].mpont;
+                            }
+
+                            //4. nap 1. verzió
+                            if (tav == 560)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[7].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[7].szoveg}");
+                                Console.WriteLine($"{ph[7].edontes}");
+                                Console.WriteLine($"{ph[7].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[7].epont;
+                                if (mi == "2") tav = tav - ph[7].mpont;
+                            }
+
+                            //4. nap 2. verzió - vég - b
+                            if (tav == 654)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[8].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[8].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //4. nap 3. verzió
+                            if (tav == 605)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[9].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[9].szoveg}");
+                                Console.WriteLine($"{ph[9].edontes}");
+                                Console.WriteLine($"{ph[9].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[9].epont;
+                                if (mi == "2") tav = tav - ph[9].mpont;
+                            }
+
+                            //4. nap 4. verzió - vég - b
+                            if (tav == 704)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[10].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[10].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 1. verzió
+                            if (tav == 440)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[11].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[11].szoveg}");
+                                Console.WriteLine($"{ph[11].edontes}");
+                                Console.WriteLine($"{ph[11].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[11].epont;
+                                if (mi == "2") tav = tav - ph[11].mpont;
+                            }
+
+                            //5. nap 2. verzió - vég - b
+                            if (tav == 559)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[12].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[12].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 3. verzió - vég - b
+                            if (tav == 604)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[13].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[13].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 4. verzió
+                            if (tav == 490)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[14].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[14].szoveg}");
+                                Console.WriteLine($"{ph[14].edontes}");
+                                Console.WriteLine($"{ph[14].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[14].epont;
+                                if (mi == "2") tav = tav - ph[14].mpont;
+                            }
+
+                            //6. nap 1. verzió - vég - b
+                            if (tav == 439)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[15].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[15].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //6. nap 2. verzió
+                            if (tav == 320)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[16].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[16].szoveg}");
+                                Console.WriteLine($"{ph[16].edontes}");
+                                Console.WriteLine($"{ph[16].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[16].epont;
+                                if (mi == "2") tav = tav - ph[16].mpont;
+                            }
+
+                            //6. nap 3. verzió
+                            if (tav == 395)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[17].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[17].szoveg}");
+                                Console.WriteLine($"{ph[17].edontes}");
+                                Console.WriteLine($"{ph[17].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[17].epont;
+                                if (mi == "2") tav = tav - ph[17].mpont;
+                            }
+
+                            //6. nap 4. verzió - vég - b
+                            if (tav == 489)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[18].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[18].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 1. verzió - vég - b
+                            if (tav == 319)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[19].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[19].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 2. verzió
+                            if (tav == 225)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[20].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[20].szoveg}");
+                                Console.WriteLine($"{ph[20].edontes}");
+                                Console.WriteLine($"{ph[20].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[20].epont;
+                                if (mi == "2") tav = tav - ph[20].mpont;
+                            }
+
+                            //7. nap 3. verzió
+                            if (tav == 300)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[21].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[21].szoveg}");
+                                Console.WriteLine($"{ph[21].edontes}");
+                                Console.WriteLine($"{ph[21].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[21].epont;
+                                if (mi == "2") tav = tav - ph[21].mpont;
+                            }
+
+                            //7. nap 4. verzió - vég - b
+                            if (tav == 319)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[22].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[22].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //8. nap 1. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[23].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[23].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //8. nap 2. verzió
+                            if (tav == 75)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[24].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[24].szoveg}");
+                                Console.WriteLine($"{ph[24].edontes}");
+                                Console.WriteLine($"{ph[24].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[24].epont;
+                                if (mi == "2") tav = tav - ph[24].mpont;
+                            }
+
+                            //8. nap 3. verzió
+                            if (tav == 300)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[25].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{ph[25].szoveg}");
+                                Console.WriteLine($"{ph[25].edontes}");
+                                Console.WriteLine($"{ph[25].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - ph[25].epont;
+                                if (mi == "2") tav = tav - ph[25].mpont;
+                            }
+
+                            //8. nap 4. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[26].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[26].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 1. verzió - vég - ny
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[27].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[27].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Megnyerted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 2. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[28].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[28].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 3. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{ph[29].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{ph[29].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
                         }
                     }
 
@@ -2092,12 +2635,518 @@ namespace Projekt
                         if (palya == 2)
                         {
                             tav = palyak[palya].tav;
+                            //1. nap 1. verzió
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($"{sh[0].nap}. nap");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine($"A hátralévő távolság: {palyak[1].tav} km");
+                            Console.WriteLine($"{sh[0].szoveg}");
+                            Console.WriteLine($"{sh[0].edontes}");
+                            Console.WriteLine($"{sh[0].mdontes}");
+                            do
+                            {
+                                Console.Write("Add meg a döntésted sorszámát! ");
+                                mi = Console.ReadLine();
+                            } while (mi != "1" && mi != "2");
+                            if (mi == "1") tav = tav - sh[0].epont;
+                            if (mi == "2") tav = tav - sh[0].mpont;
 
+                            //2. nap 1. verzió
+                            if (tav == 760)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[1].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[1].szoveg}");
+                                Console.WriteLine($"{sh[1].edontes}");
+                                Console.WriteLine($"{sh[1].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[1].epont;
+                                if (mi == "2") tav = tav - sh[1].mpont;
+                            }
+
+                            //2. nap 2. verzió
+                            if (tav == 780)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[2].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[2].szoveg}");
+                                Console.WriteLine($"{sh[2].edontes}");
+                                Console.WriteLine($"{sh[2].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[2].epont;
+                                if (mi == "2") tav = tav - sh[2].mpont;
+                            }
+
+                            //3. nap 1. verzió
+                            if (tav == 655)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[3].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[3].szoveg}");
+                                Console.WriteLine($"{sh[3].edontes}");
+                                Console.WriteLine($"{sh[3].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[3].epont;
+                                if (mi == "2") tav = tav - sh[3].mpont;
+                            }
+
+                            //3. nap 2. verzió
+                            if (tav == 705)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[4].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[4].szoveg}");
+                                Console.WriteLine($"{sh[4].edontes}");
+                                Console.WriteLine($"{sh[4].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[4].epont;
+                                if (mi == "2") tav = tav - sh[4].mpont;
+                            }
+
+                            //3. nap 3. verzió
+                            if (tav == 685)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[5].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[5].szoveg}");
+                                Console.WriteLine($"{sh[5].edontes}");
+                                Console.WriteLine($"{sh[5].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[5].epont;
+                                if (mi == "2") tav = tav - sh[5].mpont;
+                            }
+
+                            //3. nap 4. verzió
+                            if (tav == 715)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[6].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[6].szoveg}");
+                                Console.WriteLine($"{sh[6].edontes}");
+                                Console.WriteLine($"{sh[6].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[6].epont;
+                                if (mi == "2") tav = tav - sh[6].mpont;
+                            }
+
+                            //4. nap 1. verzió
+                            if (tav == 560)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[7].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[7].szoveg}");
+                                Console.WriteLine($"{sh[7].edontes}");
+                                Console.WriteLine($"{sh[7].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[7].epont;
+                                if (mi == "2") tav = tav - sh[7].mpont;
+                            }
+
+                            //4. nap 2. verzió - vég - b
+                            if (tav == 654)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[8].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[8].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //4. nap 3. verzió
+                            if (tav == 605)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[9].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[9].szoveg}");
+                                Console.WriteLine($"{sh[9].edontes}");
+                                Console.WriteLine($"{sh[9].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[9].epont;
+                                if (mi == "2") tav = tav - sh[9].mpont;
+                            }
+
+                            //4. nap 4. verzió - vég - b
+                            if (tav == 704)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[10].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[10].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 1. verzió
+                            if (tav == 440)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[11].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[11].szoveg}");
+                                Console.WriteLine($"{sh[11].edontes}");
+                                Console.WriteLine($"{sh[11].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[11].epont;
+                                if (mi == "2") tav = tav - sh[11].mpont;
+                            }
+
+                            //5. nap 2. verzió - vég - b
+                            if (tav == 559)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[12].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[12].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 3. verzió - vég - b
+                            if (tav == 604)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[13].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[13].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //5. nap 4. verzió
+                            if (tav == 490)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[14].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[14].szoveg}");
+                                Console.WriteLine($"{sh[14].edontes}");
+                                Console.WriteLine($"{sh[14].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[14].epont;
+                                if (mi == "2") tav = tav - sh[14].mpont;
+                            }
+
+                            //6. nap 1. verzió - vég - b
+                            if (tav == 439)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[15].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[15].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //6. nap 2. verzió
+                            if (tav == 320)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[16].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[16].szoveg}");
+                                Console.WriteLine($"{sh[16].edontes}");
+                                Console.WriteLine($"{sh[16].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[16].epont;
+                                if (mi == "2") tav = tav - sh[16].mpont;
+                            }
+
+                            //6. nap 3. verzió
+                            if (tav == 395)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[17].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[17].szoveg}");
+                                Console.WriteLine($"{sh[17].edontes}");
+                                Console.WriteLine($"{sh[17].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[17].epont;
+                                if (mi == "2") tav = tav - sh[17].mpont;
+                            }
+
+                            //6. nap 4. verzió - vég - b
+                            if (tav == 489)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[18].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[18].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 1. verzió - vég - b
+                            if (tav == 319)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[19].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[19].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //7. nap 2. verzió
+                            if (tav == 225)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[20].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[20].szoveg}");
+                                Console.WriteLine($"{sh[20].edontes}");
+                                Console.WriteLine($"{sh[20].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[20].epont;
+                                if (mi == "2") tav = tav - sh[20].mpont;
+                            }
+
+                            //7. nap 3. verzió
+                            if (tav == 300)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[21].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[21].szoveg}");
+                                Console.WriteLine($"{sh[21].edontes}");
+                                Console.WriteLine($"{sh[21].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[21].epont;
+                                if (mi == "2") tav = tav - sh[21].mpont;
+                            }
+
+                            //7. nap 4. verzió - vég - b
+                            if (tav == 319)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[22].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[22].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //8. nap 1. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[23].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[23].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //8. nap 2. verzió
+                            if (tav == 75)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[24].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[24].szoveg}");
+                                Console.WriteLine($"{sh[24].edontes}");
+                                Console.WriteLine($"{sh[24].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[24].epont;
+                                if (mi == "2") tav = tav - sh[24].mpont;
+                            }
+
+                            //8. nap 3. verzió
+                            if (tav == 300)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[25].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"A hátralévő távolság: {tav} km");
+                                Console.WriteLine($"{sh[25].szoveg}");
+                                Console.WriteLine($"{sh[25].edontes}");
+                                Console.WriteLine($"{sh[25].mdontes}");
+                                do
+                                {
+                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                if (mi == "1") tav = tav - sh[25].epont;
+                                if (mi == "2") tav = tav - sh[25].mpont;
+                            }
+
+                            //8. nap 4. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[26].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[26].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 1. verzió - vég - ny
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[27].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[27].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Megnyerted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 2. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[28].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[28].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+
+                            //9. nap 3. verzió - vég - b
+                            if (tav == 224)
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine($"{sh[29].nap}. nap");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine($"{sh[29].szoveg}");
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("Elvesztetted a versenyt.");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
                         }
                     }
                 }
-                //Következő helye
+                //Rendőrség
+                if (mi == "2")
+                {
 
+                }
 
 
 

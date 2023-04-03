@@ -1,67 +1,30 @@
-1;1;855;;1: ;95;2: ;75
-
-
-2;1;760;;1: ;105;2: ;55
-
-2;2;780;;1: ;95;2: ;65
-
-
-3;1;655;;1: ;95;2: ;1
-
-3;2;705;;1: ;1;2: ;100
-
-3;3;685;;1: ;125;2: ;31
-
-3;4;715;;1: ;11;2: ;110
-
-
-4;1;560;;1: ;120;2: ;1
-
-4;2;654;;1;1;1;1
-
-4;3;605;;1: ;1;2: ;115
-
-4;4;704;;1;1;1;1
-
-
-5;1;440;;1: ;1;2: ;120
-
-5;2;559;;1;1;1;1
-
-5;3;604;;1;1;1;1
-
-5;4;490;;1: ;95;2: ;1
-
-
-6;1;439;;1;1;1;1
-
-6;2;320;;1: ;1;2: ;95
-
-6;3;395;;1: ;95;2: ;1
-
-6;4;489;;1;1;1;1
-
-
-7;1;319;;1;1;1;1
-
-7;2;225;;1: ;1;2: ;150
-
-7;3;300;;1: ;160;2: ;1
-
-7;4;394;;1;1;1;1
-
-
-8;1;224;;1;1;1;1
-
-8;2;75;;1: ;75;2: ;1
-
-8;3;140;;1: ;1;2: ;140
-
-8;4;299;;1;1;1;1
-
-
-9;1;0;
-
-9;2;74;
-
-9;3;139;
+1;1;855;Gyönyörűen süt a nap aznap reggel mikor a verseny résztvevői a hegy lábához sorakoznak. Lovad nem tud elég gyorsan rajtolni, ezért leszakadsz az élbojtól. Egy jó ideig haladsz előre a megfelelő irányba, de a nap kezd lemenni...;1: Folytatod az utat hegyre;95;2: Megállsz pihenni;75
+2;1;760;Egész éjjel haladtatok a hegygerincen. Lovad viszont egyre fáradtabb.;1: Tartod a tempót, hogy le ne maradjatok;105;2: Lasítasz, hogy tudjatok pihenni;55
+2;2;780;Kellően ki tudtátok pihenni magatokat, hogy újra útnak induljatok. Lemaradásban vagytok, azért hogy ezen változtass...;1: Nyugodt vágtában haladsz a cél felé;95;2: Gyosítasz;65
+3;1;655;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs ezzel szemben egyre fáradtabb.;1: Lassítasz, mivel tekinettel vagy a lovad állapotára;95;2: Gyorsítasz mivel így még akár rekordot is dönthetsz;1
+3;2;705;Kellően ki tudtátok pihenni magatokat, hogy újra útnak induljatok. Lemaradásban vagytok, azért hogy ezen változtass...;1: Gyosítasz;1;2: Nyugodt vágtában haladsz a cél felé;100
+3;3;685;Fellovagolsz egy magaslatra, hiszen ez a lehető legrövidebb út.;1: Nyugodt tempóban haldsz tovább;125;2: Gyorsítasz, hogy felzárkózhass;31
+3;4;715;Nagyon jó ütemben haladtok, ha ebben a tempóban haladok időben a célba fogtok érni. Parázs nagyon jó lendületben van, alig tudod visszafogni.;1: Lassítasz;11;2: ;110
+4;1;560;Parázs nyugodt tempóban ügetett végig a sziklafalon. A mén szőrén metörik a felkelő nap fénye. Az eső hatalmas cseppekben kezd szakadni az égből. Ahogy az követ eláznak egyre csúszósabbak.;1: Lassítasz;120;2: Tovább vágtatsz mivel így is nagy lemaradásban vagy;1
+4;2;654;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+4;3;605;Meg kell próbálnod minél nagyobb sebességet elérni.;1: Fent maradsz a sziklák közt;1;2: Lelovagolsz a völgybe;115
+4;4;704;Megpróbálsz lassítani, de Parázs megugrik, kiránja a kezedből a gyeplőt, ami a lábára tekeredik, majd elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;1;440;Óvatosan haladsz a vizes sziklákon. Ahogy az eső kezd elállni, kitisztul az ég. Meghallasz egy kétségbeesett nyerítést.;1: Figyelem kívül hagyod, és begyorsítasz;1;2: Megkeresed a hang forrását;120
+5;2;559;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;3;604;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+5;4;490;Parázs nyugodt tempóban ügetett végig a sziklafalon. A mén szőrén metörik a felkelő nap fénye. Az eső hatalmas cseppekben kezd szakadni az égből. Ahogy az követ eláznak egyre csúszósabbak.;1: Lassítasz;95;2: Tovább vágtatsz mivel így is nagy lemaradásban vagy;1
+6;1;439;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+6;2;320;Megtalálod a hang forrását. Egy magas blue roan tobiano marwari kanca. A jobb mellső lába beszorult két szikla közé. A hátán egy fekete ugró nyereg, és egy nyereg formájú kék alátét. A fején a dupla szárak hakamore alatt fent maradt egy kék kötőfék is. ;1: Figyelmen kívül hagyod mivel csak hátráltatna;1;2: Odamész hozzá, segíteni neki;95
+6;3;395;Óvatosan haladsz a vizes sziklákon. Ahogy az eső kezd elállni, kitisztul az ég. Meghallasz egy kétségbeesett nyerítést.;1: Megkeresed a hang forrását;95;2: Figyelem kívül hagyod, és begyorsítasz;1
+6;4;489;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+7;1;319;Ahogy elhaladsz a kanca mellett Parázs hirtelen felágaskodik, de rosszul érkezik visza a földre, és elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+7;2;225;A kanca meglehetősen nyugtalan, de a te nyugodtságod  jó hatással van rá. Óvatosan kiszabadítod a lábát, leápolod a sebét. A kötőfékén annyi áll: ,,Moon", valószalószínűleg ez lehet a kanca neve.;1: Teszel egy kis kitérőt, és ott hagyod egy közeli városba;1;2: Úgy döntesz magaddal viszed;150
+7;3;300;Megtalálod a hang forrását. Egy magas blue roan tobiano marwari kanca. a jobb mellső lába beszorult két szikla közé. A hátán egy fekete ugró nyereg, és egy nyereg formájú kék alátét. A fején a dupla szárak hakamore alatt fent maradt egy kék kötőfék is.;1: Figyelmen kívül hagyod mivel csak hátráltatna;160;2: Odamész hozzá, segíteni neki;1
+7;4;394;Parázs patája megcsúszik a hegygerincen, teljesen elveszíted az irányítást. Lovad eleik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+8;1;224;A városban nehezen kezelik, hogy két ló van az úton. Moon-t fellépteted a járdára, de eközben egy autó nekimegy Parázsnak, aki azonnal elesik. Az állatorvos szerencsére gyorsan kiér. A bal hátsó csánkja megzúzódott. Nehezen de fel tud állni, de az állatorvos szerint pár hét alatt rendbe jöhet. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+8;2;75;A két ló nagyon jól összeillik, jól müködnek együtt, energiát, kitartást adnak egymásnak.;1: Tartod a feszített tempót, bízva abban, hogy jól bírják;75;2: Megpróbálsz keresni egy rövidítő utat;1
+8;3;140;A kanca meglehetősen nyugtalan, de a te nyugodtságod  jó hatással van rá. Óvatosan kiszabadítod a lábát, leápolod a sebét. A kötőfékén annyi áll: ,,Moon", valószalószínűleg ez lehet a kanca neve.;1: Teszel egy kis kitérőt, és ott hagyod egy közeli városba;1;2: Úgy döntesz magaddal viszed;140
+8;4;299;Ahogy elhaladsz a kanca mellett Parázs hirtelen felágaskodik, de rosszul érkezik visza a földre, és elesik. Valószínűleg megrándult a bal mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+9;1;0;Kilovagolsz a sziklák közül, és megpillantod a célt. Parázs nyugodt vágtában átvágja a célvonalat, közvetlenül mögötte igyekszik Moon is tartani a tempót. A kanca gazdája nem kerül elő, úgy döntesz magaddal viszed.;1;1;1;1
+9;2;74;Fellovagolsz egy sziklás dombra, de Parázs megcsúszik és elesik. Valószínűleg megrándult a jobb mellső lába. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
+9;3;139;A városban nehezen kezelik, hogy két ló van az úton. Moon-t fellépteted a járdára, de eközben egy autó nekimegy Parázsnak, aki azonnal elesik. Az állatorvos szerencsére gyorsan kiér. A bal hátsó csánkja megzúzódott. Nehezen de fel tud állni, de az állatorvos szerint pár hét alatt rendbe jöhet. Úgy döntesz, nem folytatod tovább a versenyt, hiszen azzal kockáztatnád a lovad életét.;1;1;1;1
