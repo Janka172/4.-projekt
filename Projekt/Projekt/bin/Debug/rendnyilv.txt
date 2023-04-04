@@ -1,1 +1,15 @@
-Rendszám;Tulaj
+GIZ-906;Halász Ákos
+UED-061;Nagy Klára
+YGN-392;Király Zita
+NLE-508;Kis Ferenc
+NEW-099;Nagy Klára
+JZI-879;Tóth Márton
+AAA-111;Illés Csenge
+KZD-891;Papp Andrea
+PAR-473;Bogdán Ramóna
+NGY-531;Lengyel Attila
+KZD-948;Katona Ernő
+KNH-815;Bogdán Ramóna
+KIS-002;Kis Ferenc
+SIK-325;Balla Zsolt
+MOS-917;Halász Ákos

@@ -1,0 +1,10 @@
+0;Kiérkezel a ház elé, ahhonan a bejenetés érkezett. Az épület előt egy középkorú nő, és egy szintén abban a korban lévő férfi állt. Láthatóan zaklatottak. Bizonyára az érintett szülei lesznek.
+1;1: Meghallgatod a szülők vallomását
+2;2: Bemész a házba
+3;A múlt pénteken nálunk ebédelt a lányuk. Kicsit furcsán viselkedett, de nem kérdeztünk tőle sokat, mivel éppen egy szakításon ment keresztül, betudtuk annak. Már hetek óta próbál újra nyitni a volt párja fejé, aki mindig nagyon bunkón küldi őt el. Említette, hogy elmegy vele vacsorázni, és megpróbáják megbeszélni a problémáikat. A férfi neve Kovács Ádám, és a helyi vágóhídon dolgozik.
+4;Bemész a házba. Az összes lámpa alszik. Felkapcsolod a lámpát a nappaliban. A helyszínen dulakodás nyomai. A hálószobából a páros lepedőkészletből az egyik hiányik. A matracon pedig egy vérfolt található, amiből mintát is veszel.
+5;A szülők elmondása alapján megvan az első számú gyanúsított.
+6;1: Elmész a gyanúsított lakására
+7;2: Elmész a gyanúsított munkahelyére, a váóhídra
+8;Ahogy megállsz a rendőrautóval a gyanúsított háza elő, hirtelen lekapcsolódik a lámpa. Késő tavasz van, de füstöl a kémény. Figyelsz egy darabig, de nincsen mozgás. Megközelíted az épületet, ahogy bekopog elfordul a kulcs a zárban. Te gyorsan kacsolsz, és rátöröd az ajtót, de a gyanúsított ekkor már a hátsó kijárat fele fut. A kollegáid szerencsére az első egy-két méteren utolérik és elfogják. Ahogy belépsz a házba egy hihetetlen erős szagra leszel figyelmes. Felkapcsolod a lámpát. Megpillantod annak a lepedőszettnek a részét, ami az eltűnt nő lakássából hiányzott. A tüzet sikerül minél hamarabb eloltani. A tűzben megtalálod a nő ruháinak darabjait, valamint az jobb karját. Ahogy tobb ktatsz megtalálod a jobb lábát az ágy alatt, ilettve a ballt a szekrényben egy-egy szemetes-zsákba csomagolva. Megpillantod, hogy megy a sütő, lekapcsolod a nagy pros lábast a tűzről. Ahogy leveszed a fedőt, megtalálod az eltűnt nő fejét.
+9;Még aznap sikerül beazonosítani a megtalált maradványokat. A nő teste valószínűleg péntek óta lehetett az elkövető lakásában, viszont a halál pontos okát nem lehetett megállapítani.

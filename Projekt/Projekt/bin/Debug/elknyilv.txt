@@ -1,1 +1,16 @@
-Név;Bűncselekmény;Időpont(év/hónap/nap)
+Kis Ferenc;Autólopás;2022/02/01
+Kovács Gábor;Bolti lopás;2022/03/04
+Nagy Klára;Emberrablás;2022/04/21
+Lakatos Péter;Gyilkosság;2022/05/26
+Kovács Ádám;Gyilkosság;2022/06/12
+Király Zita;Betörés;2022/07/15
+Illés Csenge;Gyilkosság;2022/08/19
+Papp Andrea;Autólopás;2022/09/05
+Tóth Márton;Állatkínzás;2022/10/21
+Bogdán Ramóna;Emberrablás;2022/11/11
+Jakab Olivér;Bolti lopás;2022/12/09
+Katona Ernő;Kiskorú zaklatása;2023/01/17
+Balla Zsolt;Állatkínzás;2023/02/12
+Halász Ákos;Gyilkosság;2023/03/10
+Lengyel Attila;Emberrablás;2023/04/16Kovács Adám;Gyilkosság;2023/04/04
+Kovács Adám;Gyilkosság;2023/04/04

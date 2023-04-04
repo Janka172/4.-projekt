@@ -37,6 +37,11 @@ namespace Projekt
             public string rendszam, tulaj;
         }
 
+        struct ns
+        {
+            public int index;
+            public string szoveg;
+        }
         static void Main(string[] args)
         {
             //Lovak
@@ -191,7 +196,6 @@ namespace Projekt
 
             //Elkövető nyilvántartás
             //Név;Bűncselekmény;Időpont(év/hónap/nap)
-            //FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
             StreamReader sr2 = new StreamReader("elknyilv.txt");
             List<elk> elkovetok = new List<elk>();
             elk eseged;
@@ -203,7 +207,7 @@ namespace Projekt
                 eseged.ido = d[2];
                 elkovetok.Add(eseged);
             }
-            sr.Close();
+            sr2.Close();
 
             //Rendszám nyilvántartás
             //Rendszám, Tulaj
@@ -211,25 +215,46 @@ namespace Projekt
             StreamReader sr3 = new StreamReader("rendnyilv.txt");
             List<rend> rendszamok = new List<rend>();
             rend rseged;
-            while (!sr2.EndOfStream)
+            while (!sr3.EndOfStream)
             {
-                string[] d = sr2.ReadLine().Split(';');
+                string[] d = sr3.ReadLine().Split(';');
                 rseged.rendszam = d[0];
                 rseged.tulaj = d[1];
                 rendszamok.Add(rseged);
             }
             sr3.Close();
 
+            //Nyomozás story
+            //Index,Szöveg
+            StreamReader sr4 = new StreamReader("1eset.txt");
+            List<ns> elsoeset = new List<ns>();
+            ns nsseged;
+            while (!sr4.EndOfStream)
+            {
+                string[] d = sr4.ReadLine().Split(';');
+                nsseged.index = int.Parse(d[0]);
+                nsseged.szoveg = d[1];
+                elsoeset.Add(nsseged);
+            }
+
             string akarsz = "i";
             string mi = "";
             int lo;
             int palya;
             int tav;
+            int volt;
             List<string> nyomok = new List<string>();
             string egyeset = "Esetszám: 1\nTípus: Bejentés\nÜzenet: Már két napja nem láttuk a lányunkat, nem nyit ajtót, nem veszi fel a telefont. A háza zárva, és két napja nem volt ott mozgás. Segítségre lenne szükségünk!";
+            string kettoeset = "Esetszám: 2\nTípus: Bejentés\nÜzenet: a szomszéd telken gyakran hallottunk furcsa hangokat, nyerítésre hasonlítottak. A múlt hét elején valami nagyon hangos zajra lettünk figyelmesek az éjjel. Az óta se tudunk semmit az esetről, de aggódunk hogy valakinek baja esett. Segítségre lenne szükségünk!";
+            string haromeset = "Esetszám: 3\nTípus: Bejentés\nÜzenet: A múlt éjjel egy furcsa hangra lettünk figyelmesek a szomszéd lakásból. A folyosón dulakodás nyomait találtunk. A lakó azt mondta részeg volt, és elesett, de nem hiszünk neki, félünk hogy valakinek baja eshetett. Segítségre lenne szükségünk!";
+            string negyeset = "Esetszám: 4\nTípus: Bejentés\nÜzenet: Ma reggel a 12 éves lányunk egyedül ment az iskolába. tanárai jelezték, hogy nem ért be óráira, a barátai nem tudnak róla semmit. A telfont sem veszi fel, kincsöng,de nincs reakció, de volt olyan is a közel 50 hívásból, hogy valaki kinyomta. Ez nem jellemző rá. Segítségre lenne szükségünk!";
             List<string> esetek = new List<string>();
             bool elsonap = true;
             esetek.Add(egyeset);
+            esetek.Add(kettoeset);
+            esetek.Add(haromeset);
+            esetek.Add(negyeset);
+
             while (akarsz == "i")
             {
                 Console.Clear();
@@ -3190,53 +3215,181 @@ namespace Projekt
                 //Rendőrség
                 if (mi == "2")
                 {
-                    nyomok.Clear();
-                    Console.Clear();
-                    Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("Rendőr szimulátor");
-                    Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine("A játék során több különböző bűntény után tudsz nyomozni, illetve elkövetőket elfogni. A döntéseid befolyásolják ezek sikerességét. Ha döntési lehetőség elé kerülsz, és nincsen egyéb instrukció, a döntésed sorszámával tudod azt végrehajtani.\nAmennyiben elfogadtad a játék szamályzatot, nyomd meg az ENTER-t.");
-                    do
+                    while(akarsz=="i")
                     {
-                        mi = Console.ReadLine();
-                    } while (mi != "");
-                    Console.Clear();
-                    if (elsonap)
-                    {
-                        Console.WriteLine("Mint egy átlag hétfő reggelen ma is szolgálatba állsz.\nMegnyitod az estek listáját.");
-                        elsonap = false;
-                    }
-                    else
-                    {
-                        Console.WriteLine("Megnyitod az estek listáját.");
+                        volt = 0;
+                        nyomok.Clear();
+                        Console.Clear();
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("Rendőr szimulátor");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine("A játék során több különböző bűntény után tudsz nyomozni, illetve elkövetőket elfogni. A döntéseid befolyásolják ezek sikerességét. Ha döntési lehetőség elé kerülsz, és nincsen egyéb instrukció, a döntésed sorszámával tudod azt végrehajtani.\nAmennyiben elfogadtad a játék szamályzatot, nyomd meg az ENTER-t.");
+                        do
+                        {
+                            mi = Console.ReadLine();
+                        } while (mi != "");
+                        Console.Clear();
+                        if (elsonap)
+                        {
+                            Console.WriteLine("Mint egy átlag hétfő reggelen ma is szolgálatba állsz.\nMegnyitod az estek listáját.");
+                            elsonap = false;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Megnyitod az estek listáját.");
+                        }
+
+                        foreach (var igen in esetek)
+                        {
+                            if (igen != "")
+                            {
+                                Console.ForegroundColor = ConsoleColor.Blue;
+                                Console.WriteLine("-------------------------");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(igen);
+                                Console.ForegroundColor = ConsoleColor.Blue;
+                                Console.WriteLine("-------------------------");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+                        }
+                        do
+                        {
+                            Console.Write("Add meg az általad vélasztott eset esetszámát! ");
+                            mi = Console.ReadLine();
+                        } while (mi != "1" && mi != "2" && mi != "3" && mi != "4");
+
+                        //1. eset - Gyilkosság
+                        if (mi == "1")
+                        {
+                            volt++;
+                            Console.Clear();
+                            Console.WriteLine(elsoeset[0].szoveg);
+                            Console.WriteLine(elsoeset[1].szoveg);
+                            Console.WriteLine(elsoeset[2].szoveg);
+                            do
+                            {
+                                Console.Write("Választásod sorszáma: ");
+                                mi = Console.ReadLine();
+                            } while (mi != "1" && mi != "2");
+
+                            //Vallomások
+                            if (mi == "1")
+                            {
+                                Console.Clear();
+                                Console.WriteLine($"A szülők vallomása:\n\t{elsoeset[3].szoveg}");
+                                nyomok.Add("Kovács Ádám");
+                                nyomok.Add("Vágóhíd");
+                                Console.WriteLine(elsoeset[4].szoveg);
+                                Console.WriteLine(elsoeset[5].szoveg);
+                                Console.WriteLine(elsoeset[6].szoveg);
+                                Console.WriteLine(elsoeset[7].szoveg);
+
+                                do
+                                {
+                                    Console.Write("Választásod sorszáma: ");
+                                    mi = Console.ReadLine();
+                                } while (mi != "1" && mi != "2");
+                                Console.Clear();
+
+                                //Lakás
+                                if (mi == "1")
+                                {
+                                    Console.WriteLine(elsoeset[8].szoveg);
+                                    Console.WriteLine("\n"+elsoeset[9].szoveg);
+                                    FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                    StreamWriter sw = new StreamWriter(fselknyilv);
+                                    Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                    do
+                                    {
+                                        Console.Write("Elkövető neve: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.nev = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.tett = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény elküvetésének dátuma [év/hónap/nap]: ");
+                                        mi = Console.ReadLine();
+                                    } while (!mi.Contains("/"));
+                                    eseged.ido = mi;
+
+                                    sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                    sw.Close();
+                                    fselknyilv.Close();
+                                }
+
+                                //Munkahely
+                                if (mi == "2")
+                                {
+
+                                }
+                            }
+
+                            //Behatolás
+                            if (mi == "2")
+                            {
+
+                            }
+
+
+
+
+
+
+
+
+                            esetek[0] = "";
+                        }
+
+                        //2. eset - Állatkínzás
+                        if (mi == "2")
+                        {
+                            volt++;
+                            Console.Clear();
+
+                            esetek[1] = "";
+                        }
+
+                        //3. eset - Gyilkosság
+                        if (mi == "3")
+                        {
+                            volt++;
+                            Console.Clear();
+
+                            esetek[2] = "";
+                        }
+
+                        //4. eset - Emberrablás
+                        if (mi == "4")
+                        {
+                            volt++;
+                            Console.Clear();
+
+                            esetek[3] = "";
+                        }
+
+                        Console.Clear();
+                        if (volt != 4)
+                        {
+                            do
+                            {
+                                Console.Write("Akarsz további rendőrségi munkákat végezni? [i/n] ");
+                                akarsz = Console.ReadLine();
+                            } while (akarsz != "i" && akarsz != "n");
+                        }
+                        if (volt == 4) akarsz = "n";
+                        
                     }
                     
-                    foreach (var igen in esetek)
-                    {
-                        Console.ForegroundColor = ConsoleColor.Blue;
-                        Console.WriteLine("-------------------------");
-                        Console.ForegroundColor = ConsoleColor.White;
-                        Console.WriteLine(igen);
-                        Console.ForegroundColor = ConsoleColor.Blue;
-                        Console.WriteLine("-------------------------");
-                        Console.ForegroundColor = ConsoleColor.White;
-                    }
-
-
-
-
-
-
-
-
-
-
-
-
-
                 }
-
-
 
 
 
