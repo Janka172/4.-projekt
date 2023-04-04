@@ -27,6 +27,16 @@ namespace Projekt
             public string szoveg, edontes, mdontes;
         }
 
+        struct elk
+        {
+            public string nev, tett, ido;
+        }
+
+        struct rend
+        {
+            public string rendszam, tulaj;
+        }
+
         static void Main(string[] args)
         {
             //Lovak
@@ -179,12 +189,47 @@ namespace Projekt
             }
             she.Close();
 
+            //Elkövető nyilvántartás
+            //Név;Bűncselekmény;Időpont(év/hónap/nap)
+            //FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+            StreamReader sr2 = new StreamReader("elknyilv.txt");
+            List<elk> elkovetok = new List<elk>();
+            elk eseged;
+            while (!sr2.EndOfStream)
+            {
+                string[] d = sr2.ReadLine().Split(';');
+                eseged.nev = d[0];
+                eseged.tett = d[1];
+                eseged.ido = d[2];
+                elkovetok.Add(eseged);
+            }
+            sr.Close();
+
+            //Rendszám nyilvántartás
+            //Rendszám, Tulaj
+            //FileStream fsrsznyilv = new FileStream("rendnyilv.txt", FileMode.Append);
+            StreamReader sr3 = new StreamReader("rendnyilv.txt");
+            List<rend> rendszamok = new List<rend>();
+            rend rseged;
+            while (!sr2.EndOfStream)
+            {
+                string[] d = sr2.ReadLine().Split(';');
+                rseged.rendszam = d[0];
+                rseged.tulaj = d[1];
+                rendszamok.Add(rseged);
+            }
+            sr3.Close();
 
             string akarsz = "i";
             string mi = "";
             int lo;
             int palya;
             int tav;
+            List<string> nyomok = new List<string>();
+            string egyeset = "Esetszám: 1\nTípus: Bejentés\nÜzenet: Már két napja nem láttuk a lányunkat, nem nyit ajtót, nem veszi fel a telefont. A háza zárva, és két napja nem volt ott mozgás. Segítségre lenne szükségünk!";
+            List<string> esetek = new List<string>();
+            bool elsonap = true;
+            esetek.Add(egyeset);
             while (akarsz == "i")
             {
                 Console.Clear();
@@ -3145,6 +3190,49 @@ namespace Projekt
                 //Rendőrség
                 if (mi == "2")
                 {
+                    nyomok.Clear();
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Rendőr szimulátor");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("A játék során több különböző bűntény után tudsz nyomozni, illetve elkövetőket elfogni. A döntéseid befolyásolják ezek sikerességét. Ha döntési lehetőség elé kerülsz, és nincsen egyéb instrukció, a döntésed sorszámával tudod azt végrehajtani.\nAmennyiben elfogadtad a játék szamályzatot, nyomd meg az ENTER-t.");
+                    do
+                    {
+                        mi = Console.ReadLine();
+                    } while (mi != "");
+                    Console.Clear();
+                    if (elsonap)
+                    {
+                        Console.WriteLine("Mint egy átlag hétfő reggelen ma is szolgálatba állsz.\nMegnyitod az estek listáját.");
+                        elsonap = false;
+                    }
+                    else
+                    {
+                        Console.WriteLine("Megnyitod az estek listáját.");
+                    }
+                    
+                    foreach (var igen in esetek)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine("-------------------------");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine(igen);
+                        Console.ForegroundColor = ConsoleColor.Blue;
+                        Console.WriteLine("-------------------------");
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
 
                 }
 

@@ -1,1 +1,1 @@
-Név;Bűncselekmény;Időpont
+Név;Bűncselekmény;Időpont(év/hónap/nap)
