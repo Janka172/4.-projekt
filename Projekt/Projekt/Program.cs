@@ -236,6 +236,26 @@ namespace Projekt
                 nsseged.szoveg = d[1];
                 elsoeset.Add(nsseged);
             }
+            sr4.Close();
+
+            //Jurassic Park 4
+            StreamReader sr5 = new StreamReader("jp1.txt");
+            List<string> jphatter = new List<string>();
+            string jphseged;
+            while (!sr5.EndOfStream)
+            {
+                jphatter.Add(sr5.ReadLine());
+            }
+            sr5.Close();
+
+            StreamReader sr6 = new StreamReader("jp2.txt");
+            List<string> jpkar = new List<string>();
+            string jpkseged;
+            while (!sr6.EndOfStream)
+            {
+                jpkar.Add(sr6.ReadLine());
+            }
+            sr6.Close();
 
             string akarsz = "i";
             string mi = "";
@@ -243,6 +263,7 @@ namespace Projekt
             int palya;
             int tav;
             int volt;
+            bool nemm = false;
             string egyeset = "Esetszám: 1\nTípus: Bejentés\nÜzenet: Már két napja nem láttuk a lányunkat, nem nyit ajtót, nem veszi fel a telefont. A háza zárva, és két napja nem volt ott mozgás. Segítségre lenne szükségünk!";
             string kettoeset = "Esetszám: 2\nTípus: Bejentés\nÜzenet: a szomszéd telken gyakran hallottunk furcsa hangokat, nyerítésre hasonlítottak. A múlt hét elején valami nagyon hangos zajra lettünk figyelmesek az éjjel. Az óta se tudunk semmit az esetről, de aggódunk hogy valakinek baja esett. Segítségre lenne szükségünk!";
             string haromeset = "Esetszám: 3\nTípus: Bejentés\nÜzenet: A múlt éjjel egy furcsa hangra lettünk figyelmesek a szomszéd lakásból. A folyosón dulakodás nyomait találtunk. A lakó azt mondta részeg volt, és elesett, de nem hiszünk neki, félünk hogy valakinek baja eshetett. Segítségre lenne szükségünk!";
@@ -259,13 +280,14 @@ namespace Projekt
                 Console.Clear();
                 do
                 {
-                    Console.WriteLine("Mivel szeretnél játszani?\n\t1: Távlovagló verseny szimulátor\n\t2: Rendőr szimulátor\n\t");
+                    Console.WriteLine("Mivel szeretnél játszani?\n\t1: Távlovagló verseny szimulátor\n\t2: Rendőr szimulátor\n\t3: Jurassic park IV.\n\t");
                     mi = Console.ReadLine();
-                } while (mi != "1" && mi != "2");
+                } while (mi != "1" && mi != "2" && mi != "3");
 
                 //Távlovaglás
                 if (mi == "1")
                 {
+                    nemm = true;
                     Console.Clear();
                     Console.ForegroundColor = ConsoleColor.Red;
                     Console.WriteLine("Távlovagló verseny szimulátor");
@@ -3210,10 +3232,13 @@ namespace Projekt
                             }
                         }
                     }
+                    break;
                 }
+                
                 //Rendőrség
-                if (mi == "2")
+                if (mi == "2" && !nemm)
                 {
+                    nemm = true;
                     while(akarsz=="i")
                     {
                         volt = 0;
@@ -3225,6 +3250,7 @@ namespace Projekt
                         do
                         {
                             mi = Console.ReadLine();
+                            if (mi != "") Console.WriteLine("Nem ez az ENTER!");
                         } while (mi != "");
                         Console.Clear();
                         if (elsonap)
@@ -3478,9 +3504,84 @@ namespace Projekt
                         if (volt == 4) akarsz = "n";
                         
                     }
-                    
+                    break;
                 }
+                
+                //Jurassic park IV.
+                if (mi == "3" && !nemm)
+                {
+                    nemm = true;
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Jurassic park IV.");
+                    Console.ForegroundColor = ConsoleColor.White;
+                    Console.WriteLine("A játék során több különböző szemszögből élheted át a történet bonyodalmait. Minden a játékban lezajló nap egy-egy döntési lehetőséget foglal magába. Ezek közül annak sorszámának beírásával lehet választani. A cél a Park elhagyása.");
+                    Console.WriteLine("A leírás elolvasását az ENTER lenyomásával jelezd!");
+                    do
+                    {
+                        mi = Console.ReadLine();
+                        if (mi != "") Console.WriteLine("Nem ez az ENTER!");
+                    } while (mi != "");
+                    Console.Clear();
+                    Console.WriteLine("Előszőr válaszd ki, melyik karakterrel szeretnél játszani!");
+                    for (int igen = 0; igen < 3; igen++)
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        Console.WriteLine("-------------------------");
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine($"{igen+1}: {jpkar[igen]}");
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        if (igen == 2)
+                        {
+                            Console.WriteLine("-------------------------");
+                        }
+                        Console.ForegroundColor = ConsoleColor.White;
+                    }
+                    do
+                    {
+                        Console.Write("Add meg az általad választott karakter sorszámát! ");
+                        mi = Console.ReadLine();
+                    } while (mi != "1" && mi != "2" && mi != "3");
+                    Console.Clear();
+                    Console.WriteLine($"A háttértörténet:\n\t{jphatter[0]}");
+                    Console.WriteLine("Amennyiben elolvastad a történetet, és készen állsz a játékra, azt az ENTER lenyomássával jelezd!");
+                    do
+                    {
+                        mi = Console.ReadLine();
+                        if (mi != "") Console.WriteLine("Nem ez az ENTER!");
+                    } while (mi != "");
+                    Console.Clear();
 
+                    //Tulaj
+                    if (mi == "1")
+                    {
+
+                    }
+
+                    //Dolgozó
+                    if (mi == "2")
+                    {
+
+                    }
+
+                    //Látogató
+                    if (mi == "3")
+                    {
+
+                    }
+
+
+
+
+
+
+
+
+
+
+
+
+                }
 
 
                 do
