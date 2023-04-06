@@ -1,0 +1,9 @@
+Karakter - szín
+Kutató - Green
+Tulaj - DarkYellow
+mellékszereplő - Gray
+
+
+nyer - 16
+rip - 45
+
