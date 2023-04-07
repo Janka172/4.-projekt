@@ -1,0 +1,28 @@
+0;A megnyitása óta dolgozol a Juraasic Parkban, sok különféle feladatot kelltt már, elltátnod, többségében állatgondozói szerpeket, a ticeratopsoktól a rexekig mindennel dolgoztál már. Mígnem kaptál egy különleges felkérést, amikor is főnököd az irodájába hivatott.
+1;1: Izgatott vagy ezért idő előtt odaérsz
+2;2: A pontosan megbeszélt időpontra érsz oda
+3;Nagyon várod már, hogy mi lesz az a nagy bejelnteni való. Reménykedsz benne, hogy kapsz egy új állatot, amivel majd foglalkozhatsz, de nem marad sok időd gondolkozni, mert közben odaérsz. Leülsz a főnököddel, a park tulajával szemben.
+4;Szóval úgy gondolom ideje lenne a tárgyra térni.
+5;Hallgatom!
+6;A parkban már egy ideje fut egy új fejlesztési program. Az eddig felkeresett emberek nem merték elvállani félve a következményektől. A program keretei között létrehoztuk az első genetikusan módosított hibrid dinoszauruszt. Az indoraptort.
+7;Egy új fajta állat?
+8;Egyenesen kettő! jelen pillanatban még két tojás, a szó szoros értelmében. A maga feladata az lenne, hogy felnevelje a két állatot. A kutató-csapataink szerint elég intelligensek ahhoz, hogy képezhetőek legyenek.
+9;Miféle képzésre gondol?
+10;Az már nekünk elég lenne, ha hallgatnának magára.
+11;1: Dolgozó: Miért pont én?
+12;2: Dolgozó: Mikorra várható hogy kilejenek?
+13;Magát tartom annyira elvetemültnek, hogy elválalja.
+14;Holnapra várhatóak, viszont ez azt jeleni, hogy velük teljes állásban kell hogy foglalkozzon, ezért a brachiosaurusok új gondozót kapnak.
+15;Másnap egész délelöttödet kint töltöd a leendő állataid tojásaival, mikoris a bal szélső tojás héjja repedezni kezd, majd a másik is. Közelebb mész hozzájuk, és letérdelsz a földre. A bal oldaliből egy pici fehér fej bújuk ki a nyaka szélén két sárga sáv, a másik kis fekete szintén sárga sávokkal. A testük kicsi, de a felépítésük erős. Pici fogaik élesek mint egy-egy penge. Mellső lábaikat szinte kézként használják, ujjaik végén kis, de annál erősebb karmokkal. Azonnal közel mennek hozzád, mint az első élőlényhez akit valaha láttak. A kis fekete szem szinte lángolóan citromsárga, de fehér szeme szürke, teljesen fakó, nincsen fénye. Vak.
+16; Három hónapot dolgoztál a két állattal mikorra egész kifejlett állapotba kerültek. Éppen egy szokásos gyakorlatot végeztél el velük mikor a főnököd megjelent a kifutó szélén. Most látja előszőr a két állatot. Te dobsz nekik egy-egy jutalomfalatot majd kimész beszélgetni. A két állat a vállaid mögött követ egészen a kijáratig.
+17;Látom elég jól halad velük!
+18;Hát igen, sok állattal dolgoztam már, de Angel és Infernó minden szempontból különlegesek.
+19;Angel és Infernó? Az Infernó még úgy ahogy, na de az Angel?
+20;A fekete Infernó, a fehér Angel.
+21;Mit gondol megmarad mindkettő?
+22;Ha Angel vakságára céloz, akkor ez elég izléstelen rá nézve, tökéltesen életképes így is. Csak ő nem látás alapján, hanem hőhullámok alapján tájékozódik.
+23;Jó nem ez a fontos, mikortól lesznek bemutatható állapotban?
+24;Tulajdonképpen akár már a héten is.
+25;1: Meghirdetitek az Indoraptorokok bemutatásának dátumát
+26;2: Szabad kezet kérsz, hogy csak egy bizonyos mennyiségű ember tartózkodhasson a kifutónál egyidejűleg
+27;

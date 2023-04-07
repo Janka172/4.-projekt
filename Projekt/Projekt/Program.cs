@@ -277,6 +277,18 @@ namespace Projekt
             }
             sr8.Close();
 
+            StreamReader sr9 = new StreamReader("jp5.txt");
+            List<ns> jpdolgozo = new List<ns>();
+            ns jpdseged;
+            while (!sr9.EndOfStream)
+            {
+                string[] d = sr9.ReadLine().Split(';');
+                jpdseged.index = int.Parse(d[0]);
+                jpdseged.szoveg = d[1];
+                jptulaj.Add(jpdseged);
+            }
+            sr9.Close();
+
 
             string akarsz = "i";
             string mi = "";
@@ -3545,14 +3557,14 @@ namespace Projekt
                     } while (mi != "");
                     Console.Clear();
                     Console.WriteLine("Előszőr válaszd ki, melyik karakterrel szeretnél játszani!");
-                    for (int igen = 0; igen < 3; igen++)
+                    for (int igen = 0; igen < 2; igen++)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("-------------------------");
                         Console.ForegroundColor = ConsoleColor.White;
                         Console.WriteLine($"{igen+1}: {jpkar[igen]}");
                         Console.ForegroundColor = ConsoleColor.Red;
-                        if (igen == 2)
+                        if (igen == 1)
                         {
                             Console.WriteLine("-------------------------");
                         }
@@ -3562,7 +3574,7 @@ namespace Projekt
                     {
                         Console.Write("Add meg az általad választott karakter sorszámát! ");
                         mi = Console.ReadLine();
-                    } while (mi != "1" && mi != "2" && mi != "3");
+                    } while (mi != "1" && mi != "2");
                     Console.Clear();
                     Console.WriteLine($"A háttértörténet:\n\t{jphatter[0]}");
                     Console.WriteLine("Amennyiben elolvastad a történetet, és készen állsz a játékra, azt az ENTER lenyomássával jelezd!");
@@ -13697,27 +13709,157 @@ namespace Projekt
                     if (mi == "2")
                     {
                         Console.Clear();
+                        Console.WriteLine(jpdolgozo[0].szoveg);
+                        Console.WriteLine(jpdolgozo[1].szoveg);
+                        Console.WriteLine(jpdolgozo[2].szoveg);
+                        string igen1;
+                        do
+                        {
+                            Console.Write("Add meg a döntésted sorszámát! ");
+                            igen1 = Console.ReadLine();
+                        } while (igen1 != "1" && igen1 != "2");
 
+                        //Sietsz (indoraptor)
+                        if (igen1 == "1")
+                        {
+                            Console.Clear();
+
+                            Console.WriteLine(jpdolgozo[3].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[4].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[5].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[6].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[7].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[8].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[9].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[10].szoveg);
+
+                            Console.WriteLine(jpdolgozo[11].szoveg);
+                            Console.WriteLine(jpdolgozo[12].szoveg);
+                            string igen2;
+                            do
+                            {
+                                Console.Write("Add meg a döntésted sorszámát! ");
+                                igen2 = Console.ReadLine();
+                            } while (igen2 != "1" && igen2 != "2");
+
+                            //Miértén?
+                            if (igen2 == "1")
+                            {
+                                Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                Console.Write("Tulaj: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[13].szoveg);
+                            }
+
+                            Console.Clear();
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[14].szoveg);
+
+                            Console.WriteLine(jpdolgozo[15].szoveg);
+                            Console.WriteLine(jpdolgozo[16].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[17].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[18].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[19].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[20].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[21].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[22].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                            Console.Write("Tulaj: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[23].szoveg);
+
+                            Console.ForegroundColor = ConsoleColor.Cyan;
+                            Console.Write("Dolgozó: ");
+                            Console.ForegroundColor = ConsoleColor.White;
+                            Console.WriteLine(jpdolgozo[24].szoveg);
+
+                            Console.WriteLine(jpdolgozo[25].szoveg);
+                            Console.WriteLine(jpdolgozo[26].szoveg);
+                            string igen3;
+                            do
+                            {
+                                Console.Write("Add meg a döntésted sorszámát! ");
+                                igen3 = Console.ReadLine();
+                            } while (igen3 != "1" && igen3 != "2");
+
+                            //Hirdetés
+                            if (igen3 == "1")
+                            {
+                                Console.Clear();
+
+                            }
+
+                            //Korlát
+                            if (igen3 == "2")
+                            {
+                                Console.Clear();
+
+                            }
+                        }
+
+                        //Pontos vagy (indominusz rex)
+                        if (igen1 == "2")
+                        {
+                            Console.Clear();
+
+                        }
                     }
-
-                    //Látogató
-                    if (mi == "3")
-                    {
-                        Console.Clear();
-
-                    }
-
-
-
-
-
-
-
-
-
-
-
-
                 }
 
 
