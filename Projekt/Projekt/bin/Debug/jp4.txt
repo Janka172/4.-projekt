@@ -1,137 +1,137 @@
-0;Egy átlagos napnak inudult az egész. Reggel a laboratóriumban kezdesz, amit már nagyon vártál, ugyanis egy új fejlesztési eredmény bemutatásának napja volt.
+0;Egy átlagos napnak indult az egész. Reggel a laboratóriumban kezdesz, amit már nagyon vártál, ugyanis egy új fejlesztési eredmény bemutatásának napja volt.
 1;1: Az időpont előtt érsz oda
 2;2: Késel két percet
 3;A kutatócsoport éppen munkában van, mikor beérsz a laboratóriumba.
-4;A mai nap minden szempontből különleges. Úgy véljük sikerült kifejlesztenünk a valaha volt legnagyobb látványosságot. Az indumunusz rex, az első genetikusan múdosított hibrid. Nagyobb mint egy giganotosaurus, ami köztudottan a valaha élt legnagyobb dinoszaurusz volt. Az állat hiper inteleigens. Valamint a vonzerejét növeli az is, hogy az a teste teljesen fehér, amihez egy citromsárga szem jár.
+4;A mai nap minden szempontból különleges. Úgy véljük sikerült kifejlesztenünk a valaha volt legnagyobb látványosságot. Az indominusz rex, az első genetikusan módosított hibrid. Nagyobb, mint egy giganotosaurus, ami köztudottan a valaha élt legnagyobb dinoszaurusz volt. Az állat hiper intelligens. Valamint a vonzerőjét növeli az is, hogy az a teste teljesen fehér, amihez egy citromsárga szem jár.
 5;Ez nagyszerű, és mikorra lesz kész?
 6;Már kész is van. A héten be tudjuk mutatni a széles nyilvánosság számára.
 7;1: Megnézed az állatot
 8;2: Egyeztetsz az állatorvossal
-9;Beszálltok egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkeztek a megfelő feljáróhoz. A "ketrec" egy 10 méter magas duplafalas betonszerkezetet foglal magába.
+9;Beszálltok egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkeztek a megfelelő feljáróhoz. A "ketrec" egy 10 méter magas duplafalas betonszerkezetet foglal magába.
 10;Mintha magasabb lenne, mint az eltervezett...
-11;Igen, de az állat nagyobbra nőtt mint vártuk, és a biztonságiak atól tartottak kinövi a kerítést, jelenleg közel 7 méter magas.
-12;Megnéztétek az állatot. Teljesen meg vagy vele elégedve. Azt leszámítva, hogy az alatt a fél óra alatt amit ott eltöltöttetek kétszer is nekirohant az üvegnek...
-13;Tudják miért fut az üvegnek? Elvileg nem kellene belátnia ide, fóléiázott az üveg, nem?
+11;Igen, de az állat nagyobbra nőtt mint vártuk, és a biztonságiak attól tartottak kinövi a kerítést, jelenleg közel 7 méter magas.
+12;Megnéztétek az állatot. Teljesen meg vagy vele elégedve. Azt leszámítva, hogy az alatt a fél óra alatt, amit ott eltöltöttetek kétszer is nekirohant az üvegnek...
+13;Tudják miért fut az üvegnek? Elvileg nem kellene belátnia ide, fóliázott az üveg, nem?
 14;De, de a kutatások alapján valószínűleg érzi a hőt. Tehát érzi a mi testhőnket az üvegen túlról.
 15;1: Aggódni kezdesz a látogatókért
 16;2: Figyelmen kívül hagyod
-17;Leellenőriztetted a kifutót többször is, de nem találtak semmi problámát vele. Elérkezett az átadás napja. Az a nap, amitől fogva az Indomunus rex részévé válik a megtekinthető látványosságoknak. A jegyeladások rekodokat döntöttek. A látogatók még képen sem láthatták az állatot, ami miatt mégtöbben lettek rá kíváncsiak.
+17;Leellenőriztetted a kifutót többször is, de nem találtak semmi problémát vele. Elérkezett az átadás napja. Az a nap, amitől fogva az Indominusz rex részévé válik a megtekinthető látványosságoknak. A jegyeladások rekordokat döntöttek. A látogatók még képen sem láthatták az állatot, ami miatt még többen lettek rá kíváncsiak.
 18;Lemész az állat kifutójához, hogy megtudd az emberek véleményét.
-19;A családommal érkezetem a szigetre, tulajdonképpen nyaralni, a két gyerek nagyon kíváncsi volt az új állatra. Mondhatni megrémültek tőle, de lehet hogy nem csak a gyerekek.
-20;Nemrégiben találkoztam előszőr a féltestvéremmel, eleinte viharos volt a akpcsolatunk, de azt hisszük ez az élmény majd közelebb hoz minket. Egyenlőre nem csalódtunk.
-21;Estig beszélgetsz az emberekkel, várod hogy hátha valaki végre megerősítse a félemedet, de nem. Mindenki csak pozitív véleménnyel van az új dinoszauruszról. Egyre jobban kezd kiürölni a hely, hiszen elérkezett a záróra, az emebrek visszamennek a szállásra, hiszen kezdődik a karbantás. Valami miatt te maradsz addig, amíg mindenki el nem megy. Az üveg előtt állsz, de már egy ideje nem látod az állatot, amíg nem...
+19;A családommal érkezettem a szigetre, tulajdonképpen nyaralni, a két gyerek nagyon kíváncsi volt az új állatra. Mondhatni megrémültek tőle, de lehet, hogy nem csak a gyerekek.
+20;Nemrégiben találkoztam előszőr a féltestvéremmel, eleinte viharos volt a kapcsolatunk, de azt hisszük ez az élmény majd közelebb hoz minket. Egyelőre nem csalódtunk.
+21;Estig beszélgetsz az emberekkel, várod hogy hátha valaki végre megerősítse a félelmedet, de nem. Mindenki csak pozitív véleménnyel van az új dinoszauruszról. Egyre jobban kezd kiürülni a hely, hiszen elérkezett a záróra, az emberek visszamennek a szállásra, hiszen kezdődik a karbantartás. Valami miatt te maradsz addig, amíg mindenki el nem megy. Az üveg előtt állsz, de már egy ideje nem látod az állatot, amíg nem...
 22;Azok a karmolások eddig is ott voltak?
 23;Nem láttam, de lehet, hogy csak az emberek takarták ki.
 24;1: Késő van már, ezért figyelmen kívül hagyod, és elmész aludni
 25;2: Felmész a falra, hátha onnan látod az állatot
-26;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni de senki nem veszi fel.
+26;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki nem veszi fel.
 27;1: Lemész az eligazítóba
 28;2: Kimész a fő utcára
 29;Az eligazítóban feszült csend van.
 30;Mi történt?
-31;Na vajon mi? A maga új szörnyetege, eddig csak párszáz látogatót ölt meg... de maga csak aludjon ésd nehogyx felvegye a telefont...
+31;Na vajon mi? A maga új szörnyetege, eddig csak párszáz látogatót ölt meg... de maga csak aludjon értsd nehogy felvegye a telefont...
 32;Hogy történt? Tegnap este még bent volt a kifutójában!
 33;Ja a kulcsszó a volt... Az ő szektorában zárlatos lett az elektromos rendszer. Ennek okát továbbra is keressük. De ami ennél fontosabb az az hogy kitörte a kapukat.
 34;Látogatók vannak még a szigeten?
 35;Persze, nincsen elég hajó, repülő, vagy helikopter hogy elvigye őket innen.
 36;És most?
 37;Maga a főnök, magának kell tudnia!
-38;1: Lemész a földalatti úthálózatra, oda úgysem fér le az indominus
+38;1: Lemész a földalatti úthálózatra, oda úgysem fér le az indominusz
 39;2: Azonnal a kikötőbe mész, hogy elhagyd a szigetet épségben
 40;Lemész a földalatti úthálózatra, biztonságban érzed magad
 41;1: Elmész az irodád irányába
 42;2: A kikötőbe mész, hogy elhagyd a szigetet
-43;Haladsz a sziget belsejébe felé, tudod hogy ha eléred az irodádat, onnan tudsz magadnak segítséget hívni. Nem a tervvel volt a baj inkább a kivitelezéssel. Amind befordulsz az egyik sarkon egy világos szürke atrociraptorral találod szembe magadat. Megpróbálsz menekülni, megfordulsz, de mögötted egy másik, barna atrociraptort találsz. A következő pillanatban valami nehéz esik a hátdnak, te pedig elfekszel a földön. Valami furcsa nyomást érzel a hátadon, igen a raptor karma vágódott bele a hátadba. Aztán egy furcsa melegséget, vérzel. Az állat fogait érzed a tarkódon, majd összezár. Vége.
+43;Haladsz a sziget belsejébe felé, tudod hogy ha eléred az irodádat, onnan tudsz magadnak segítséget hívni. Nem a tervvel volt a baj inkább a kivitelezéssel. Amint befordulsz az egyik sarkon egy világos szürke atrociraptorral találod szembe magadat. Megpróbálsz menekülni, megfordulsz, de mögötted egy másik, barna atrociraptort találsz. A következő pillanatban valami nehéz esik a hátadnak, te pedig elfekszel a földön. Valami furcsa nyomást érzel a hátadon, igen a raptor karma vágódott bele a hátadba. Aztán egy furcsa melegséget, vérzel. Az állat fogait érzed a tarkódon, majd összezár. Vége.
 44;Kimész a kikötőbe. Egy hajó még bent áll a kikötőben. Felszállsz a hajótestbe, és meghúzod magad, hogy a többi ember észre se vegyen.
-45;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel, hiszen meglátod az emebereket pánikolni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
-46;Kimész az utcára. A póznák kidőltek, a vezetékek többsége leszaladtak. Az út szélén egy nagy allosaurus feküdt. a hátán és a nyakán is egy-egy hatalmas fognyom helyezkedett el. De a két állkapocs lenyomat ránézésre nem eggyezik meg. A tetemtől két irányba mennek el lábnyomok. A bal oldali lábnyom nagyobb, mint a jobb oldalra vezető lábnyomok. A tetemből éppen több kis compy is eszik. Kétled, hogy a ragadozók ne jönnének vissza zsákmányukért, minél előbb el kell hagynod a helyet.
+45;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel, hiszen meglátod az embereket pánikolni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+46;Kimész az utcára. A póznák kidőltek, a vezetékek többsége leszaladtak. Az út szélén egy nagy allosaurus feküdt. a hátán és a nyakán is egy-egy hatalmas fognyom helyezkedett el. De a két állkapocs lenyomat ránézésre nem egyezik meg. A tetemtől két irányba mennek el lábnyomok. A bal oldali lábnyom nagyobb, mint a jobb oldalra vezető lábnyomok. A tetemből éppen több kis compy is eszik. Kétled, hogy a ragadozók ne jönnének vissza zsákmányukért, minél előbb el kell hagynod a helyet.
 47;1: Elindulsz a tetemtől ballra
 48;2: Elindulsz a tetemtől jobbra
-49;Követed az utat, de akármennyire is zavarnak a hatalmas lábnyomok nem térsz le az útról. Majd hirtelen megállsz, teljes testedben megfagy a vér. Megtudod miért nem hozunk látre genetikusna módosított állatokat, mi a probléma a nálunk fizikailag, és nagy valószínűséggel mentálisan is fejlettebb állatok fogságában tartássával, hogy mi történik akkor, ha egy bezártságban nevelt, elnyomott, magányos állat egyszer magához veszi az irányítást. Igen, az indominus rex. A hatalmas állat négykézlábra eresztkedik, és közelebbőr is megviozsgálja a vele szemben álló mozdulatlan embert, téged, azt aki a létezésért felelős, és ezzel együtt ezrek haláláért is. Az állat egy darabig csak figyel, mintha csak játszana veled. Majd egy váratlan pillanatban föléd emeli a fejét, kinyitja a száját. Érzed ahogy a szája körülvesz, majd összezár. Vége.
-50;Ahogyan a lábnyomok mentén haldsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon ha ezt tűléled akkor majd abba a mennyiségű perbe fogsz esetleg belehalni, amit majd az elhunytak hozzátartozói akaszanak a nyakadba... Ez a hondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
+49;Követed az utat, de akármennyire is zavarnak a hatalmas lábnyomok nem térsz le az útról. Majd hirtelen megállsz, teljes testedben megfagy a vér. Megtudod miért nem hozunk létre genetikusan módosított állatokat, mi a probléma a nálunk fizikailag, és nagy valószínűséggel mentálisan is fejlettebb állatok fogságában tartásával, hogy mi történik akkor, ha egy bezártságban nevelt, elnyomott, magányos állat egyszer magához veszi az irányítást. Igen, az indominusz rex. A hatalmas állat négykézlábra ereszkedik, és közelebbőr is megvizsgálja a vele szemben álló mozdulatlan embert, téged, azt, aki a létezésért felelős, és ezzel együtt ezrek haláláért is. Az állat egy darabig csak figyel, mintha csak játszana veled. Majd egy váratlan pillanatban föléd emeli a fejét, kinyitja a száját. Érzed ahogy a szája körülvesz, majd összezár. Vége.
+50;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd abba a mennyiségű perbe fogsz esetleg belehalni, amit majd az elhunytak hozzátartozói akasztanak a nyakadba... Ez a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
 51;1: Bemenekülsz a legközelebbi épületbe
 52;2: Lefutsz az aluljáróba
-53;Befutsz az élületbe, az óriás azonnal kapcsol és előrehajtott fejjel ront neki az épületnek. Az épületek sem bírják ezt a szintű megterhelést, az állat által elkövetett támadás a földdel teszi egyenlővé. A giganoto egy daeabig lökdösi a romokat, amik alatt fekve reménykedsz abban hogy elmegy. Aztán hallod a dübörgő lépteit ahogyan egyre csak távolodnak. Elment. Csak fekszel a romok alatt, hirtelen egy magas szintű nyugalom tört rád. Nem ez az első hibád... Egy kotorászó hangot hallasz, majd egy jellegzetes pattogás szerű üvöltést, majd egy másikat, majd megint. Egyértelműen három különböző állatról van szó. Velociraptorok. Pontosan jól tudják hogy a romok alatt vagy. Nem mersz mozdulni sem, de nem is kell az egyik veloci kirátgat a romok közül. Ekkor már tudod hogy nincs menekvés. A zöld fellép a hátadra, és jelez a többinek, ekkor már négyen voltak. Majd egy szürke raptor kék sávval melléd lép, ő lehet az vezető. Lehajol a fejedhez, a tarkódon érzed a lehelletét, a fogai a fejedhez érnek, majd összezár. Vége.
-54;Lefutsz az aluljáróba, ami fényokrában még a mozi bejárata volt. A giganoto orra figyel feléd a kijárat felől. Kersened kell egy másik megoldást, mert az az állat nem fog kímélni. Haldsz tovább az úton, fáradt vagy, nem tudod mi visz tovább de nem mersz megállni. Megpillantod a vetítőszoba bejáratát.
+53;Befutsz az élületbe, az óriás azonnal kapcsol és előrehajtott fejjel ront neki az épületnek. Az épületek sem bírják ezt a szintű megterhelést, az állat által elkövetett támadás a földdel teszi egyenlővé. A giganoto egy darabig lökdösi a romokat, amik alatt fekve reménykedsz abban, hogy elmegy. Aztán hallod a dübörgő lépteit ahogyan egyre csak távolodnak. Elment. Csak fekszel a romok alatt, hirtelen egy magas szintű nyugalom tört rád. Nem ez az első hibád... Egy kotorászó hangot hallasz, majd egy jellegzetes pattogás szerű üvöltést, majd egy másikat, majd megint. Egyértelműen három különböző állatról van szó. Velociraptorok. Pontosan jól tudják, hogy a romok alatt vagy. Nem mersz mozdulni sem, de nem is kell az egyik veloci ki rángat a romok közül. Ekkor már tudod, hogy nincs menekvés. A zöld fellép a hátadra, és jelez a többinek, ekkor már négyen voltak. Majd egy szürke raptor kék sávval melléd lép, ő lehet az vezető. Lehajol a fejedhez, a tarkódon érzed a leheletet, a fogai a fejedhez érnek, majd összezár. Vége.
+54;Lefutsz az aluljáróba, ami fénykorában még a mozi bejárata volt. A giganoto orra figyel feléd a kijárat felől. Keresned kell egy másik megoldást, mert az az állat nem fog kímélni. Haladsz tovább az úton, fáradt vagy, nem tudod mi visz tovább, de nem mersz megállni. Megpillantod a vetítőszoba bejáratát.
 55;1: Bemész a vetítőbe
 56;2: Haladsz tovább a folyosón
-57;Tovább haldsz a folyosón, figyeled a plakátokat. "A világ legnagyobb és eggyetlen őslényket bemutató park!", "Kitüntetés a tudományos eggyesülettől", "A dinoszauruszok csodájára jár a világ". Majd hirtelen megállsz, nincs időd a bűntudatod okozta lassú búcsúzkodás folyámatát megélned. Veled szemben egy üveggel elfedett plakát, egy carnotaurus feje látható rajta, az egyik itt vetített film palakátja az "Együtt élünk vagy velük vagy ők élnek helyettünk?", a gondolataidba merülsz majd mintha a plakát pislogott volna. remek már halucinálsz is? Nem. Hátrafordul és mögötted áll egy carno. Az állat időt sem hagyott, hogy áthondold hova futsz majd, az állkapcsa azonnal nyílik, majd összezár. Vége.
-58;Belépsz a vetítőszomába, minden üres, popcornos zacskók üdítős poharak mindenmhol a földön. Megpillantod annak a gyereknek a testét, akinek az apját az indominus kifutójánál kérdezted... Úgy tűnik mégsem lett egy nagyszerű családi nyaralás... Ahogyan ezen kondolkozol megpillantod mi tehette ezt vele, a mozivászon szétszakad és egy baryonyx jön ki mögüle.
+57;Tovább haladsz a folyosón, figyeled a plakátokat. "A világ legnagyobb és egyetlen őslényeket bemutató park!", "Kitüntetés a tudományos egyesülettől", "A dinoszauruszok csodájára jár a világ". Majd hirtelen megállsz, nincs időd a bűntudatod okozta lassú búcsúzkodás folyamatát megélned. Veled szemben egy üveggel elfedett plakát, egy carnotaurus feje látható rajta, az egyik itt vetített film palákája az "Együtt élünk vagy velük vagy ők élnek helyettünk?", a gondolataidba merülsz majd mintha a plakát pislogott volna. remek már hallucinálsz is? Nem. Hátrafordul és mögötted áll egy carno. Az állat időt sem hagyott, hogy átgondold hova futsz majd, az állkapcsa azonnal nyílik, majd összezár. Vége.
+58;Belépsz a vetítőszobába, minden üres, popcornos zacskók üdítős poharak mindenhol a földön. Megpillantod annak a gyereknek a testét, akinek az apját az indominusz kifutójánál kérdezted... Úgy tűnik mégsem lett egy nagyszerű családi nyaralás... Ahogyan ezen gondolkozol megpillantod mi tehette ezt vele, a mozivászon szétszakad és egy baryonyx jön ki mögüle.
 59;1: Gyorsan bemászol a szellőzőbe
 60;2: Megpróbálod elhagyni a termet
-61;Elkezdesz a kijárat felé rohanni, azzal nem számolva, hogy a baryonyx gyorsabb nálad. Utolért. Lelök a földre, hatalmas hosszúkás pofáját a fejed mellé teszi, közelről is megvizsgálja az új prédáját. Egyzser csak elkezded érezni a tarkódon az állat fogsorát, majd összezár. Vége.
-62;Bemászol a szellőzőnyílásba, a baryonyx utánnad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
+61;Elkezdesz a kijárat felé rohanni, azzal nem számolva, hogy a baryonyx gyorsabb nálad. Utolért. Lelök a földre, hatalmas hosszúkás pofáját a fejed mellé teszi, közelről is megvizsgálja az új prédáját. Egyszer csak elkezded érezni a tarkódon az állat fogsorát, majd összezár. Vége.
+62;Bemászol a szellőzőnyílásba, a baryonyx utánad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
 63;1: Haladsz tovább az irodádig
-64;2: Az első lehetőségnál kijössz a szellőzőből
-65;Az idodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 comy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget jutattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meilyednek és majd békénhagynak. Tévedtél, megint. Az állatok ezen felhergelve rádvetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
-66;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vizen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hulicnálsz-e a fáradtágtól, vagy igaz amit látsz de elkezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
-67;Nem tudsz elvonatkoztatni attól amit látsz, így az állat gondozójával felmentek a kapu felett húzódó járható kis ösvényre, ehhez viszont le kell kapcsolnotok a kifutó falaiban lévő áramot, hiszen ha rálépnétek anélkül, bele is halnátok az áramütésbe. A ketrec gyengepontja egyérteműen a kapu. Sajnos ezt az indominus is tudja.
+64;2: Az első lehetőségnél kijössz a szellőzőből
+65;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 comy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
+66;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz amit látsz de elkezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
+67;Nem tudsz elvonatkoztatni attól amit látsz, így az állat gondozójával felmentek a kapu felett húzódó járható kis ösvényre, ehhez viszont le kell kapcsolnotok a kifutó falaiban lévő áramot, hiszen ha rálépnétek anélkül, bele is halnátok az áramütésbe. A ketrec gyengepontja egyértelműen a kapu. Sajnos ezt az indominusz is tudja.
 68;1: Lemész a kapu fölötti szakaszról
 69;2: Maradsz hiszen onnan jobban belátod a kifutót
-70;Nem engedsz a logikának, hiszen eldöntötted, hogy úgy lesz jóa hogyan te gondolod. Egyik hibád a sok közül... Az indominus minden erejét bevetve rohan neki a kapunak. Ekkor szembe találod magad a hatalmas állattal. Megtudod miért nem hozunk látre genetikusna módosított állatokat, mi a probléma a nálunk fizikailag, és nagy valószínűséggel mentálisan is fejlettebb állatok fogságában tartássával, hogy mi történik akkor, ha egy bezártságban nevelt, elnyomott, magányos állat egyszer magához veszi az irányítást. A hatalmas állat négykézlábra eresztkedik, és közelebbőr is megvizsgálja a vele szemben álló mozdulatlan embert, téged, azt aki a létezésért felelős, és ezzel együtt. Az állat egy darabig csak figyel, mintha csak játszana veled. Majd egy váratlan pillanatban föléd emeli a fejét, kinyitja a száját. Érzed ahogy a szája körülvesz, majd összezár. Vége.
-71;Megpróbálsz rákerülni a kifutóra, annak reményében, hogy megtalálod az állatot. Azzal nem számolva, hogy Ő előbb talál meg téged... A hatalmas csúcsragadozó minden erejét bevetve ront neki a kapunak, ezzel lerombolva a kerítést, a járdát, az ártatlanságod illúzióját, a reményt egy biztonságos parkra, a hitet a békés együttélésben. Az állat megáll gondozója előtt. Hatalmasra ynitja széles állkapcsát, a dolgozó fölé hajol, majd összezár. Ez első halott, de valószínűleg nem az utolsó...
+70;Nem engedsz a logikának, hiszen eldöntötted, hogy úgy lesz jó ahogyan te gondolod. Egyik hibád a sok közül... Az indominusz minden erejét bevetve rohan neki a kapunak. Ekkor szembe találod magad a hatalmas állattal. Megtudod miért nem hozunk létre genetikusan módosított állatokat, mi a probléma a nálunk fizikailag, és nagy valószínűséggel mentálisan is fejlettebb állatok fogságában tartásával, hogy mi történik akkor, ha egy bezártságban nevelt, elnyomott, magányos állat egyszer magához veszi az irányítást. A hatalmas állat négykézlábra ereszkedik, és közelebbőr is megvizsgálja a vele szemben álló mozdulatlan embert, téged, azt, aki a létezésért felelős, és ezzel együtt. Az állat egy darabig csak figyel, mintha csak játszana veled. Majd egy váratlan pillanatban föléd emeli a fejét, kinyitja a száját. Érzed ahogy a szája körülvesz, majd összezár. Vége.
+71;Megpróbálsz rákerülni a kifutóra, annak reményében, hogy megtalálod az állatot. Azzal nem számolva, hogy ő előbb talál meg téged... A hatalmas csúcsragadozó minden erejét bevetve ront neki a kapunak, ezzel lerombolva a kerítést, a járdát, az ártatlanságod illúzióját, a reményt egy biztonságos parkra, a hitet a békés együttélésben. Az állat megáll gondozója előtt. Hatalmasra nyitja széles állkapcsát, a dolgozó fölé hajol, majd összezár. Ez első halott, de valószínűleg nem az utolsó...
 72;1: Megpróbálod vezetőségen belül megoldani
 73;2: Elkezded evakuálni a szigetet
 74;Azonnal értesíted a befogó csapatokat, hogy minél előbb cselekedjenek. Azzal természetesen nem számolsz, hogy az állat a látogatókhoz közeledik. A csapatok minden erejüket bevetve próbálják befogni az állatot, hiába. Az indominusz nagyobb, erősebb. és okosabb, mint amivel a kutatócsoportok számoltak. Viszont az állat tovább szedi az áldozatait, amellett, hogy több állatot is sikerült a tombolása következtében kiszabadítania.
 75;1: Lelöveted az indominuszt
 76;2: Megpróbálod kialtatni az állatot
-77;Az hogy honnan számoljuk a rossz döntéseket, az szubjektív, de az viszont biztos, hogy ennek az állatnak a létrehozatala, amellett hogy szolgálja a gazdag emberek további vagyonhoz való jutását, rengeteg életet is követel. Hogyan lehet ezért felelőséget vállalni... Négy helikopter száll fel 2-2 gépfegyverrel, hogy megpróbálják megfékezni az amit te szabadítottál az emberekre. Az állat próbál menekülni, látszólag nincs hova, eközben kiszabadítja a veloci-, és az atrociraptorokat, valamint tyrannosurust. Ezután teljes erejével rohan bele a madárházba, ezzel sok pterosaurust kiszabadítva, egy-egy egész raj dimorphodon repül rá a helikopterekre. Sorra szakadnak meg a kapcsolatok a gépekkel.
+77;Az hogy honnan számoljuk a rossz döntéseket, az szubjektív, de az viszont biztos, hogy ennek az állatnak a létrehozatala, amellett hogy szolgálja a gazdag emberek további vagyonhoz való jutását, rengeteg életet is követel. Hogyan lehet ezért felelőséget vállalni... Négy helikopter száll fel 2-2 gépfegyverrel, hogy megpróbálják megfékezni az, amit te szabadítottál az emberekre. Az állat próbál menekülni, látszólag nincs hova, eközben kiszabadítja a veloci-, és az atrociraptorokat, valamint tyrannosurust. Ezután teljes erejével rohan bele a madárházba, ezzel sok pterosaurust kiszabadítva, egy-egy egész raj dimorphodon repül rá a helikopterekre. Sorra szakadnak meg a kapcsolatok a gépekkel.
 78;1: Elhagyod egyedül a szigetet
 79;2: Megkezded a Nublar sziget evakuálását
-80;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
-81;Menteni a menthetetlent... nagyjából... Az emberek pánikolva rohannak az utcára, egymást taposva fellökve, hátrahagyva igyekeznek elhegyni a szigetet, a kikötőbe. Reménykednek a legjobbakban, annak ellenére, hogy mostanra már tudják, hogy azzal hogy idejöttek nagyben megpecsételték a jövőjüket... vagy elvesztették azt...
+80;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+81;Menteni a menthetetlent... nagyjából... Az emberek pánikolva rohannak az utcára, egymást taposva fellökve, hátrahagyva igyekeznek elhagyni a szigetet, a kikötőbe. Reménykednek a legjobbakban, annak ellenére, hogy mostanra már tudják, hogy azzal, hogy idejöttek nagyban megpecsételték a jövőjüket... vagy elvesztették azt...
 82;1: Kimész a többi emberrel a hajóra
 83;2: Kimész a főút felé, hogy elhozd a fontos dolgaidat
-84;Kirohansz a mólóra és gondolkodás nélkül rohansz fel a hajóra, mint ahogyan mindenki más is próbálja. Felszállsz és kezdesz távolodni a szigettől, az emberektől akiknek a halálát TE okoztad, és mégis te menekülksz meg egy ártatlan ember helyett...
-85;Mindent bevetsz annak érdekében, hogy az összes szabadon lévő dinoszauruszt kialtattasd. A módszer meglepően sikeres, az összes elkapott álatot beszállítják az elkülönítőbe, míg az éj leple alatt rendbe nem hozzák a kifutókat, és reggelre, mintha mi sem történt volna... leszámítva a hihetetlen sok halottat. Az emberek nem hajlandóak a szigeten maradni, és ahogy újra "biztonságos" lesz az utca elhagyják a szigetet, veled eggyütt...
-86;Elérkezett az átadás napja. Az a nap, amitől fogva az Indomunus rex részévé válik a megtekinthető látványosságoknak. A jegyeladások rekodokat döntöttek. A látogatók még képen sem láthatták az állatot, ami miatt mégtöbben lettek rá kíváncsiak. A nap során megfigyeled az embreket, hogy hogyantetszik neki az új "látványosság".
+84;Kirohansz a mólóra és gondolkodás nélkül rohansz fel a hajóra, mint ahogyan mindenki más is próbálja. Felszállsz és kezdesz távolodni a szigettől, az emberektől, akiknek a halálát TE okoztad, és mégis te menekülsz meg egy ártatlan ember helyett...
+85;Mindent bevetsz annak érdekében, hogy az összes szabadon lévő dinoszauruszt kialtattasd. A módszer meglepően sikeres, az összes elkapott állatot beszállítják az elkülönítőbe, míg az éj leple alatt rendbe nem hozzák a kifutókat, és reggelre, mintha mi sem történt volna... leszámítva a hihetetlen sok halottat. Az emberek nem hajlandóak a szigeten maradni, és ahogy újra "biztonságos" lesz az utca elhagyják a szigetet, veled együtt...
+86;Elérkezett az átadás napja. Az a nap, amitől fogva az Indomunusz rex részévé válik a megtekinthető látványosságoknak. A jegyeladások rekodokat döntöttek. A látogatók még képen sem láthatták az állatot, ami miatt még többen lettek rá kíváncsiak. A nap során megfigyeled az embereket, hogy hogyan tetszik neki az új "látványosság".
 87;Mivel az emberek kizsákmányolása egy fárasztó dolog, korán elmész aludni, hogy a holnapi tárgyalásokra kipihenten tudj megjelenni.
-88;Úgy döntesz, hogy az állat bemutatása előtt eggyeztetsz az állatorvossal.
+88;Úgy döntesz, hogy az állat bemutatása előtt egyeztetsz az állatorvossal.
 89;Mit gondol az új indominusz rexről? Mennyire lenne biztonságos bemutatni a széles nyilvánosságnak?
-90;Biztonságos semmi esetre sem. Semmit nem tudunk még az állatról, azt sem sikerült megoldani, hogy ne futton neki folyamatosan az üvegnek, vagy a falnak...
+90;Biztonságos semmi esetre sem. Semmit nem tudunk még az állatról, azt sem sikerült megoldani, hogy ne fusson neki folyamatosan az üvegnek, vagy a falnak...
 91;Ezzel azt akarja mondani, hogy még ne mutassuk be?
-92;Nem egészen... Jó nem szeretnék köríteni, ez az állat nagyobb, veszélyersebb, erősebb, és okosabb, mint amennyivel a kutatók számoltak. El kell pusztítani, még mielőtt ebbe valaki bele fog halni!
+92;Nem egészen... Jó nem szeretnék köríteni, ez az állat nagyobb, veszélyesebb, erősebb, és okosabb, mint amennyivel a kutatók számoltak. El kell pusztítani, még mielőtt ebbe valaki bele fog halni!
 93;Erről szó sem lehet az az állat túl sok pénzbe került ahhoz, hogy csak úgy megöljük!
-94;És mennyibe fognak kerülni a kártérítések, ha az a valmi kiszabadul?! Legalább gondolja át! ha már kikéri a véleményem...
+94;És mennyibe fognak kerülni a kártérítések, ha az a valami kiszabadul?! Legalább gondolja át! ha már kikéri a véleményem...
 95;1: Hallgatsz az állatorvosra
 96;2: Figyelmen kívül hagyod az állatorvos vészjósló szavait
-97;A mai nap minden szempontből különleges. Úgy véljük sikerült kifejlesztenünk a valaha volt legkülönlegesebb látványosságot. Az indoraptor, az első genetikusan múdosított hibrid. okasobb mint bármi ami valaha is létezett, egy különleges mozgási techikával rendelkező csúcsragadozó. Valamint a vonzerejét növeli az is, hogy az egyikük a teste fekete és citromsárga sávokkal rendelkezik, amihez egy citromsárga szem jár. A másikuk fehér, citromsárga sávokkal, viszont ez a példán teljesen vak.
+97;A mai nap minden szempontból különleges. Úgy véljük sikerült kifejlesztenünk a valaha volt legkülönlegesebb látványosságot. Az indoraptor, az első genetikusan módosított hibrid. Okosabb, mint bármi ami valaha is létezett, egy különleges mozgási technikával rendelkező csúcsragadozó. Valamint a vonzerőjét növeli az is, hogy az egyikük a teste fekete és citromsárga sávokkal rendelkezik, amihez egy citromsárga szem jár. A másikjuk fehér, citromsárga sávokkal, viszont ez a példán teljesen vak.
 98;Hogy érti, azt hogy vak?
-99;Nem lát. A kutatások alapján a hőkullámok és sugárzások alapján közlekedik és vadászik, de ebben nincsen konszenzus.
+99;Nem lát. A kutatások alapján a hóhullámok és sugárzások alapján közlekedik és vadászik, de ebben nincsen konszenzus.
 100;Ez nagyszerű, ezek szerint már készen is vannak, igaz?
 101;Igaz. A héten be tudjuk mutatni a széles nyilvánosság számára.
 102;1: Még ma megnézed az állatokat
 103;2: Másnap megnézed az állatokat
-104;Beszálltok egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkeztek a megfelő feljáróhoz. A kifutó egy 8 méter magas, befelé lejő félkupola, a tetején egy üveg kupolával, hogy ne tudjanak kimászni. A fal átmérője 4 méter, bőven felülmúlták a biztonsági elvárásokat. Bemész az épületbe, a két állat éppen vadászik, egy szerencsétlen szarvasra. A fekete állatot pillantod meg előszőr, egy furcsa hangot hallat mire szinte a semmiből előugrik a fehér testvére, és egy pillanat alatt leteríti a szarvast.
-105;Egye összeszedettebbek ezek az összehangolt támadadások
+104;Beszálltok egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkeztek a megfelelő feljáróhoz. A kifutó egy 8 méter magas, befelé lejtő félkupola, a tetején egy üveg kupolával, hogy ne tudjanak kimászni. A fal átmérője 4 méter, bőven felülmúlták a biztonsági elvárásokat. Bemész az épületbe, a két állat éppen vadászik, egy szerencsétlen szarvasra. A fekete állatot pillantod meg előszőr, egy furcsa hangot hallat mire szinte a semmiből előugrik a fehér testvére, és egy pillanat alatt leteríti a szarvast.
+105;Egye össze szedettebbek ezek az összehangolt támadások
 106;Ez nekünk pozitív?
 107;Csaknem rémült meg?
 108;Hát lehet, hogy de...
 109;Annyira szép, ahogy Infernó segít Angelnek...
 110;Az Infernó még oké, de az Angel az honnan?
-111;Infernó a fekete, Angel pedig a fehér. Amióta foglalkozom velük, ami a kikelésük napját jeleni, úgy gondoltam ez illik legobban hozzájuk.
+111;Infernó a fekete, Angel pedig a fehér. Amióta foglalkozom velük, ami a kikelésük napját jeleni, úgy gondoltam ez illik legjobban hozzájuk.
 112;Tudja mit, nevezze őket ahogy akarja...
-113;Másnap reggel beszállsz egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkezel a megfelő feljáróhoz. A kifutó egy 8 méter magas, befelé lejő félkupola, a tetején egy üveg kupolával, hogy ne tudjanak kimászni. A fal átmérője 4 méter, bőven felülmúlták a biztonsági elvárásokat. Bemész az épületbe, a két állat éppen vadászik, egy szerencsétlen szarvasra. A fekete állatot pillantod meg előszőr, egy furcsa hangot hallat mire szinte a semmiből előugrik a fehér testvére, és egy pillanat alatt leteríti a szarvast.
+113;Másnap reggel beszállsz egy autóba, ami egy a föld alatt húzódó úton halad. Tizenöt perc utazás után megérkezel a megfelelő  feljáróhoz. A kifutó egy 8 méter magas, befelé lejtő félkupola, a tetején egy üveg kupolával, hogy ne tudjanak kimászni. A fal átmérője 4 méter, bőven felülmúlták a biztonsági elvárásokat. Bemész az épületbe, a két állat éppen vadászik, egy szerencsétlen szarvasra. A fekete állatot pillantod meg előszőr, egy furcsa hangot hallat mire szinte a semmiből előugrik a fehér testvére, és egy pillanat alatt leteríti a szarvast.
 114;1: Tulaj: Igaz hogy maga tanítja is őket?
-115;2: Tulaj: Maga ismeri erzeket az állatoka, mennyire tartja bizonságosnak ez a kifutó?
+115;2: Tulaj: Maga ismeri ezeket az állatoka, mennyire tartja bizonyságosnak ez a kifutó?
 116;Temészetesen, a kikelésük óta velük vagyok, és általánosságban hallgatnak is rám.
 117;Aha, azért ha lehet ne menjen be közéjük...
 118;Ne aggódjon, be szoktam...
 119;Figyelmen kívül hagyod az utolsó kijelentését, abban reménykedve, hogy ha nem veszel róla tudomást elmúlik az a mérhetetlenül nagy gyomorideg amit ezzel okozott.
-120;1: Meghírdeted az Indoraptorok bemutatásának dátumát
-121;2: Szabad kezet adsz Jessie-nek, aki lekorlátozná, hogy hány ember tartózkodthat egyszerre a kifutó környékén
-122;Eljött a várva várt nap, a megnyitó napja, irreálisan sok ember ember érkezett az új állatok bemutatásának napjára. A megnyitás után néhány órával odamész te is megnézni, hogy megy a bemutató. Jessie a kifutó feletti fém szerkezeten áll fent és próbál kapcsolatba lépni a két álattal. Infernó szótfogadóan ülve néz felfelé. Angel remegve toporog, majd ront a falnak, aztán az üvegnek. Jessie ahogy megpillant téged, dob egy jutalomfalatot Infernónak, és lesiet a szerkezetről, átverekedi magát a tömegen, megfogja a karodat, és behúz a legközelebbi raktárba.
-123;1: Végighallgatod mit szeretne mondani
+120;1: Meghirdeted az Indoraptorok bemutatásának dátumát
+121;2: Szabad kezet adsz Jessie-nek, aki lekorlátozná, hogy hány ember tartózkodhat egyszerre a kifutó környékén
+122;Eljött a várva várt nap, a megnyitó napja, irreálisan sok ember érkezett az új állatok bemutatásának napjára. A megnyitás után néhány órával odamész te is megnézni, hogy megy a bemutató. Jessie a kifutó feletti fémszerkezeten áll fent és próbál kapcsolatba lépni a két állattal. Infernó szófogadóan ülve néz felfelé. Angel remegve toporog, majd ront a falnak, aztán az üvegnek. Jessie ahogy megpillant téged, dob egy jutalomfalatot Infernónak, és lesiet a szerkezetről, átverekedi magát a tömegen, megfogja a karodat, és behúz a legközelebbi raktárba.
+123;1: Végig hallgatod mit szeretne mondani
 124;2: Számonkéred
-125;Muszáj lenne kiküldeni a tömeg legalább felét, és nem szabad beengedi őket körbe a kifutő köré!
+125;Muszáj lenne kiküldeni a tömeg legalább felét, és nem szabad beengedi őket körbe a kifutó köré!
 126;Ugye tudja, hogy nem maga a főnök!?
 127;Természetesen, ennek ellenére én ismerem az állatokat. Angel érzi a hőhullámokat minden irányból, de nem látja őket, ettől pánikol, nem tehet ki ennek egy állatot!
 128;1: Engedsz neki
-129;2: Ragasztkodsz az elképzelésedhez
+129;2: Ragaszkodsz az elképzelésedhez
 130;Tudja mit, legyen, de ehhez nem adom az arcom, még csak most nyílt meg...
-131;Nekem csak az engedélyére van szükségem, és rendbeszedem itt az embereket.
+131;Nekem csak az engedélyére van szükségem, és rendbe szedem itt az embereket.
 132;Engedély megadva!
-133;Jessie felvett a polcról egy diktafont, és elhagyta a raktárhegységet, majd meghallod éles "enyhén" ingerült hangját, majd a morajló tömeget. Egy 15 percet vársz ben, elintézel néhán egészen fontos telefonhívást, majd kimész. Nagyjából harmad annyi ember áll az üveg előtt, a tömeg kígyózik kint, de szigorúan az épület keleti oldalára lettek átcsoportosítva az emberek. Benézel az üvegen, a két indoraptor éppen eszik, Angel elég nyugodtan viselkedik. Ezek szerint egy probléma megoldva. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
+133;Jessie felvett a polcról egy diktafont, és elhagyta a raktárhegységet, majd meghallod éles "enyhén" ingerült hangját, majd a morajló tömeget. Egy 15 percet vársz bent, elintézel néhány egészen fontos telefonhívást, majd kimész. Nagyjából harmad annyi ember áll az üveg előtt, a tömeg kígyózik kint, de szigorúan az épület keleti oldalára lettek átcsoportosítva az emberek. Benézel az üvegen, a két indoraptor éppen eszik, Angel elég nyugodtan viselkedik. Ezek szerint egy probléma megoldva. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
 134;1: Elmész aludni
 135;2: Visszahívod
 136;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni de senki sem kapcsolható.
@@ -140,28 +140,127 @@
 139;Jessie az üvegfal előtt ült egyedül, és az állatait figyelte, látszott, hogy gondterhelt, meg egyébként is hol vannak a látogatók?
 140;Szerintem hívtam egy párszor!
 141;Igen, és aludtam. Hol vannak az emberek?
-142;Megekülnek - azzal elfordult tőle újr az üveghez - amíg nem késő...
+142;Megekülnek - azzal elfordult tőle újra az üveghez - amíg nem késő...
 143;Ezt mégis hogy érti?
 144;Hát mégis úgy, hogy átaludt egy dinoszaurusz szökést... Kint van a spino...
 145;És? Nem fogták még be?
-146;Tegnap este óta keresik, mivel ha nem zavarná nem lőhetünk rá a maga engedélye nélül!
-147;1: Megpróbálod kialattatni, anélül hogy széles nyilvánosság megtudná
+146;Tegnap este óta keresik, mivel ha nem zavarná nem lőhetünk rá a maga engedélye nélkül!
+147;1: Megpróbálod kialtatni anélül, hogy széles nyilvánosság megtudná
 148;2: Kiüríted a park hozz közeli részét, és kiküldesz csapatokat, hogy altassák el
-149;A csapatok megindulnak, hogy elaltassák az állatot. Az akció sajnos sikertelen, a részvevők többek között elhunytak az akció közben. A spinosaurus sajnos egyre több emberben, illetve kifutóban tesz kárt, mikoris megindul északank, az indoraptor kifutó felé, éppen hogy ezt leközölték a rédión, csörögni kezd a telefonod, Jessie az.
+149;A csapatok megindulnak, hogy elaltassák az állatot. Az akció sajnos sikertelen, a részvevők többek között elhunytak az akció közben. A spinosaurus sajnos egyre több emberben, illetve kifutóban tesz kárt, mikoris megindul északnak, az indoraptor kifutó felé, éppen, hogy ezt leközölték a rédión, csörögni kezd a telefonod, Jessie az.
 150;1: Felveszed
 151;2: Figyelmen kívül hagyod
-152;Felveszed a telefont Jessie idegesen szinte üvölt bele a telfonba.
+152;Felveszed a telefont Jessie idegesen szinte üvölt bele a telefonba.
 153;Jöjönn ki a ki búvóhelyéről, és vállaljon feleőséget, nem várhatja meg hogy az az állat mindenkit megöljön a szigeten!
-154;A befogó csaptunk elhullot.
-155;Maradjunk a meghalt-nál. A spino az indoraptorjaim felé tart! Komolyan ha kárt tesz bennük...
-156;Akkor mi lesz, nem tud vele mit kezdeni, még idő mire új csapatok érkeznek. Nem tud tenni semmit, hacsak nem fog meg egy fegyvert és játsza le vele 1/1...
+154;A befogó csaptunk elhullott.
+155;Maradjunk a meghalt-nál. A spino az indoraptorjaim felé tart! Komolyan, ha kárt tesz bennük...
+156;Akkor mi lesz, nem tud vele mit kezdeni, még idő mire új csapatok érkeznek. Nem tud tenni semmit, hacsak nem fog meg egy fegyvert és játssza le vele 1/1...
 157;Nagyon poénos tényleg. Nem érzi a helyzet súlyosságát! Eddig kint van a spinosurus, a giganotosurus, az apatok, a brachiok, a velociraptorok, az indoraptorok, a baryonyxek, valamint még a therizino is, és ez még a kezdet, mindenhol áramkimaradások vannak, mit gondol lehet még várni egy kicsit?! Azonnal ürítse ki a szigetet!
 158;1: Evakuálod a szigetet
 159;2: Azonnal kimész a kikötőbe, hogy elhagyd a szigetet
-160;Mindent félre dobva rohansz ki a kikötőbe, hiszen tudod, hogy a szigeten esélytelen a túlélés. Megpillantod a hajót, fejvesztve fut arra, amikor is egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
-161;Megkezded a sziget kiürítését, természetesen jó vezetőtől elvártan magaddal kezded. Felszállsz egy hajóra és kezdesz távolodni a szigettől, az emberektől akiknek a halálát TE okoztad, és mégis te menekülksz meg egy ártatlan ember helyett...
-162;Jessie úgy dönt kezébe veszi az irányítást, ugynais a spino az indoraptorok kifutója felé halad. A lány kiengedi kedvenc állatait, majd magához vesz egy altató puskát. Az állatai hamar megtalálják, és beketítik, valamint sikeresen elterelik a figyelmét, lefoglalják, amíg Jessie sikeresen kialtatja. Egyszer csak kattan a rádió.
-163;Szükségünk lenne egy szállító-egységre, kiaaltattam a spinot!
+160;Mindent félre dobva rohansz ki a kikötőbe, hiszen tudod, hogy a szigeten esélytelen a túlélés. Megpillantod a hajót, fejvesztve fut arra, amikor is egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+161;Megkezded a sziget kiürítését, természetesen jó vezetőtől elvártan magaddal kezded. Felszállsz egy hajóra és kezdesz távolodni a szigettől, az emberektől, akiknek a halálát TE okoztad, és mégis te menekülsz meg egy ártatlan ember helyett...
+162;Jessie úgy dönt kezébe veszi az irányítást, ugyanis a spino az indoraptorok kifutója felé halad. A lány kiengedi kedvenc állatait, majd magához vesz egy altató puskát. Az állatai hamar megtalálják, és bekerítik, valamint sikeresen elterelik a figyelmét, lefoglalják, amíg Jessie sikeresen kialtatja. Egyszer csak kattan a rádió.
+163;Szükségünk lenne egy szállító-egységre, kialtattam a spinot!
 164;Hogy mit csinált?!
 165;Majd mesélek...
 166;Az egységek azonnal emindulnak a lány poziciójára, és elszálítját a hatalmas csúcsragadozót. Mire ők odaérnek az indoraptorok már rég a kifutójukban vannak. Minden visszaáll a rendes kerékvágásba.
+167;Kiüríted a spinohoz legközelebbi néhány látványosságot, egy technikai problémára hivatkozva. Egyszerre négy befogó csapat indul ki az állat elfogására. Sikerült kialtatni az állatot, majd mire visszavinnék a kifutójába sikerül megjavítani a sérült falakat.
+168;Lemész a vezérlőbe, feszült csend van, mindenki a monitorára van tapadva, fel sem mer nézni.
+169;Mi történt?
+170;Mindenki vár, hogy majd a másik válszoljon. Egy veled szemben lévő nagy monitoron látszik a sziget térképe,  egy piros pulzáló pont folyamatosan közeledik az indoraptorok kifutójához. Majd az egyik dolgozó elfolytott hangon megszólal.
+171;Volt egy kis baleset...
+172;Miféle bale...
+173;Majd téged felbeszakítva Jessie jön ki a liftből, utánna a biztonságiakkal, akiket sorra figyelmen kívül hagy.
+174;Senki ne mondja mégegyszer, hogy várnunk kell. Tele van ez a sziget fegyverekkel, itt az ideje használni őket, még mielőtt az indoraptorokhoz érne!
+175;Ki ér és hova?
+176;Látom sikerült felkelni... A maga giganotosaurusa úgy döntött, hogy kijön a kifutójából, elesett két befogó egység, a sziget északi részén nincs áram! Az a dög szabdon jár amerre akar!
+177;Hát hívni kell még pár befogó egységet!
+178;Már megreggelizett, és az ebédet is letudta az apatosaurusoknál, most elkapni kellene!
+179;Nem gondolja, hogy ez tiszteletlen a csapatokra?
+180;Ezek tények, viszont addig nellene elkapni, amíg többen nem sérülnek meg! Zárja le a park északi részét!
+181;Azt nem tehetem, az emberek azért jönnek, hogy megnézzék az új látványosságot!
+182;Magának az a két állat csak látványosság, de ha nem segít megoldom magamtól!
+183;1: Vársz a befogó csapatokra
+184;2: Kiküldöd a meglévő csapatokat
+185;Jessie idegesen kirohan a vezérlőből, egészen az indoraptorok kifutójához. Kint rengeteg ember áll kígyózó sorokban, várnak arra, hogy megtekinthessék az új állatokat, mit nem sejtve rájuk leselkedő veszélyről. A vezérlő kamerái odakapcsolnak a kifutóhoz. Sokadik rossz döntésed következményével találod szembe magad. Az emberek kint várnak, amikor is a giganoto kilép a fák közül. Az emebrek menekülnének. Jessie a kupola alól figyeli az eseményeket, amíg nem az óriás enkiront a kifutó falának. A nyolc méter magas, 5 méter széles betonfal tehetlenül omlik össze. Sok emeber ragad a romok közt. A giganoto tovább indul észak-keletnek fel a szigeten.
+186;1: Kimész az indoraptor kifutóhoz
+187;2: Azonnal a kitőbe indulsz, hogy elhagyd a szigetet
+188;Az indoraptorok felé veszed az irányt. Ahogy kijössz az aluljáróba a rengeteg halotton kívül megpillantod a két indoraptort. Valamit ásnak a romokon, egy darabig figyeled őket, amíg nem Jessie-t húzzák ki a romok közül. A lány Angel nyakába kapaszkodva felkel a romok közül, majd ahogy megpillant téged, feléd veszi az irányt.
+189;Remek, szeretne még több halottat?
+190;Honnan kellett volna tudnom, hoyg ez lesz?
+191;Én, meg a megmondtam!
+192;Jó lehet...
+193;Nem tudod levenni a szemed a lány vállai mögött álló két állatról.
+194;Velük mi a terv?
+195;Megvédem őket. A többi meg majd alakul.
+196;1: Elhagyod a szigetet
+197;2: Az irodád felé veszed az irányt, hogy segítséget tudj hívni
+198;A megmaradt négy egység kiindul a giganoto kilövésére, mindenki feszülten várja a fejleményeket. A csapatok sikeresen kialtatják, és visszaviszik a kifutójába. Egy délelőtti részleges lezárással meg tudod oldani a problémát.
+199;Felveszi a telefont, a vezérlőből hívtak.
+200;Kint van két allosaurus, a maga engedélyére lenne szükség, hogy lezárjuk a kifutójuk területét, és kilőhessük őket.
+201;1: Engedélyezed a lezárást, és a befogást
+202;2: Csak a befogást engedéylezed
+203;A befogó csapatok észrevétlenül elkapták az állatokat és visszaszállították őket a kifutójukba.
+204;A látogatók végignézik, ahogyan megszerelik a kapaukat, majd visszaszállítják a két állatot, ez rontja a biztonságérzetüket, de mindenki éppségben megússza.
+205;Ez a dolga ezeknek az állatoknak, majd hozzászikik a kis fakó is.
+206;De...
+207;Erről nem nyitok vitát!
+208;Estig beszélgetsz az emberekkel. Mindenki csak pozitív véleménnyel van az új dinoszauruszokról. Egyre jobban kezd kiürülni a hely, hiszen elérkezett a záróra, az emberek visszamennek a szállásra, hiszen kezdődik a karbantartás. Valami miatt te maradsz addig, amíg mindenki el nem megy. Az üveg előtt állsz, de már egy ideje nem látod az állatot, amíg nem...
+209;Azok a karmolások eddig is ott voltak?
+210;Nem láttam, de lehet, hogy csak az emberek takarták ki.
+211;1: Késő van már, ezért figyelmen kívül hagyod, és elmész aludni
+212;2: Le ellenőrződ az álaltok megétét, majd elmész aludni
+213;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki nem veszi fel.
+214;1: Lemész az eligazítóba
+215;2: Kimész a fő utcára
+216;Az eligazítóban feszült csend van.
+217;Mi történt?
+218;Na vajon mi? A maga új két állata, eddig csak párszáz látogatót ölt meg, meg kiengedett pár állatot... de maga csak aludjon értsd nehogy felvegye a telefont...
+219;Hogy történt? Tegnap este még bent voltak a kifutójukban!
+220;Ja a kulcsszó a voltak... Valahogy beírták a kapu nyitó kódot…
+221;Hogy érti hogy beírták a kódot?
+222;Kérdezze azt aki mindere megtanítja őket!
+223;Látogatók vannak még a szigeten?
+224;Persze, nincsen elég hajó, repülő, vagy helikopter hogy elvigye őket innen.
+225;És most?
+226;Maga a főnök, magának kell tudnia!
+227;1: Lemész a földalatti úthálózatra
+228;2: Azonnal a kikötőbe mész, hogy elhagyd a szigetet épségben
+229;Lemész a földalatti úthálózatra, biztonságban érzed magad.
+230;1: Elmész az irodád irányába
+231;2: A kikötőbe mész, hogy elhagyd a szigetet
+232;Haladsz a sziget belsejébe felé, tudod hogy ha eléred az irodádat, onnan tudsz magadnak segítséget hívni. Nem a tervvel volt a baj inkább a kivitelezéssel. Amint befordulsz az egyik sarkon egy világos szürke atrociraptorral találod szembe magadat. Megpróbálsz menekülni, megfordulsz, de mögötted egy másik, barna atrociraptort találsz. A következő pillanatban valami nehéz esik a hátadnak, te pedig elfekszel a földön. Valami furcsa nyomást érzel a hátadon, igen a raptor karma vágódott bele a hátadba. Aztán egy furcsa melegséget, vérzel. Az állat fogait érzed a tarkódon, majd összezár. Vége.
+233;Kimész a kikötőbe. Egy hajó még bent áll a kikötőben. Felszállsz a hajótestbe, és meghúzod magad, hogy a többi ember észre se vegyen.
+234;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel, hiszen meglátod az embereket pánikolni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+235;Kimész az utcára. A póznák kidőltek, a vezetékek többsége leszaladtak. Az út szélén egy nagy allosaurus feküdt. a hátán és a nyakán is több fognyom helyezkedett el. De a két állkapocs lenyomat ránézésre sem nem egyezik meg. A tetemtől két irányba mennek el lábnyomok. A bal oldalon több közepes méretű lábnyom van, amik kisebbek, mint a jobb oldalra vezető lábnyomok. A tetemből éppen több kis compy is eszik. Kétled, hogy a ragadozók ne jönnének vissza zsákmányukért, minél előbb el kell hagynod a helyet.
+236;1: Elindulsz a tetemtől ballra
+237;2: Elindulsz a tetemtől jobbra
+238;Követed az utat, de akármennyire is zavar a rengeteg lábnyom nem térsz le az útról. Majd hirtelen megállsz, teljes testedben megfagy a vér. Megtudod miért nem hozunk létre genetikusan módosított állatokat, mi a probléma a nálunk fizikailag, és nagy valószínűséggel mentálisan is fejlettebb állatok fogságában tartásával, hogy mi történik akkor, ha egy bezártságban nevelt, elnyomott, állat egyszer magához veszi az irányítást. Igen, az indoraptorok. A két állat körbevesz, és közelebbőr is megvizsgálják a velük szemben álló mozdulatlan embert, téged, azt, aki a létezésükért felelős, és ezzel együtt ezrek haláláért is. Az állatok egy darabig csak figyelmek, mintha csak játszanának veled. Majd egy váratlan pillanatban Angel föléd magasodik, kinyitja a száját. Érzed ahogy a szája körülvesz, majd összezár. Vége.
+239;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd abba a mennyiségű perbe fogsz esetleg belehalni, amit majd az elhunytak hozzátartozói akasztanak a nyakadba... Ez a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
+240;1: Bemenekülsz a legközelebbi épületbe
+241;2: Lefutsz az aluljáróba
+242;Befutsz az élületbe, az óriás azonnal kapcsol és előrehajtott fejjel ront neki az épületnek. Az épületek sem bírják ezt a szintű megterhelést, az állat által elkövetett támadás a földdel teszi egyenlővé. A giganoto egy darabig lökdösi a romokat, amik alatt fekve reménykedsz abban, hogy elmegy. Aztán hallod a dübörgő lépteit ahogyan egyre csak távolodnak. Elment. Csak fekszel a romok alatt, hirtelen egy magas szintű nyugalom tört rád. Nem ez az első hibád... Egy kotorászó hangot hallasz, majd egy jellegzetes pattogás szerű üvöltést, majd egy másikat, majd megint. Egyértelműen három különböző állatról van szó. Velociraptorok. Pontosan jól tudják, hogy a romok alatt vagy. Nem mersz mozdulni sem, de nem is kell az egyik veloci kirángtat a romok közül. Ekkor már tudod, hogy nincs menekvés. A zöld fellép a hátadra, és jelez a többinek, ekkor már négyen voltak. Majd egy szürke raptor kék sávval melléd lép, ő lehet az vezető. Lehajol a fejedhez, a tarkódon érzed a leheletet, a fogai a fejedhez érnek, majd összezár. Vége.
+243;Lefutsz az aluljáróba, ami fénykorában még a mozi bejárata volt. A giganoto orra figyel feléd a kijárat felől. Keresned kell egy másik megoldást, mert az az állat nem fog kímélni. Haladsz tovább az úton, fáradt vagy, nem tudod mi visz tovább, de nem mersz megállni. Megpillantod a vetítőszoba bejáratát.
+244;1: Bemész a vetítőbe
+245;2: Haladsz tovább a folyosón
+246;Tovább haladsz a folyosón, figyeled a plakátokat. "A világ legnagyobb és egyetlen őslényeket bemutató park!", "Kitüntetés a tudományos egyesülettől", "A dinoszauruszok csodájára jár a világ". Majd hirtelen megállsz, nincs időd a bűntudatod okozta lassú búcsúzkodás folyamatát megélned. Veled szemben egy üveggel elfedett plakát, egy carnotaurus feje látható rajta, az egyik itt vetített film plakátja az "Együtt élünk vagy velük, vagy ők élnek helyettünk?", a gondolataidba merülsz majd mintha a plakát pislogott volna. Remek már hallucinálsz is? Nem. Hátrafordul és mögötted áll egy carno. Az állat időt sem hagyott, hogy átgondold hova futsz majd, az állkapcsa azonnal nyílik, majd összezár. Vége.
+247;Belépsz a vetítőszobába, minden üres, popcornos zacskók üdítős poharak mindenhol a földön. Ahogyan a romokra figyelsz megpillantod mi tehette mindezt, a mozivászon szétszakad és egy baryonyx jön ki mögüle.
+248;1: Gyorsan bemászol a szellőzőbe
+249;2: Megpróbálod elhagyni a termet
+250;Elkezdesz a kijárat felé rohanni, azzal nem számolva, hogy a baryonyx gyorsabb nálad. Utolért. Lelök a földre, hatalmas hosszúkás pofáját a fejed mellé teszi, közelről is megvizsgálja az új prédáját. Egyszer csak elkezded érezni a tarkódon az állat fogsorát, majd összezár. Vége.
+251;Bemászol a szellőzőnyílásba, a baryonyx utánad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
+252;1: Haladsz tovább az irodádig
+253;2: Az első lehetőségnél kijössz a szellőzőből
+254;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 comy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
+255;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz, de elkezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
+256;Honnan veszi a jogot, hogy engem odébbrángatson!
+257;Honnan veszi a jogot, hogy ezt tegye az állatokkal?
+258;Ezt hogyan érti?
+259;A megnyitó napja hiba nélül meg végbe, az összes egység az indoraptorokat figyeli, hogy hogyan fognak reagálni az emberekre. Egyenlőre a szagok, és a hangok eléggé zavarják őket, de Jessinek sikerült lenyuigtatni őket, és megakadályozni, hogy folymatosan a falnak fussnak. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
+260;Mit gondol mennyire biztonságos a kifutó?
+261;Fizikailag nem hiszem, hogy ki tudnának jönni, bár szerintem még mindig kockázatos számukra elérhető helyre tenni a kapunyitó...
+262;Ezt hogy érti?
+263;Úgy hogy kitörni nem hiszem, hogy ki tudnának, de ha megtudják a kódot simán kinyitják.
+264;Persze, majd egy dinoszaurusz beírja a kapukódot, ne nevettessen!
+265;Velük vagyok amióta kikeltek, tudom, hogy képesek rá, hihetetlen intligensek!
