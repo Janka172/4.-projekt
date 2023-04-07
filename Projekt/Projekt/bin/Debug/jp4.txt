@@ -63,8 +63,8 @@
 62;Bemászol a szellőzőnyílásba, a baryonyx utánad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
 63;1: Haladsz tovább az irodádig
 64;2: Az első lehetőségnél kijössz a szellőzőből
-65;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 comy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
-66;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz amit látsz de elkezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
+65;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 compy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
+66;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz de el kezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
 67;Nem tudsz elvonatkoztatni attól amit látsz, így az állat gondozójával felmentek a kapu felett húzódó járható kis ösvényre, ehhez viszont le kell kapcsolnotok a kifutó falaiban lévő áramot, hiszen ha rálépnétek anélkül, bele is halnátok az áramütésbe. A ketrec gyengepontja egyértelműen a kapu. Sajnos ezt az indominusz is tudja.
 68;1: Lemész a kapu fölötti szakaszról
 69;2: Maradsz hiszen onnan jobban belátod a kifutót
@@ -134,7 +134,7 @@
 133;Jessie felvett a polcról egy diktafont, és elhagyta a raktárhegységet, majd meghallod éles "enyhén" ingerült hangját, majd a morajló tömeget. Egy 15 percet vársz bent, elintézel néhány egészen fontos telefonhívást, majd kimész. Nagyjából harmad annyi ember áll az üveg előtt, a tömeg kígyózik kint, de szigorúan az épület keleti oldalára lettek átcsoportosítva az emberek. Benézel az üvegen, a két indoraptor éppen eszik, Angel elég nyugodtan viselkedik. Ezek szerint egy probléma megoldva. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
 134;1: Elmész aludni
 135;2: Visszahívod
-136;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni de senki sem kapcsolható.
+136;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki sem kapcsolható.
 137;1: Kimész az indoraptor kifutóhoz
 138;2: Lemész a vezérlőbe
 139;Jessie az üvegfal előtt ült egyedül, és az állatait figyelte, látszott, hogy gondterhelt, meg egyébként is hol vannak a látogatók?
@@ -164,31 +164,31 @@
 163;Szükségünk lenne egy szállító-egységre, kialtattam a spinot!
 164;Hogy mit csinált?!
 165;Majd mesélek...
-166;Az egységek azonnal emindulnak a lány poziciójára, és elszálítját a hatalmas csúcsragadozót. Mire ők odaérnek az indoraptorok már rég a kifutójukban vannak. Minden visszaáll a rendes kerékvágásba.
-167;Kiüríted a spinohoz legközelebbi néhány látványosságot, egy technikai problémára hivatkozva. Egyszerre négy befogó csapat indul ki az állat elfogására. Sikerült kialtatni az állatot, majd mire visszavinnék a kifutójába sikerül megjavítani a sérült falakat.
+166;Az egységek azonnal elindulnak a lány pozíciójára, és elszállítják a hatalmas csúcsragadozót. Mire ők odaérnek az indoraptorok már rég a kifutójukban vannak. Minden visszaáll a rendes kerékvágásba.
+167;Kiüríted a spinonhoz legközelebbi néhány látványosságot, egy technikai problémára hivatkozva. Egyszerre négy befogó csapat indul ki az állat elfogására. Sikerült kialtatni az állatot, majd mire visszavinnék a kifutójába sikerül megjavítani a sérült falakat.
 168;Lemész a vezérlőbe, feszült csend van, mindenki a monitorára van tapadva, fel sem mer nézni.
 169;Mi történt?
-170;Mindenki vár, hogy majd a másik válszoljon. Egy veled szemben lévő nagy monitoron látszik a sziget térképe,  egy piros pulzáló pont folyamatosan közeledik az indoraptorok kifutójához. Majd az egyik dolgozó elfolytott hangon megszólal.
+170;Mindenki vár, hogy majd a másik válaszoljon. Egy veled szemben lévő nagy monitoron látszik a sziget térképe,  egy piros pulzáló pont folyamatosan közeledik az indoraptorok kifutójához. Majd az egyik dolgozó lefolytot hangon megszólal.
 171;Volt egy kis baleset...
 172;Miféle bale...
-173;Majd téged felbeszakítva Jessie jön ki a liftből, utánna a biztonságiakkal, akiket sorra figyelmen kívül hagy.
-174;Senki ne mondja mégegyszer, hogy várnunk kell. Tele van ez a sziget fegyverekkel, itt az ideje használni őket, még mielőtt az indoraptorokhoz érne!
+173;Majd téged felbeszakítva Jessie jön ki a liftből, utána a biztonságiakkal, akiket sorra figyelmen kívül hagy.
+174;Senki ne mondja meg egyszer, hogy várnunk kell. Tele van ez a sziget fegyverekkel, itt az ideje használni őket, még mielőtt az indoraptorokhoz érne!
 175;Ki ér és hova?
-176;Látom sikerült felkelni... A maga giganotosaurusa úgy döntött, hogy kijön a kifutójából, elesett két befogó egység, a sziget északi részén nincs áram! Az a dög szabdon jár amerre akar!
+176;Látom sikerült felkelni... A maga giganotosaurus úgy döntött, hogy kijön a kifutójából, elesett két befogó egység, a sziget északi részén nincs áram! Az a dög szabadon jár amerre akar!
 177;Hát hívni kell még pár befogó egységet!
 178;Már megreggelizett, és az ebédet is letudta az apatosaurusoknál, most elkapni kellene!
 179;Nem gondolja, hogy ez tiszteletlen a csapatokra?
-180;Ezek tények, viszont addig nellene elkapni, amíg többen nem sérülnek meg! Zárja le a park északi részét!
+180;Ezek tények, viszont addig kellene elkapni, amíg többen nem sérülnek meg! Zárja le a park északi részét!
 181;Azt nem tehetem, az emberek azért jönnek, hogy megnézzék az új látványosságot!
 182;Magának az a két állat csak látványosság, de ha nem segít megoldom magamtól!
 183;1: Vársz a befogó csapatokra
 184;2: Kiküldöd a meglévő csapatokat
-185;Jessie idegesen kirohan a vezérlőből, egészen az indoraptorok kifutójához. Kint rengeteg ember áll kígyózó sorokban, várnak arra, hogy megtekinthessék az új állatokat, mit nem sejtve rájuk leselkedő veszélyről. A vezérlő kamerái odakapcsolnak a kifutóhoz. Sokadik rossz döntésed következményével találod szembe magad. Az emberek kint várnak, amikor is a giganoto kilép a fák közül. Az emebrek menekülnének. Jessie a kupola alól figyeli az eseményeket, amíg nem az óriás enkiront a kifutó falának. A nyolc méter magas, 5 méter széles betonfal tehetlenül omlik össze. Sok emeber ragad a romok közt. A giganoto tovább indul észak-keletnek fel a szigeten.
+185;Jessie idegesen kirohan a vezérlőből, egészen az indoraptorok kifutójához. Kint rengeteg ember áll kígyózó sorokban, várnak arra, hogy megtekinthessék az új állatokat, mit nem sejtve rájuk leselkedő veszélyről. A vezérlő kamerái odakapcsolnak a kifutóhoz. Sokadik rossz döntésed következményével találod szembe magad. Az emberek kint várnak, amikor is a giganoto kilép a fák közül. Az emberek menekülnének. Jessie a kupola alól figyeli az eseményeket, amíg nem az óriás nekiront a kifutó falának. A nyolc méter magas, 5 méter széles betonfal tehetetlenül omlik össze. Sok ember ragad a romok közt. A giganoto tovább indul észak-keletnek fel a szigeten.
 186;1: Kimész az indoraptor kifutóhoz
 187;2: Azonnal a kitőbe indulsz, hogy elhagyd a szigetet
 188;Az indoraptorok felé veszed az irányt. Ahogy kijössz az aluljáróba a rengeteg halotton kívül megpillantod a két indoraptort. Valamit ásnak a romokon, egy darabig figyeled őket, amíg nem Jessie-t húzzák ki a romok közül. A lány Angel nyakába kapaszkodva felkel a romok közül, majd ahogy megpillant téged, feléd veszi az irányt.
 189;Remek, szeretne még több halottat?
-190;Honnan kellett volna tudnom, hoyg ez lesz?
+190;Honnan kellett volna tudnom, hogy ez lesz?
 191;Én, meg a megmondtam!
 192;Jó lehet...
 193;Nem tudod levenni a szemed a lány vállai mögött álló két állatról.
@@ -200,9 +200,9 @@
 199;Felveszi a telefont, a vezérlőből hívtak.
 200;Kint van két allosaurus, a maga engedélyére lenne szükség, hogy lezárjuk a kifutójuk területét, és kilőhessük őket.
 201;1: Engedélyezed a lezárást, és a befogást
-202;2: Csak a befogást engedéylezed
+202;2: Csak a befogást engedélyezed
 203;A befogó csapatok észrevétlenül elkapták az állatokat és visszaszállították őket a kifutójukba.
-204;A látogatók végignézik, ahogyan megszerelik a kapaukat, majd visszaszállítják a két állatot, ez rontja a biztonságérzetüket, de mindenki éppségben megússza.
+204;A látogatók végig nézik, ahogyan megszerelik a kapukat, majd visszaszállítják a két állatot, ez rontja a biztonságérzetüket, de mindenki épségben megússza.
 205;Ez a dolga ezeknek az állatoknak, majd hozzászikik a kis fakó is.
 206;De...
 207;Erről nem nyitok vitát!
@@ -252,15 +252,15 @@
 251;Bemászol a szellőzőnyílásba, a baryonyx utánad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
 252;1: Haladsz tovább az irodádig
 253;2: Az első lehetőségnél kijössz a szellőzőből
-254;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 comy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
-255;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz, de elkezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
-256;Honnan veszi a jogot, hogy engem odébbrángatson!
+254;Az irodád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 compy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
+255;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz, de el kezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
+256;Honnan veszi a jogot, hogy engem odébb rángatson!
 257;Honnan veszi a jogot, hogy ezt tegye az állatokkal?
 258;Ezt hogyan érti?
-259;A megnyitó napja hiba nélül meg végbe, az összes egység az indoraptorokat figyeli, hogy hogyan fognak reagálni az emberekre. Egyenlőre a szagok, és a hangok eléggé zavarják őket, de Jessinek sikerült lenyuigtatni őket, és megakadályozni, hogy folymatosan a falnak fussnak. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
+259;A megnyitó napja hiba nélkül meg végbe, az összes egység az indoraptorokat figyeli, hogy hogyan fognak reagálni az emberekre. Egyelőre a szagok és a hangok eléggé zavarják őket, de Jessinek sikerült lenyugtatni őket, és megakadályozni, hogy folyamatosan a falnak fussanak. Már elég fáradt vagy, de látod, hogy van egy nem fogadott hívásod...
 260;Mit gondol mennyire biztonságos a kifutó?
 261;Fizikailag nem hiszem, hogy ki tudnának jönni, bár szerintem még mindig kockázatos számukra elérhető helyre tenni a kapunyitó...
 262;Ezt hogy érti?
 263;Úgy hogy kitörni nem hiszem, hogy ki tudnának, de ha megtudják a kódot simán kinyitják.
 264;Persze, majd egy dinoszaurusz beírja a kapukódot, ne nevettessen!
-265;Velük vagyok amióta kikeltek, tudom, hogy képesek rá, hihetetlen intligensek!
+265;Velük vagyok amióta kikeltek, tudom, hogy képesek rá, hihetetlen intelligensek!
