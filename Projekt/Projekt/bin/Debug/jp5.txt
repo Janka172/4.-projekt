@@ -25,4 +25,35 @@
 24;Tulajdonképpen akár már a héten is.
 25;1: Meghirdetitek az Indoraptorokok bemutatásának dátumát
 26;2: Szabad kezet kérsz, hogy csak egy bizonyos mennyiségű ember tartózkodhasson a kifutónál egyidejűleg
-27;
+27;Hihetetlen mennyiségű ember érkezett az új "látványoság" bemutatására, kora hajnalban kiértél az állatokhoz, hogy meg tudd figyelni, hogyan reagálnak majd a rengeteg emberre. Az állataid' minden délben szoktad megetetni, és ezt a látogatók tudták is. Ez lehett az oka, hogy szinte alig tudtad átverekedni magadat a tömegen, hogy be tudj jutni kifutó feletti szerkezetre. A sok ember miatt a két állat elég zavart.
+28;1: Leviszed nekik az ételt, ahogy szoktad
+29;2: Ledobod nekik a kaját, mivel láthatóan ingerültek
+30;Úgy gondolod, tartod a szokásos rutint, hogy az indoraptorok ne bizonytalandojanak el teljesen. Kinyitod a kaput, és lesétálsz a fém lépcsőkön, a kezedben két vödörnyi hússal. A két állat odafut a lépcső végére. Az emberek az üveg másik felé egyszer csak elhallgatnak, furcsálják a tetteidet. Leteszed eléjük az ételt, lent maradsz velük amíg esznek, majd felviszed a két vödröt. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a heléyzet, amikor megindul a záróra.
+31;1: Időben hazamész aludni
+32;2: Kint alszol a kifutó vezérlőjében
+33;Hihetetlen rosszul aludtál az éjjel. Arról nem is beszélve, hogy a szokásos ébresztőd helyett a csengőhangod ébreszt fel. A főnököd az.
+34;1: Felveszed a telefont
+35;2: Kinyomod, és megvárod az ébresztőt
+36;Figyeljen, van egy kis probléma!
+37;Hallgatom!
+38;Eltűntek az indoraptorok!
+39;Hogy érti hogy eltőntek?
+40;Tárva nyitva a kapu, és a két állat nincs a kifutóban! Az őr is arra ébredt, hogy hallja a kaput nyílni, de nem volt ideje visszacsukni. Eddig három ember elesett.
+41;Az nincs meg ki nyithattta ki?
+42;Valszínűleg baleset volt...
+43;Jó az nem is fontos, és jól vannak?
+44;Azt sem tudjuk hol vannak, és hány embert fogank még kinyírni, és amgát az érdekli jól vannak-e?!
+45;Vannak még kint más állatok?
+46;Egyre többen, de őket viszont megoldják a befogó csapatok, de két indoraptort nem érzékelik a műszerek!
+47;1: Megkeresed őket
+48;2: Lelépsz a szigetről, amíg még nem késő
+49;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+50;Kimész az utcára annak reményében, hogy megtalálod szeretett állataidat. A fő utca közepén fekszik egy carnotaurusz, halott. Na de mi végezhette vele? Vagy mik? A háta tele van harapásnyomokkal, valamint leszakadt az egyik combja is. A két sérülést nem okozhatta ugyanaz az állat... A tetemtől jobbra hatalmas lábnyomokat látsz, ballra sokkal több közepes lábnyomot, valamiylen raptor lehet, látszik hogy a nagy karmuk leért a porba.
+51;1: Jobba mész
+52;2: Ballra mész
+53;Elindulsz a hatalmas lábnyomok irányába, majd megpillantod, a giganotosaurus... Az ereidben megfagy a vér, kétségbeesetten elkezdesz futni, és segítségért kiáltani, majd megbotlasz a befogócsapat egyik tagjának holttestében. A giganoto feléd fordul, mikor hitelen a két indoraptor felugrik a hatalmas állatra. Felekelsz a föltről...
+54;1: Elveszed az őr alatató-fegyverét, és besegítesz az állataidnak
+55;2: Elkezdesz menekülni
+56;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, adonnal rádveti magát. Kellett cserbenhagyni azokat akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
+57;Felkaptod fegyvert és elkezdesz tüzelni, a hatalmas állat egész könnyen kialudt, az indoraptorjaiddal maradsz mindaddig amíg a befogó-csapatok ki nem érnek és be nem viszik az összes állatot. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
+
