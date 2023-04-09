@@ -56,4 +56,3 @@
 55;2: Elkezdesz menekülni
 56;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, adonnal rádveti magát. Kellett cserbenhagyni azokat akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
 57;Felkaptod fegyvert és elkezdesz tüzelni, a hatalmas állat egész könnyen kialudt, az indoraptorjaiddal maradsz mindaddig amíg a befogó-csapatok ki nem érnek és be nem viszik az összes állatot. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
-
