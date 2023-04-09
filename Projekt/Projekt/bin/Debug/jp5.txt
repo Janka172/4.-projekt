@@ -37,7 +37,7 @@
 36;Figyeljen, van egy kis probléma!
 37;Hallgatom!
 38;Eltűntek az indoraptorok!
-39;Hogy érti hogy eltőntek?
+39;Hogy érti hogy eltűntek?
 40;Tárva nyitva a kapu, és a két állat nincs a kifutóban! Az őr is arra ébredt, hogy hallja a kaput nyílni, de nem volt ideje visszacsukni. Eddig három ember elesett.
 41;Az nincs meg ki nyithattta ki?
 42;Valszínűleg baleset volt...
@@ -57,3 +57,4 @@
 56;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, adonnal rádveti magát. Kellett cserbenhagyni azokat akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
 57;Felkaptod fegyvert és elkezdesz tüzelni, a hatalmas állat egész könnyen kialudt, az indoraptorjaiddal maradsz mindaddig amíg a befogó-csapatok ki nem érnek és be nem viszik az összes állatot. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
 58;Követed a kis lábnyomok sorát, egyre több irányba ágaznak szét. Egyszer csak megillantasz egy dilophosaurust az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés fiss volt. Próbálod közelebbről szemügyre venni a tetemet, de meghallasz egy imerős hangot. Infernó és Angel teljes sebességükkel haladnak feléd. A két állat közvetlen előtted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
+59;Kinyomod a telefont annak reményében, hogy tudsz valamennyit pihenni. Sokmindenre nem mész vele, hiszen egy fél órán belül megszólal az ébresztőd. 48 nem fogadott hívás... a főnököd az, visszahívod.
