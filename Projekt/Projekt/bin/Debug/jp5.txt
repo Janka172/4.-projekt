@@ -1,34 +1,34 @@
-0;A megnyitása óta dolgozol a Juraasic Parkban, sok különféle feladatot kelltt már, elltátnod, többségében állatgondozói szerpeket, a ticeratopsoktól a rexekig mindennel dolgoztál már. Mígnem kaptál egy különleges felkérést, amikor is főnököd az irodájába hivatott.
+0;A megnyitása óta dolgozol a Jurassic Parkban, sok különféle feladatot kellett már, ellátnod, többségében állatgondozói szerepeket, a ticeratopsoktól a rexekig mindennel dolgoztál már. Mígnem kaptál egy különleges felkérést, amikor is főnököd az irodájába hivatott.
 1;1: Izgatott vagy ezért idő előtt odaérsz
 2;2: A pontosan megbeszélt időpontra érsz oda
-3;Nagyon várod már, hogy mi lesz az a nagy bejelnteni való. Reménykedsz benne, hogy kapsz egy új állatot, amivel majd foglalkozhatsz, de nem marad sok időd gondolkozni, mert közben odaérsz. Leülsz a főnököddel, a park tulajával szemben.
+3;Nagyon várod már, hogy mi lesz az a nagy bejelenteni való. Reménykedsz benne, hogy kapsz egy új állatot, amivel majd foglalkozhatsz, de nem marad sok időd gondolkozni, mert közben odaérsz. Leülsz a főnököddel, a park tulajával szemben.
 4;Szóval úgy gondolom ideje lenne a tárgyra térni.
 5;Hallgatom!
-6;A parkban már egy ideje fut egy új fejlesztési program. Az eddig felkeresett emberek nem merték elvállani félve a következményektől. A program keretei között létrehoztuk az első genetikusan módosított hibrid dinoszauruszt. Az indoraptort.
+6;A parkban már egy ideje fut egy új fejlesztési program. Az eddig felkeresett emberek nem merték elvállalni félve a következményektől. A program keretei között létrehoztuk az első genetikusan módosított hibrid dinoszauruszt. Az indoraptort.
 7;Egy új fajta állat?
 8;Egyenesen kettő! jelen pillanatban még két tojás, a szó szoros értelmében. A maga feladata az lenne, hogy felnevelje a két állatot. A kutató-csapataink szerint elég intelligensek ahhoz, hogy képezhetőek legyenek.
 9;Miféle képzésre gondol?
 10;Az már nekünk elég lenne, ha hallgatnának magára.
 11;1: Dolgozó: Miért pont én?
-12;2: Dolgozó: Mikorra várható hogy kilejenek?
+12;2: Dolgozó: Mikorra várható hogy kikeljenek?
 13;Magát tartom annyira elvetemültnek, hogy elválalja.
 14;Holnapra várhatóak, viszont ez azt jeleni, hogy velük teljes állásban kell hogy foglalkozzon, ezért a brachiosaurusok új gondozót kapnak.
-15;Másnap egész délelöttödet kint töltöd a leendő állataid tojásaival, mikoris a bal szélső tojás héjja repedezni kezd, majd a másik is. Közelebb mész hozzájuk, és letérdelsz a földre. A bal oldaliből egy pici fehér fej bújuk ki a nyaka szélén két sárga sáv, a másik kis fekete szintén sárga sávokkal. A testük kicsi, de a felépítésük erős. Pici fogaik élesek mint egy-egy penge. Mellső lábaikat szinte kézként használják, ujjaik végén kis, de annál erősebb karmokkal. Azonnal közel mennek hozzád, mint az első élőlényhez akit valaha láttak. A kis fekete szem szinte lángolóan citromsárga, de fehér szeme szürke, teljesen fakó, nincsen fénye. Vak.
+15;Másnap egész délelőttödet kint töltöd a leendő állataid tojásaival, mikoris a bal szélső tojás héja repedezni kezd, majd a másik is. Közelebb mész hozzájuk, és letérdelsz a földre. A bal oldaliból egy pici fehér fej bújuk ki a nyaka szélén két sárga sáv, a másik kis fekete szintén sárga sávokkal. A testük kicsi, de a felépítésük erős. Pici fogaik élesek, mint egy-egy penge. Mellső lábaikat szinte kézként használják, ujjaik végén kis, de annál erősebb karmokkal. Azonnal közel mennek hozzád, mint az első élőlényhez, akit valaha láttak. A kis fekete szem szinte lángolóan citromsárga, de fehér szeme szürke, teljesen fakó, nincsen fénye. Vak.
 16; Három hónapot dolgoztál a két állattal mikorra egész kifejlett állapotba kerültek. Éppen egy szokásos gyakorlatot végeztél el velük mikor a főnököd megjelent a kifutó szélén. Most látja előszőr a két állatot. Te dobsz nekik egy-egy jutalomfalatot majd kimész beszélgetni. A két állat a vállaid mögött követ egészen a kijáratig.
 17;Látom elég jól halad velük!
 18;Hát igen, sok állattal dolgoztam már, de Angel és Infernó minden szempontból különlegesek.
 19;Angel és Infernó? Az Infernó még úgy ahogy, na de az Angel?
 20;A fekete Infernó, a fehér Angel.
 21;Mit gondol megmarad mindkettő?
-22;Ha Angel vakságára céloz, akkor ez elég izléstelen rá nézve, tökéltesen életképes így is. Csak ő nem látás alapján, hanem hőhullámok alapján tájékozódik.
+22;Ha Angel vakságára céloz, akkor ez elég ízléstelen rá nézve, tökéltesen életképes így is. Csak ő nem látás alapján, hanem hőhullámok alapján tájékozódik.
 23;Jó nem ez a fontos, mikortól lesznek bemutatható állapotban?
 24;Tulajdonképpen akár már a héten is.
-25;1: Meghirdetitek az Indoraptorokok bemutatásának dátumát
+25;1: Meghirdetitek az Indoraptorok bemutatásának dátumát
 26;2: Szabad kezet kérsz, hogy csak egy bizonyos mennyiségű ember tartózkodhasson a kifutónál egyidejűleg
-27;Hihetetlen mennyiségű ember érkezett az új "látványoság" bemutatására, kora hajnalban kiértél az állatokhoz, hogy meg tudd figyelni, hogyan reagálnak majd a rengeteg emberre. Az állataid' minden délben szoktad megetetni, és ezt a látogatók tudták is. Ez lehett az oka, hogy szinte alig tudtad átverekedni magadat a tömegen, hogy be tudj jutni kifutó feletti szerkezetre. A sok ember miatt a két állat elég zavart.
+27;Hihetetlen mennyiségű ember érkezett az új "látványoság" bemutatására, kora hajnalban kiértél az állatokhoz, hogy meg tudd figyelni, hogyan reagálnak majd a rengeteg emberre. Az állataid' minden délben szoktad megetetni, és ezt a látogatók tudták is. Ez lehetett az oka, hogy szinte alig tudtad átverekedni magadat a tömegen, hogy be tudj jutni kifutó feletti szerkezetre. A sok ember miatt a két állat elég zavart.
 28;1: Leviszed nekik az ételt, ahogy szoktad
 29;2: Ledobod nekik a kaját, mivel láthatóan ingerültek
-30;Úgy gondolod, tartod a szokásos rutint, hogy az indoraptorok ne bizonytalandojanak el teljesen. Kinyitod a kaput, és lesétálsz a fém lépcsőkön, a kezedben két vödörnyi hússal. A két állat odafut a lépcső végére. Az emberek az üveg másik felé egyszer csak elhallgatnak, furcsálják a tetteidet. Leteszed eléjük az ételt, lent maradsz velük amíg esznek, majd felviszed a két vödröt. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a heléyzet, amikor megindul a záróra.
+30;Úgy gondolod, tartod a szokásos rutint, hogy az indoraptorok ne bizonytalanodjanak el teljesen. Kinyitod a kaput, és lesétálsz a fém lépcsőkön, a kezedben két vödörnyi hússal. A két állat odafut a lépcső végére. Az emberek az üveg másik felé egyszer csak elhallgatnak, furcsálljak a tetteidet. Leteszed eléjük az ételt, lent maradsz velük amíg esznek, majd felviszed a két vödröt. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a helyzet, amikor megindul a záróra.
 31;1: Időben hazamész aludni
 32;2: Kint alszol a kifutó vezérlőjében
 33;Hihetetlen rosszul aludtál az éjjel. Arról nem is beszélve, hogy a szokásos ébresztőd helyett a csengőhangod ébreszt fel. A főnököd az.
@@ -39,29 +39,72 @@
 38;Eltűntek az indoraptorok!
 39;Hogy érti hogy eltűntek?
 40;Tárva nyitva a kapu, és a két állat nincs a kifutóban! Az őr is arra ébredt, hogy hallja a kaput nyílni, de nem volt ideje visszacsukni. Eddig három ember elesett.
-41;Az nincs meg ki nyithattta ki?
+41;Az nincs meg ki nyithatta ki?
 42;Valszínűleg baleset volt...
 43;Jó az nem is fontos, és jól vannak?
-44;Azt sem tudjuk hol vannak, és hány embert fogank még kinyírni, és amgát az érdekli jól vannak-e?!
+44;Azt sem tudjuk hol vannak, és hány embert fognak még kinyírni, és magát az érdekli jól vannak-e?!
 45;Vannak még kint más állatok?
 46;Egyre többen, de őket viszont megoldják a befogó csapatok, de két indoraptort nem érzékelik a műszerek!
 47;1: Megkeresed őket
 48;2: Lelépsz a szigetről, amíg még nem késő
 49;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
-50;Kimész az utcára annak reményében, hogy megtalálod szeretett állataidat. A fő utca közepén fekszik egy carnotaurusz, halott. Na de mi végezhette vele? Vagy mik? A háta tele van harapásnyomokkal, valamint leszakadt az egyik combja is. A két sérülést nem okozhatta ugyanaz az állat... A tetemtől jobbra hatalmas lábnyomokat látsz, ballra sokkal több közepes lábnyomot, valamilyen raptor lehet, látszik hogy a nagy karmuk leért a porba.
+50;Kimész az utcára annak reményében, hogy megtalálod szeretett állataidat. A fő utca közepén fekszik egy carnotaurus, halott. Na de mi végezhette vele? Vagy mik? A háta tele van harapásnyomokkal, valamint leszakadt az egyik combja is. A két sérülést nem okozhatta ugyanaz az állat... A tetemtől jobbra hatalmas lábnyomokat látsz, ballra sokkal több közepes lábnyomot, valamilyen raptor lehet, látszik, hogy a nagy karmuk leért a porba.
 51;1: Jobba mész
 52;2: Ballra mész
-53;Elindulsz a hatalmas lábnyomok irányába, majd megpillantod, a giganotosaurus... Az ereidben megfagy a vér, kétségbeesetten elkezdesz futni, és segítségért kiáltani, majd megbotlasz a befogócsapat egyik tagjának holttestében. A giganoto feléd fordul, mikor hitelen a két indoraptor felugrik a hatalmas állatra. Felekelsz a föltről...
-54;1: Elveszed az őr alatató-fegyverét, és besegítesz az állataidnak
+53;Elindulsz a hatalmas lábnyomok irányába, majd megpillantod, a giganotosaurus... Az ereidben megfagy a vér, kétségbeesetten elkezdesz futni, és segítségért kiáltani, majd megbotlasz a befogócsapat egyik tagjának holttestében. A giganoto feléd fordul, mikor hitelen a két indoraptor felugrik a hatalmas állatra. Felkelsz a földről...
+54;1: Elveszed az őr altató-fegyverét, és besegítesz az állataidnak
 55;2: Elkezdesz menekülni
-56;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, adonnal rádveti magát. Kellett cserbenhagyni azokat akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
+56;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, azonnal rádveti magát. Kellett cserbenhagyni azokat, akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
 57;Felkaptod fegyvert és elkezdesz tüzelni, a hatalmas állat egész könnyen kialudt, az indoraptorjaiddal maradsz mindaddig amíg a befogó-csapatok ki nem érnek és be nem viszik az összes állatot. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
-58;Követed a kis lábnyomok sorát, egyre több irányba ágaznak szét. Egyszer csak megillantasz egy dilophosaurust az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés fiss volt. Próbálod közelebbről szemügyre venni a tetemet, de meghallasz egy imerős hangot. Infernó és Angel teljes sebességükkel haladnak feléd. A két állat közvetlen előtted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
-59;Kinyomod a telefont annak reményében, hogy tudsz valamennyit pihenni. Sokmindenre nem mész vele, hiszen egy fél órán belül megszólal az ébresztőd. 48 nem fogadott hívás... a főnököd az, visszahívod.
-60;Felmész a kifutó feletti szerkezetre, a két állat megszokása szerint odamegy a lépcső lejáratához, és leülnek. Várnak rád, de te csak ledobon nekik az ételt, ettől elég zavartan viselkednek, de megeszik. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a heléyzet, amikor megindul a záróra.
+58;Követed a kis lábnyomok sorát, egyre több irányba ágaznak szét. Egyszer csak megpillantasz egy dilophosaurust az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés friss volt. Próbálod közelebbről szemügyre venni a tetemet, de meg hallasz egy ismerős hangot. Infernó és Angel teljes sebességükkel haladnak feléd. A két állat közvetlen elötted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
+59;Kinyomod a telefont annak reményében, hogy tudsz valamennyit pihenni. Sok mindenre nem mész vele, hiszen egy fél órán belül megszólal az ébresztőd. 48 nem fogadott hívás... a főnököd az, visszahívod.
+60;Felmész a kifutó feletti szerkezetre, a két állat megszokása szerint odamegy a lépcső lejáratához, és leülnek. Várnak rád, de te csak ledobon nekik az ételt, ettől elég zavartan viselkednek, de megeszik. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a helyzet, amikor megindul a záróra.
 61;Csak egy kikötés van, ami fontos lenne...
 62;Hallgatom!
-63;Még rajtam kívül nem találkoztak sok emberrel, akivel meg igen az jelenleg kórházban van, tehát nem tudhatjuk előre, hogfy hogyan fognak reagálni az emberekre, ezért nem kellene egyszerre sok embert beengedni. Egyszerre száz embernél több ember ne legyen a kifutónál, mert megviselheti őket.
-64;Biztonsági szempontből ez előnyös lenne?
+63;Még rajtam kívül nem találkoztak sok emberrel, akivel meg igen az jelenleg kórházban van, tehát nem tudhatjuk előre, hogy hogyan fognak reagálni az emberekre, ezért nem kellene egyszerre sok embert beengedni. Egyszerre száz embernél több ember ne legyen a kifutónál, mert megviselheti őket.
+64;Biztonsági szempontból ez előnyös lenne?
 65;Mindenképpen.
 66;Akkor legyen.
+67;A parkban már egy ideje fut egy új fejlesztési program. Az eddig felkeresett emberek nem merték elvállalni félve a következményektől. A program keretei között létrehoztuk az első genetikusan módosított hibrid dinoszauruszt. Az indominusz rexet.
+68;2: Dolgozó: Mikorra várható, hogy kilejen?
+69;Erre a válaszra vártam! Holnapra várható, viszont ez azt jeleni, hogy vele teljes állásban kell, hogy foglalkozzon, ezért a brachiosaurusok új gondozót kapnak.
+70;Másnap már korán kimész a leendő kifutóhoz. A fal 12 méter magas, dupla fallal. A szerkezet tetejére egy fém léplépcső vezet fel, ami egy a kifutó feletti úthoz vezet fel. 10 méterrel a föld felett. Arról nem volt szó, hogy az állat ekkora lesz... mindegy, ha már elvállaltad megoldod.
+71;Sokáig ültél bent, és ismerkedtél a kifutóval, mikor is a tojás elkezd repedezni. A tojáshéj alól egy kis kar nyúl ki. Az állat egész teste hófehér, szemei irreálisan nagyok, és élénk sárgák. Két hátsó lábán áll, a mellső lábai hátulján és a nyakán tüskék sorakoztak. Fogai már születésekor nagyon erősek, és élesek, karmai szélesek és félhold alakban hajolnak vissza.
+72;A fizikumából hamar le tudod szűrni, hogy ha nem figyelsz rá eléggé komoly veszélyt jelenthet a látogatókra. Három hónapon keresztül minden reggel kimész az új állatodhoz, és napi háromszor megeteted személyesen. Rengeteg mindent tanítasz az állatnak, hiszen hihetetlenül okos a 'rex.
+73;Hogy haladtok?
+74;Elég jól, Infernó nagyon intelligens, és egyébként szófogadó is. Sok dolgot megnehezít, hogy lassan 9 méter magas. Hihetetlen sokat nőtt a Drága'...
+75;Infernó? Szóval lett neve is?
+76;Már amikor kikelt megvolt...
+77;Hallgat is rá?
+78;Amúgy igen.
+79;Mit gondol a látogatók megnézhetik majd fentről a hídról?
+80;Ha rám hallgat még maga se menjen fel oda. Mivel egyre nagyobb már feléri a hidat, és újabban fellépedet rá. Főleg, hogy nagyon szépen megáll a hátsó végtagjain.
+81;Jó tudni. Azzal nem számoltunk hogy ekkorára nő majd. Maga még mindig onnan eteti? Lehet biztonságosabb lenne, a daruval.
+82;Én vagyok az egyetlen élőlény akivel találkozik, szüksége van rá hogy ne legyen túl magányos.
+83;Viszont ami ennél fontosabb, mikor lesz bemutatható?
+84;1: Dolgozó: Adjon neki még egy hónapot, amíg felnő.
+85;2: Dolgozó: Akár a héten is.
+86;Tovább folytatod a munkádat a megfelelő kerékvágásban, mindaddig, amíg le nem betegedsz.
+87;1: Kiveszed a betegszabadságot
+88;2: Tovább dolgozol
+89;Három napja nem voltál munkában, a szigeten lévő szállodai szobádban aludtál éppen, amikor is a telefonod csörgésére ébredsz.
+90;1: Alszol tovább
+91;2: Felveszed a telefont
+92;Leteszed a telefont, és átfekszel a másik oldaladra. Egy perc se telt el mire valaki kopog az ajtót. Kopog, aztán üti, majd meghallod, hogy még a nevedet is üvölti. Felkelsz, és kinyitod az ajtót, a főnököd az.
+93;Reggelt! vagy estét? Hány óra van egyáltalán?
+94;Éjfél múlt 13 perce, de nem is ez a fontos. A házikedvenced elszökött! Arról nem is beszélve, hogy két befogócsapatunk is elesett! A falat visszaépítették, de az állat nincs meg. Teljesen el tud rejtőzni műszereink elől, valószínűleg megsérült, szóval elbújhatott. Ötlet, hogy hol lehet?
+95;1: Rábízod a befogó-csapatokra
+96;2: Elindulsz megkeresni
+97;Kimész az utcára annak reményében, hogy megtalálod Infernót. A fő utca közepén fekszik egy carnotaurus, halott. Na de mi végezhette vele? Vagy mik? Az állat teste két darabban van, de az egyik combja teljesen hiányzik. A tetemtől jobbra nagy lábnyomokat látsz, ballra pedig láthatóan nagyobb lábnyomokat, velük egyhuzamban kisebb nyomok az elülső lábnyomokon látszik, hogy az állat karma leér a porba.
+98;1: Jobba mész
+99;2: Ballra mész
+100;Elindulsz a hatalmas lábnyomok irányába, majd megpillantod, a giganotosaurus... Az ereidben megfagy a vér, kétségbeesetten elkezdesz futni, és segítségért kiáltani, majd megbotlasz a befogócsapat egyik tagjának holttestében. A giganoto feléd fordul, mikor megpillantod Infernót, az állat eléd lép és hatalmas fogait a giga nyakába mélyeszti. Felkelsz a földről...
+101;1: Elveszed az őr altató-fegyverét, és besegítesz az állataidnak
+102;2: Elkezdesz menekülni
+103;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, azonnal rádveti magát. Kellett cserbenhagyni azokat, akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
+104;Felkaptod fegyvert mire sikerül betöltened a fegyvert, és felnézel az állatokra megpillantod közvetlen közelről Infernó orrát. Lehajtod a fegyvert, és megsimogatod az orrát, ahogy elnézel mellette a giganoto fekszik a földön, de már nem él, a hibája az volt, hogy rád támadott. Napkeltére az összes állat a kifutójában van, te is visszasétálsz Infernóval kifutóhoz, aki önként, ébren sétálnak be a kifutójába.
+105;Követed furcsa lábnyomok sorát. Egyszer csak megpillantasz egy baryonyxet az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés friss volt. Próbálod közelebbről szemügyre venni a tetemet, de meg hallasz egy ismerős hangot. Infernó teljes sebességgel halad feléd. Majd közvetlen előtted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz Infernóval kifutóhoz, aki önként, ébren sétálnak be a kifutójába.
+106;Visszafekszel aludni, ahogy becsukod a szemed megjelenik előtted a kép, hogy az elfogó-csapatok szitává lövik Infernót. Álmodsz vagy a lelkiismereted az? Bármi is az, összeszeded magad és elindulsz megkeresni szeretett állatodat.
+107;Felveszed a telefont, a főnököd az.
+108;Tovább dolgozol, de egyértelműen romlott a munkamorálod, egyre kimerültebb vagy, mindened fáj, így az utolsó etetést a darura hagyod, és elmész pihenni előbb. Lefekszel a munkaruhában, a kulcs a kezedben, táska az oldaladon, de te csak fejjel előre dőlsz bele az ágyba, és azonnal elalszol. Jópár órával később a telefonod csörgésére ébredsz.
+109;Mivel a héten várható az Indominusz rex bemutatása, feszített tempóban kezdesz el dolgozni olyannyira, hogy le is betegszek eközben.
