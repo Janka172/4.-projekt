@@ -58,3 +58,10 @@
 57;Felkaptod fegyvert és elkezdesz tüzelni, a hatalmas állat egész könnyen kialudt, az indoraptorjaiddal maradsz mindaddig amíg a befogó-csapatok ki nem érnek és be nem viszik az összes állatot. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
 58;Követed a kis lábnyomok sorát, egyre több irányba ágaznak szét. Egyszer csak megillantasz egy dilophosaurust az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés fiss volt. Próbálod közelebbről szemügyre venni a tetemet, de meghallasz egy imerős hangot. Infernó és Angel teljes sebességükkel haladnak feléd. A két állat közvetlen előtted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz az indoraptor kifutóhoz, a hátad mögött a két állattal, akik önként, ébren sétálnak be a helyükre.
 59;Kinyomod a telefont annak reményében, hogy tudsz valamennyit pihenni. Sokmindenre nem mész vele, hiszen egy fél órán belül megszólal az ébresztőd. 48 nem fogadott hívás... a főnököd az, visszahívod.
+60;Felmész a kifutó feletti szerkezetre, a két állat megszokása szerint odamegy a lépcső lejáratához, és leülnek. Várnak rád, de te csak ledobon nekik az ételt, ettől elég zavartan viselkednek, de megeszik. Infernó sokkal jobban viseli az embereket, amíg Angel többször is nekiront a falnak, kapar, illetve agresszívan viselkedik. Egész nap azzal vagy elfoglalva, hogy megpróbáld megnyugtatni, de akkor javul már meg a heléyzet, amikor megindul a záróra.
+61;Csak egy kikötés van, ami fontos lenne...
+62;Hallgatom!
+63;Még rajtam kívül nem találkoztak sok emberrel, akivel meg igen az jelenleg kórházban van, tehát nem tudhatjuk előre, hogfy hogyan fognak reagálni az emberekre, ezért nem kellene egyszerre sok embert beengedni. Egyszerre száz embernél több ember ne legyen a kifutónál, mert megviselheti őket.
+64;Biztonsági szempontből ez előnyös lenne?
+65;Mindenképpen.
+66;Akkor legyen.

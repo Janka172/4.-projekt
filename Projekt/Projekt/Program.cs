@@ -467,7 +467,7 @@ namespace Projekt
                             Console.WriteLine($"{ps[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - ps[0].epont; //575
@@ -487,7 +487,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[1].epont; //510
@@ -508,7 +508,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[2].epont;//510
@@ -529,7 +529,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[3].epont;//450
@@ -550,7 +550,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[4].epont;//415
@@ -571,7 +571,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[5].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[5].epont;//415
@@ -592,7 +592,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[6].epont;//449
@@ -613,7 +613,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[7].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[7].epont;//315
@@ -634,7 +634,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[8].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[8].epont;//334
@@ -694,7 +694,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[12].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[12].epont;//200
@@ -715,7 +715,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[13].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[13].epont;//294
@@ -736,7 +736,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[14].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[14].epont;//314
@@ -770,7 +770,7 @@ namespace Projekt
                                 Console.WriteLine($"{ps[16].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ps[16].epont;//0
@@ -871,7 +871,7 @@ namespace Projekt
                             Console.WriteLine($"{pe[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - pe[0].epont;
@@ -890,7 +890,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[1].epont;
@@ -910,7 +910,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[2].epont;
@@ -930,7 +930,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[3].epont;
@@ -950,7 +950,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[4].epont;
@@ -970,7 +970,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[5].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[5].epont;
@@ -990,7 +990,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[6].epont;
@@ -1036,7 +1036,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[9].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[9].epont;
@@ -1056,7 +1056,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[10].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[10].epont;
@@ -1089,7 +1089,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[12].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[12].epont;
@@ -1135,7 +1135,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[15].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[15].epont;
@@ -1168,7 +1168,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[17].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[17].epont;
@@ -1201,7 +1201,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[19].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[19].epont;
@@ -1234,7 +1234,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[21].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[21].epont;
@@ -1267,7 +1267,7 @@ namespace Projekt
                                 Console.WriteLine($"{pe[23].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - pe[23].epont;
@@ -1315,7 +1315,7 @@ namespace Projekt
                             Console.WriteLine($"{ph[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - ph[0].epont;
@@ -1334,7 +1334,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[1].epont;
@@ -1354,7 +1354,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[2].epont;
@@ -1374,7 +1374,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[3].epont;
@@ -1394,7 +1394,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[4].epont;
@@ -1414,7 +1414,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[5].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[5].epont;
@@ -1434,7 +1434,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[6].epont;
@@ -1454,7 +1454,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[7].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[7].epont;
@@ -1487,7 +1487,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[9].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[9].epont;
@@ -1520,7 +1520,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[11].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[11].epont;
@@ -1566,7 +1566,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[14].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[14].epont;
@@ -1599,7 +1599,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[16].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[16].epont;
@@ -1619,7 +1619,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[17].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[17].epont;
@@ -1665,7 +1665,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[20].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[20].epont;
@@ -1685,7 +1685,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[21].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[21].epont;
@@ -1731,7 +1731,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[24].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[24].epont;
@@ -1751,7 +1751,7 @@ namespace Projekt
                                 Console.WriteLine($"{ph[25].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ph[25].epont;
@@ -1829,7 +1829,7 @@ namespace Projekt
                             Console.WriteLine($"{ss[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - ss[0].epont;
@@ -1849,7 +1849,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[1].epont;
@@ -1869,7 +1869,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[2].epont;
@@ -1889,7 +1889,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[3].epont;
@@ -1909,7 +1909,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[4].epont;
@@ -1929,7 +1929,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[5].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[5].epont;
@@ -1949,7 +1949,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[6].epont;
@@ -1969,7 +1969,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[7].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[7].epont;
@@ -2015,7 +2015,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[10].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[10].epont;
@@ -2035,7 +2035,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[11].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[1].epont;
@@ -2068,7 +2068,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[13].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[13].epont;
@@ -2101,7 +2101,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[15].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[15].epont;
@@ -2147,7 +2147,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[18].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[18].epont;
@@ -2167,7 +2167,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[19].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[19].epont;
@@ -2201,7 +2201,7 @@ namespace Projekt
                                 Console.WriteLine($"{ss[21].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - ss[21].epont;
@@ -2262,7 +2262,7 @@ namespace Projekt
                             Console.WriteLine($"{se[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - se[0].epont;
@@ -2281,7 +2281,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[1].epont;
@@ -2301,7 +2301,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[2].epont;
@@ -2321,7 +2321,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[3].epont;
@@ -2341,7 +2341,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[4].epont;
@@ -2374,7 +2374,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[6].epont;
@@ -2407,7 +2407,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[8].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[8].epont;
@@ -2440,7 +2440,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[10].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[10].epont;
@@ -2473,7 +2473,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[12].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[12].epont;
@@ -2506,7 +2506,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[14].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[14].epont;
@@ -2539,7 +2539,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[16].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[16].epont;
@@ -2572,7 +2572,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[18].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[18].epont;
@@ -2605,7 +2605,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[20].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[20].epont;
@@ -2638,7 +2638,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[22].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[22].epont;
@@ -2671,7 +2671,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[24].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[24].epont;
@@ -2704,7 +2704,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[26].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[26].epont;
@@ -2737,7 +2737,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[28].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[28].epont;
@@ -2770,7 +2770,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[30].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[30].epont;
@@ -2803,7 +2803,7 @@ namespace Projekt
                                 Console.WriteLine($"{se[32].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - se[32].epont;
@@ -2864,7 +2864,7 @@ namespace Projekt
                             Console.WriteLine($"{sh[0].mdontes}");
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 mi = Console.ReadLine();
                             } while (mi != "1" && mi != "2");
                             if (mi == "1") tav = tav - sh[0].epont;
@@ -2883,7 +2883,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[1].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[1].epont;
@@ -2903,7 +2903,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[2].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[2].epont;
@@ -2923,7 +2923,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[3].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[3].epont;
@@ -2943,7 +2943,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[4].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[4].epont;
@@ -2963,7 +2963,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[5].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[5].epont;
@@ -2983,7 +2983,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[6].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[6].epont;
@@ -3003,7 +3003,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[7].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[7].epont;
@@ -3036,7 +3036,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[9].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[9].epont;
@@ -3069,7 +3069,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[11].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[11].epont;
@@ -3115,7 +3115,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[14].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[14].epont;
@@ -3148,7 +3148,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[16].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[16].epont;
@@ -3168,7 +3168,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[17].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[17].epont;
@@ -3214,7 +3214,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[20].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[20].epont;
@@ -3234,7 +3234,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[21].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[21].epont;
@@ -3280,7 +3280,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[24].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[24].epont;
@@ -3300,7 +3300,7 @@ namespace Projekt
                                 Console.WriteLine($"{sh[25].mdontes}");
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     mi = Console.ReadLine();
                                 } while (mi != "1" && mi != "2");
                                 if (mi == "1") tav = tav - sh[25].epont;
@@ -3784,7 +3784,7 @@ namespace Projekt
                         string igen1;
                         do
                         {
-                            Console.Write("Add meg a döntésted sorszámát! ");
+                            Console.Write("Add meg a döntésed sorszámát! ");
                             igen1 = Console.ReadLine();
                         } while (igen1 != "1" && igen1 != "2");
 
@@ -3813,7 +3813,7 @@ namespace Projekt
                             string igen2;
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 igen2 = Console.ReadLine();
                             } while (igen2 != "1" && igen2 != "2");
 
@@ -3852,7 +3852,7 @@ namespace Projekt
                                 string igen3;
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     igen3 = Console.ReadLine();
                                 } while (igen3 != "1" && igen3 != "2");
 
@@ -3890,7 +3890,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -3905,7 +3905,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -3960,7 +3960,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -3975,7 +3975,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -4021,7 +4021,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -4045,7 +4045,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -4069,7 +4069,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -4083,7 +4083,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -4097,7 +4097,7 @@ namespace Projekt
                                                             string igen12;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen12 = Console.ReadLine();
                                                             } while (igen12 != "1" && igen12 != "2");
 
@@ -4157,7 +4157,7 @@ namespace Projekt
                                         string igen13;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen13 = Console.ReadLine();
                                         } while (igen13 != "1" && igen13 != "2");
 
@@ -4171,7 +4171,7 @@ namespace Projekt
                                             string igen14;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen14 = Console.ReadLine();
                                             } while (igen14 != "1" && igen14 != "2");
 
@@ -4185,7 +4185,7 @@ namespace Projekt
                                                 string igen15;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen15 = Console.ReadLine();
                                                 } while (igen15 != "1" && igen15 != "2");
 
@@ -4199,7 +4199,7 @@ namespace Projekt
                                                     string igen16;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen16 = Console.ReadLine();
                                                     } while (igen16 != "1" && igen16 != "2");
 
@@ -4223,7 +4223,7 @@ namespace Projekt
                                                         string igen17;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen17 = Console.ReadLine();
                                                         } while (igen17 != "1" && igen17 != "2");
 
@@ -4247,7 +4247,7 @@ namespace Projekt
                                                             string igen18;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen18 = Console.ReadLine();
                                                             } while (igen18 != "1" && igen18 != "2");
 
@@ -4271,7 +4271,7 @@ namespace Projekt
                                                                 string igen19;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen19 = Console.ReadLine();
                                                                 } while (igen19 != "1" && igen19 != "2");
 
@@ -4295,7 +4295,7 @@ namespace Projekt
                                                                     string igen20;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen20 = Console.ReadLine();
                                                                     } while (igen20 != "1" && igen20 != "2");
 
@@ -4309,7 +4309,7 @@ namespace Projekt
                                                                         string igen21;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen21 = Console.ReadLine();
                                                                         } while (igen21 != "1" && igen21 != "2");
 
@@ -4323,7 +4323,7 @@ namespace Projekt
                                                                             string igen22;
                                                                             do
                                                                             {
-                                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                                 igen22 = Console.ReadLine();
                                                                             } while (igen22 != "1" && igen22 != "2");
 
@@ -4396,7 +4396,7 @@ namespace Projekt
                                                 string igen17;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen17 = Console.ReadLine();
                                                 } while (igen17 != "1" && igen17 != "2");
 
@@ -4420,7 +4420,7 @@ namespace Projekt
                                                     string igen18;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen18 = Console.ReadLine();
                                                     } while (igen18 != "1" && igen18 != "2");
 
@@ -4444,7 +4444,7 @@ namespace Projekt
                                                         string igen19;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen19 = Console.ReadLine();
                                                         } while (igen19 != "1" && igen19 != "2");
 
@@ -4468,7 +4468,7 @@ namespace Projekt
                                                             string igen20;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen20 = Console.ReadLine();
                                                             } while (igen20 != "1" && igen20 != "2");
 
@@ -4482,7 +4482,7 @@ namespace Projekt
                                                                 string igen21;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen21 = Console.ReadLine();
                                                                 } while (igen21 != "1" && igen21 != "2");
 
@@ -4496,7 +4496,7 @@ namespace Projekt
                                                                     string igen22;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen22 = Console.ReadLine();
                                                                     } while (igen22 != "1" && igen22 != "2");
 
@@ -4576,7 +4576,7 @@ namespace Projekt
                                     string igen5;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen5 = Console.ReadLine();
                                     } while (igen5 != "1" && igen5 != "2");
 
@@ -4631,7 +4631,7 @@ namespace Projekt
                                         string igen6;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen6 = Console.ReadLine();
                                         } while (igen6 != "1" && igen6 != "2");
 
@@ -4646,7 +4646,7 @@ namespace Projekt
                                             string igen7;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen7 = Console.ReadLine();
                                             } while (igen7 != "1" && igen7 != "2");
 
@@ -4692,7 +4692,7 @@ namespace Projekt
                                         string igen8;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen8 = Console.ReadLine();
                                         } while (igen8 != "1" && igen8 != "2");
 
@@ -4716,7 +4716,7 @@ namespace Projekt
                                             string igen9;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen9 = Console.ReadLine();
                                             } while (igen9 != "1" && igen9 != "2");
 
@@ -4740,7 +4740,7 @@ namespace Projekt
                                                 string igen10;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen10 = Console.ReadLine();
                                                 } while (igen10 != "1" && igen10 != "2");
 
@@ -4754,7 +4754,7 @@ namespace Projekt
                                                     string igen11;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
@@ -4768,7 +4768,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -4864,7 +4864,7 @@ namespace Projekt
                                 string igen12;
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     igen12 = Console.ReadLine();
                                 } while (igen12 != "1" && igen12 != "2");
 
@@ -4912,7 +4912,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -4927,7 +4927,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -4982,7 +4982,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -4997,7 +4997,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -5043,7 +5043,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -5067,7 +5067,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -5091,7 +5091,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -5105,7 +5105,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -5119,7 +5119,7 @@ namespace Projekt
                                                             string igen24;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen24 = Console.ReadLine();
                                                             } while (igen24 != "1" && igen24 != "2");
 
@@ -5179,7 +5179,7 @@ namespace Projekt
                                         string igen13;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen13 = Console.ReadLine();
                                         } while (igen13 != "1" && igen13 != "2");
 
@@ -5193,7 +5193,7 @@ namespace Projekt
                                             string igen14;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen14 = Console.ReadLine();
                                             } while (igen14 != "1" && igen14 != "2");
 
@@ -5207,7 +5207,7 @@ namespace Projekt
                                                 string igen15;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen15 = Console.ReadLine();
                                                 } while (igen15 != "1" && igen15 != "2");
 
@@ -5221,7 +5221,7 @@ namespace Projekt
                                                     string igen16;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen16 = Console.ReadLine();
                                                     } while (igen16 != "1" && igen16 != "2");
 
@@ -5245,7 +5245,7 @@ namespace Projekt
                                                         string igen17;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen17 = Console.ReadLine();
                                                         } while (igen17 != "1" && igen17 != "2");
 
@@ -5269,7 +5269,7 @@ namespace Projekt
                                                             string igen18;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen18 = Console.ReadLine();
                                                             } while (igen18 != "1" && igen18 != "2");
 
@@ -5293,7 +5293,7 @@ namespace Projekt
                                                                 string igen19;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen19 = Console.ReadLine();
                                                                 } while (igen19 != "1" && igen19 != "2");
 
@@ -5317,7 +5317,7 @@ namespace Projekt
                                                                     string igen20;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen20 = Console.ReadLine();
                                                                     } while (igen20 != "1" && igen20 != "2");
 
@@ -5331,7 +5331,7 @@ namespace Projekt
                                                                         string igen21;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen21 = Console.ReadLine();
                                                                         } while (igen21 != "1" && igen21 != "2");
 
@@ -5345,7 +5345,7 @@ namespace Projekt
                                                                             string igen22;
                                                                             do
                                                                             {
-                                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                                 igen22 = Console.ReadLine();
                                                                             } while (igen22 != "1" && igen22 != "2");
 
@@ -5418,7 +5418,7 @@ namespace Projekt
                                                 string igen17;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen17 = Console.ReadLine();
                                                 } while (igen17 != "1" && igen17 != "2");
 
@@ -5442,7 +5442,7 @@ namespace Projekt
                                                     string igen18;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen18 = Console.ReadLine();
                                                     } while (igen18 != "1" && igen18 != "2");
 
@@ -5466,7 +5466,7 @@ namespace Projekt
                                                         string igen19;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen19 = Console.ReadLine();
                                                         } while (igen19 != "1" && igen19 != "2");
 
@@ -5490,7 +5490,7 @@ namespace Projekt
                                                             string igen20;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen20 = Console.ReadLine();
                                                             } while (igen20 != "1" && igen20 != "2");
 
@@ -5504,7 +5504,7 @@ namespace Projekt
                                                                 string igen21;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen21 = Console.ReadLine();
                                                                 } while (igen21 != "1" && igen21 != "2");
 
@@ -5518,7 +5518,7 @@ namespace Projekt
                                                                     string igen22;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen22 = Console.ReadLine();
                                                                     } while (igen22 != "1" && igen22 != "2");
 
@@ -5621,7 +5621,7 @@ namespace Projekt
                             string igen2;
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 igen2 = Console.ReadLine();
                             } while (igen2 != "1" && igen2 != "2");
 
@@ -5678,7 +5678,7 @@ namespace Projekt
                                 string igen3;
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     igen3 = Console.ReadLine();
                                 } while (igen3 != "1" && igen3 != "2");
 
@@ -5708,7 +5708,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -5722,7 +5722,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -5751,7 +5751,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -5782,7 +5782,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -5796,7 +5796,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -5850,7 +5850,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -5864,7 +5864,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -5904,7 +5904,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -6044,7 +6044,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -6058,7 +6058,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -6105,7 +6105,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -6169,7 +6169,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -6231,7 +6231,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -6246,7 +6246,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -6311,7 +6311,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -6326,7 +6326,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -6372,7 +6372,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -6396,7 +6396,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -6420,7 +6420,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -6434,7 +6434,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -6448,7 +6448,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -6539,7 +6539,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -6570,7 +6570,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -6584,7 +6584,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -6638,7 +6638,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -6652,7 +6652,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -6692,7 +6692,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -6832,7 +6832,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -6846,7 +6846,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -6893,7 +6893,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -6957,7 +6957,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -7019,7 +7019,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -7034,7 +7034,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -7099,7 +7099,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -7114,7 +7114,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -7160,7 +7160,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -7184,7 +7184,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -7208,7 +7208,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -7222,7 +7222,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -7236,7 +7236,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -7300,7 +7300,7 @@ namespace Projekt
                                         string igen7;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen7 = Console.ReadLine();
                                         } while (igen7 != "1" && igen7 != "2");
 
@@ -7314,7 +7314,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -7368,7 +7368,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -7382,7 +7382,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -7422,7 +7422,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -7562,7 +7562,7 @@ namespace Projekt
                                                 string igen12;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen12 = Console.ReadLine();
                                                 } while (igen12 != "1" && igen12 != "2");
 
@@ -7576,7 +7576,7 @@ namespace Projekt
                                                     string igen13;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen13 = Console.ReadLine();
                                                     } while (igen13 != "1" && igen13 != "2");
 
@@ -7623,7 +7623,7 @@ namespace Projekt
                                                         string igen14;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen14 = Console.ReadLine();
                                                         } while (igen14 != "1" && igen14 != "2");
 
@@ -7687,7 +7687,7 @@ namespace Projekt
                                             string igen15;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen15 = Console.ReadLine();
                                             } while (igen15 != "1" && igen15 != "2");
 
@@ -7755,7 +7755,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -7769,7 +7769,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -7798,7 +7798,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -7829,7 +7829,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -7843,7 +7843,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -7897,7 +7897,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -7911,7 +7911,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -7951,7 +7951,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -8091,7 +8091,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -8105,7 +8105,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -8152,7 +8152,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -8216,7 +8216,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -8278,7 +8278,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -8293,7 +8293,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -8358,7 +8358,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -8373,7 +8373,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -8419,7 +8419,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -8443,7 +8443,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -8467,7 +8467,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -8481,7 +8481,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -8495,7 +8495,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -8586,7 +8586,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -8617,7 +8617,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -8631,7 +8631,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -8685,7 +8685,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -8699,7 +8699,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -8739,7 +8739,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -8879,7 +8879,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -8893,7 +8893,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -8940,7 +8940,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -9004,7 +9004,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -9066,7 +9066,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -9081,7 +9081,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -9146,7 +9146,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -9161,7 +9161,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -9207,7 +9207,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -9231,7 +9231,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -9255,7 +9255,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -9269,7 +9269,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -9283,7 +9283,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -9347,7 +9347,7 @@ namespace Projekt
                                         string igen7;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen7 = Console.ReadLine();
                                         } while (igen7 != "1" && igen7 != "2");
 
@@ -9361,7 +9361,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -9415,7 +9415,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -9429,7 +9429,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -9469,7 +9469,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -9609,7 +9609,7 @@ namespace Projekt
                                                 string igen12;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen12 = Console.ReadLine();
                                                 } while (igen12 != "1" && igen12 != "2");
 
@@ -9623,7 +9623,7 @@ namespace Projekt
                                                     string igen13;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen13 = Console.ReadLine();
                                                     } while (igen13 != "1" && igen13 != "2");
 
@@ -9670,7 +9670,7 @@ namespace Projekt
                                                         string igen14;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen14 = Console.ReadLine();
                                                         } while (igen14 != "1" && igen14 != "2");
 
@@ -9734,7 +9734,7 @@ namespace Projekt
                                             string igen15;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen15 = Console.ReadLine();
                                             } while (igen15 != "1" && igen15 != "2");
 
@@ -9815,7 +9815,7 @@ namespace Projekt
                                 string igen3;
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     igen3 = Console.ReadLine();
                                 } while (igen3 != "1" && igen3 != "2");
 
@@ -9845,7 +9845,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -9859,7 +9859,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -9888,7 +9888,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -9919,7 +9919,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -9933,7 +9933,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -9987,7 +9987,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -10001,7 +10001,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -10041,7 +10041,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -10181,7 +10181,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -10195,7 +10195,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -10242,7 +10242,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -10306,7 +10306,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -10368,7 +10368,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -10383,7 +10383,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -10448,7 +10448,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -10463,7 +10463,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -10509,7 +10509,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -10533,7 +10533,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -10557,7 +10557,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -10571,7 +10571,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -10585,7 +10585,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -10676,7 +10676,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -10707,7 +10707,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -10721,7 +10721,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -10775,7 +10775,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -10789,7 +10789,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -10829,7 +10829,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -10969,7 +10969,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -10983,7 +10983,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -11030,7 +11030,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -11094,7 +11094,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -11156,7 +11156,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -11171,7 +11171,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -11236,7 +11236,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -11251,7 +11251,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -11297,7 +11297,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -11321,7 +11321,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -11345,7 +11345,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -11359,7 +11359,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -11373,7 +11373,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -11437,7 +11437,7 @@ namespace Projekt
                                         string igen7;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen7 = Console.ReadLine();
                                         } while (igen7 != "1" && igen7 != "2");
 
@@ -11451,7 +11451,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -11505,7 +11505,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -11519,7 +11519,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -11559,7 +11559,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -11699,7 +11699,7 @@ namespace Projekt
                                                 string igen12;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen12 = Console.ReadLine();
                                                 } while (igen12 != "1" && igen12 != "2");
 
@@ -11713,7 +11713,7 @@ namespace Projekt
                                                     string igen13;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen13 = Console.ReadLine();
                                                     } while (igen13 != "1" && igen13 != "2");
 
@@ -11760,7 +11760,7 @@ namespace Projekt
                                                         string igen14;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen14 = Console.ReadLine();
                                                         } while (igen14 != "1" && igen14 != "2");
 
@@ -11824,7 +11824,7 @@ namespace Projekt
                                             string igen15;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen15 = Console.ReadLine();
                                             } while (igen15 != "1" && igen15 != "2");
 
@@ -11892,7 +11892,7 @@ namespace Projekt
                                     string igen4;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen4 = Console.ReadLine();
                                     } while (igen4 != "1" && igen4 != "2");
 
@@ -11906,7 +11906,7 @@ namespace Projekt
                                         string igen5;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen5 = Console.ReadLine();
                                         } while (igen5 != "1" && igen5 != "2");
 
@@ -11935,7 +11935,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -11966,7 +11966,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -11980,7 +11980,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -12034,7 +12034,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -12048,7 +12048,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -12088,7 +12088,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -12228,7 +12228,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -12242,7 +12242,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -12289,7 +12289,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -12353,7 +12353,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -12415,7 +12415,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -12430,7 +12430,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -12495,7 +12495,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -12510,7 +12510,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -12556,7 +12556,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -12580,7 +12580,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -12604,7 +12604,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -12618,7 +12618,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -12632,7 +12632,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -12723,7 +12723,7 @@ namespace Projekt
                                             string igen6;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen6 = Console.ReadLine();
                                             } while (igen6 != "1" && igen6 != "2");
 
@@ -12754,7 +12754,7 @@ namespace Projekt
                                                 string igen7;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen7 = Console.ReadLine();
                                                 } while (igen7 != "1" && igen7 != "2");
 
@@ -12768,7 +12768,7 @@ namespace Projekt
                                                     string igen8;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen8 = Console.ReadLine();
                                                     } while (igen8 != "1" && igen8 != "2");
 
@@ -12822,7 +12822,7 @@ namespace Projekt
                                                         string igen9;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen9 = Console.ReadLine();
                                                         } while (igen9 != "1" && igen9 != "2");
 
@@ -12836,7 +12836,7 @@ namespace Projekt
                                                             string igen10;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen10 = Console.ReadLine();
                                                             } while (igen10 != "1" && igen10 != "2");
 
@@ -12876,7 +12876,7 @@ namespace Projekt
                                                                 string igen11;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen11 = Console.ReadLine();
                                                                 } while (igen11 != "1" && igen11 != "2");
 
@@ -13016,7 +13016,7 @@ namespace Projekt
                                                         string igen12;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen12 = Console.ReadLine();
                                                         } while (igen12 != "1" && igen12 != "2");
 
@@ -13030,7 +13030,7 @@ namespace Projekt
                                                             string igen13;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen13 = Console.ReadLine();
                                                             } while (igen13 != "1" && igen13 != "2");
 
@@ -13077,7 +13077,7 @@ namespace Projekt
                                                                 string igen14;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen14 = Console.ReadLine();
                                                                 } while (igen14 != "1" && igen14 != "2");
 
@@ -13141,7 +13141,7 @@ namespace Projekt
                                                     string igen15;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen15 = Console.ReadLine();
                                                     } while (igen15 != "1" && igen15 != "2");
 
@@ -13203,7 +13203,7 @@ namespace Projekt
                                                 string igen16;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen16 = Console.ReadLine();
                                                 } while (igen16 != "1" && igen16 != "2");
 
@@ -13218,7 +13218,7 @@ namespace Projekt
                                                     string igen17;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen17 = Console.ReadLine();
                                                     } while (igen17 != "1" && igen17 != "2");
 
@@ -13283,7 +13283,7 @@ namespace Projekt
                                                         string igen18;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen18 = Console.ReadLine();
                                                         } while (igen18 != "1" && igen18 != "2");
 
@@ -13298,7 +13298,7 @@ namespace Projekt
                                                             string igen19;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen19 = Console.ReadLine();
                                                             } while (igen19 != "1" && igen19 != "2");
 
@@ -13344,7 +13344,7 @@ namespace Projekt
                                                         string igen20;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen20 = Console.ReadLine();
                                                         } while (igen20 != "1" && igen20 != "2");
 
@@ -13368,7 +13368,7 @@ namespace Projekt
                                                             string igen21;
                                                             do
                                                             {
-                                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                                 igen21 = Console.ReadLine();
                                                             } while (igen21 != "1" && igen21 != "2");
 
@@ -13392,7 +13392,7 @@ namespace Projekt
                                                                 string igen22;
                                                                 do
                                                                 {
-                                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                                     igen22 = Console.ReadLine();
                                                                 } while (igen22 != "1" && igen22 != "2");
 
@@ -13406,7 +13406,7 @@ namespace Projekt
                                                                     string igen23;
                                                                     do
                                                                     {
-                                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                                         igen23 = Console.ReadLine();
                                                                     } while (igen23 != "1" && igen23 != "2");
 
@@ -13420,7 +13420,7 @@ namespace Projekt
                                                                         string igen24;
                                                                         do
                                                                         {
-                                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                                             igen24 = Console.ReadLine();
                                                                         } while (igen24 != "1" && igen24 != "2");
 
@@ -13484,7 +13484,7 @@ namespace Projekt
                                         string igen7;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen7 = Console.ReadLine();
                                         } while (igen7 != "1" && igen7 != "2");
 
@@ -13498,7 +13498,7 @@ namespace Projekt
                                             string igen8;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen8 = Console.ReadLine();
                                             } while (igen8 != "1" && igen8 != "2");
 
@@ -13552,7 +13552,7 @@ namespace Projekt
                                                 string igen9;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen9 = Console.ReadLine();
                                                 } while (igen9 != "1" && igen9 != "2");
 
@@ -13566,7 +13566,7 @@ namespace Projekt
                                                     string igen10;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen10 = Console.ReadLine();
                                                     } while (igen10 != "1" && igen10 != "2");
 
@@ -13606,7 +13606,7 @@ namespace Projekt
                                                         string igen11;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen11 = Console.ReadLine();
                                                         } while (igen11 != "1" && igen11 != "2");
 
@@ -13746,7 +13746,7 @@ namespace Projekt
                                                 string igen12;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen12 = Console.ReadLine();
                                                 } while (igen12 != "1" && igen12 != "2");
 
@@ -13760,7 +13760,7 @@ namespace Projekt
                                                     string igen13;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen13 = Console.ReadLine();
                                                     } while (igen13 != "1" && igen13 != "2");
 
@@ -13807,7 +13807,7 @@ namespace Projekt
                                                         string igen14;
                                                         do
                                                         {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
                                                             igen14 = Console.ReadLine();
                                                         } while (igen14 != "1" && igen14 != "2");
 
@@ -13871,7 +13871,7 @@ namespace Projekt
                                             string igen15;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen15 = Console.ReadLine();
                                             } while (igen15 != "1" && igen15 != "2");
 
@@ -13913,7 +13913,7 @@ namespace Projekt
                         string igen1;
                         do
                         {
-                            Console.Write("Add meg a döntésted sorszámát! ");
+                            Console.Write("Add meg a döntésed sorszámát! ");
                             igen1 = Console.ReadLine();
                         } while (igen1 != "1" && igen1 != "2");
 
@@ -13964,7 +13964,7 @@ namespace Projekt
                             string igen2;
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 igen2 = Console.ReadLine();
                             } while (igen2 != "1" && igen2 != "2");
 
@@ -14034,7 +14034,7 @@ namespace Projekt
                             string igen3;
                             do
                             {
-                                Console.Write("Add meg a döntésted sorszámát! ");
+                                Console.Write("Add meg a döntésed sorszámát! ");
                                 igen3 = Console.ReadLine();
                             } while (igen3 != "1" && igen3 != "2");
 
@@ -14048,7 +14048,7 @@ namespace Projekt
                                 string igen4;
                                 do
                                 {
-                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                    Console.Write("Add meg a döntésed sorszámát! ");
                                     igen4 = Console.ReadLine();
                                 } while (igen4 != "1" && igen4 != "2");
 
@@ -14062,7 +14062,7 @@ namespace Projekt
                                     string igen5;
                                     do
                                     {
-                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                        Console.Write("Add meg a döntésed sorszámát! ");
                                         igen5 = Console.ReadLine();
                                     } while (igen5 != "1" && igen5 != "2");
 
@@ -14076,7 +14076,7 @@ namespace Projekt
                                         string igen6;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen6 = Console.ReadLine();
                                         } while (igen6 != "1" && igen6 != "2");
 
@@ -14144,7 +14144,7 @@ namespace Projekt
                                             string igen7;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen7 = Console.ReadLine();
                                             } while (igen7 != "1" && igen7 != "2");
 
@@ -14157,7 +14157,7 @@ namespace Projekt
                                                 string igen8;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen8 = Console.ReadLine();
                                                 } while (igen8 != "1" && igen8 != "2");
 
@@ -14171,7 +14171,7 @@ namespace Projekt
                                                     string igen9;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
@@ -14282,7 +14282,7 @@ namespace Projekt
                                             string igen7;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
                                                 igen7 = Console.ReadLine();
                                             } while (igen7 != "1" && igen7 != "2");
 
@@ -14295,7 +14295,7 @@ namespace Projekt
                                                 string igen8;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
                                                     igen8 = Console.ReadLine();
                                                 } while (igen8 != "1" && igen8 != "2");
 
@@ -14309,7 +14309,7 @@ namespace Projekt
                                                     string igen9;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
@@ -14367,7 +14367,7 @@ namespace Projekt
                                         string igen6;
                                         do
                                         {
-                                            Console.Write("Add meg a döntésted sorszámát! ");
+                                            Console.Write("Add meg a döntésed sorszámát! ");
                                             igen6 = Console.ReadLine();
                                         } while (igen6 != "1" && igen6 != "2");
 
@@ -14375,296 +14375,275 @@ namespace Projekt
                                         if (igen6 == "1")
                                         {
                                             Console.Clear();
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
 
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen10;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen10 = Console.ReadLine();
+                                            } while (igen10 != "1" && igen10 != "2");
+
+                                            //Megkeresed
+                                            if (igen10 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen11;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen11 = Console.ReadLine();
+                                                } while (igen11 != "1" && igen11 != "2");
+
+                                                //Jobb
+                                                if (igen11 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen12;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen12 = Console.ReadLine();
+                                                    } while (igen12 != "1" && igen12 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen12 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen12 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen11 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen10 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
                                         }
                                         //Telefon
                                         if (igen6 == "2")
                                         {
-                                            Console.Clear();
-                                            Console.WriteLine(jpdolgozo[33].szoveg);
-                                            Console.WriteLine(jpdolgozo[34].szoveg);
-                                            Console.WriteLine(jpdolgozo[35].szoveg);
-                                            string igen9;
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
                                             do
                                             {
-                                                Console.Write("Add meg a döntésted sorszámát! ");
-                                                igen9 = Console.ReadLine();
-                                            } while (igen9 != "1" && igen9 != "2");
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
 
-                                            //Felevesz
-                                            if (igen9 == "1")
+                                            //Megkeresed
+                                            if (igen7 == "1")
                                             {
                                                 Console.Clear();
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[38].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[39].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[40].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[41].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[42].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[43].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[44].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[43].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[44].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[45].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[46].szoveg);
-
-                                                Console.WriteLine(jpdolgozo[47].szoveg);
-                                                Console.WriteLine(jpdolgozo[48].szoveg);
-                                                string igen10;
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
                                                 do
                                                 {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
-                                                    igen10 = Console.ReadLine();
-                                                } while (igen10 != "1" && igen10 != "2");
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
 
-                                                //Megkeresed
-                                                if (igen10 == "1")
+                                                //Jobb
+                                                if (igen8 == "1")
                                                 {
                                                     Console.Clear();
-                                                    Console.WriteLine(jpdolgozo[50].szoveg);
-                                                    Console.WriteLine(jpdolgozo[51].szoveg);
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
                                                     string igen11;
                                                     do
                                                     {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
-                                                    //Jobb
+                                                    //Segíteni - vég -ny
                                                     if (igen11 == "1")
                                                     {
                                                         Console.Clear();
-                                                        Console.WriteLine(jpdolgozo[53].szoveg);
-                                                        Console.WriteLine(jpdolgozo[54].szoveg);
-                                                        Console.WriteLine(jpdolgozo[55].szoveg);
-                                                        string igen12;
-                                                        do
-                                                        {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
-                                                            igen12 = Console.ReadLine();
-                                                        } while (igen12 != "1" && igen12 != "2");
-
-                                                        //Segíteni - vég -ny
-                                                        if (igen12 == "1")
-                                                        {
-                                                            Console.Clear();
-                                                            Console.WriteLine(jptulaj[57].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
-                                                        }
-
-                                                        //Menkülni - vég - b
-                                                        if (igen12 == "2")
-                                                        {
-                                                            Console.Clear();
-                                                            Console.WriteLine(jptulaj[56].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
-                                                        }
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
                                                     }
 
-                                                    //Ball - vég -ny
+                                                    //Menkülni - vég - b
                                                     if (igen11 == "2")
                                                     {
                                                         Console.Clear();
-                                                        Console.WriteLine(jptulaj[58].szoveg);
+                                                        Console.WriteLine(jptulaj[56].szoveg);
                                                         Console.ForegroundColor = ConsoleColor.Red;
-                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
                                                         Console.ForegroundColor = ConsoleColor.White;
                                                     }
                                                 }
 
-                                                //Menekülsz - vég - b
-                                                if (igen10 == "2")
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
                                                 {
                                                     Console.Clear();
-                                                    Console.WriteLine(jptulaj[49].szoveg);
+                                                    Console.WriteLine(jptulaj[58].szoveg);
                                                     Console.ForegroundColor = ConsoleColor.Red;
-                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
                                                     Console.ForegroundColor = ConsoleColor.White;
                                                 }
                                             }
-                                            //Letesz
-                                            if (igen6 == "2")
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
                                             {
                                                 Console.Clear();
-                                                Console.WriteLine(jpdolgozo[59].szoveg);
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
                                                 Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[38].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[39].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[40].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[41].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[42].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[43].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[44].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[43].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[44].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.Cyan;
-                                                Console.Write("Dolgozó: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[45].szoveg);
-
-                                                Console.ForegroundColor = ConsoleColor.DarkYellow;
-                                                Console.Write("Tulaj: ");
-                                                Console.ForegroundColor = ConsoleColor.White;
-                                                Console.WriteLine(jpdolgozo[46].szoveg);
-
-                                                Console.WriteLine(jpdolgozo[47].szoveg);
-                                                Console.WriteLine(jpdolgozo[48].szoveg);
-                                                string igen7;
-                                                do
-                                                {
-                                                    Console.Write("Add meg a döntésted sorszámát! ");
-                                                    igen7 = Console.ReadLine();
-                                                } while (igen7 != "1" && igen7 != "2");
-
-                                                //Megkeresed
-                                                if (igen7 == "1")
-                                                {
-                                                    Console.Clear();
-                                                    Console.WriteLine(jpdolgozo[50].szoveg);
-                                                    Console.WriteLine(jpdolgozo[51].szoveg);
-                                                    string igen8;
-                                                    do
-                                                    {
-                                                        Console.Write("Add meg a döntésted sorszámát! ");
-                                                        igen8 = Console.ReadLine();
-                                                    } while (igen8 != "1" && igen8 != "2");
-
-                                                    //Jobb
-                                                    if (igen8 == "1")
-                                                    {
-                                                        Console.Clear();
-                                                        Console.WriteLine(jpdolgozo[53].szoveg);
-                                                        Console.WriteLine(jpdolgozo[54].szoveg);
-                                                        Console.WriteLine(jpdolgozo[55].szoveg);
-                                                        string igen9;
-                                                        do
-                                                        {
-                                                            Console.Write("Add meg a döntésted sorszámát! ");
-                                                            igen9 = Console.ReadLine();
-                                                        } while (igen9 != "1" && igen9 != "2");
-
-                                                        //Segíteni - vég -ny
-                                                        if (igen9 == "1")
-                                                        {
-                                                            Console.Clear();
-                                                            Console.WriteLine(jptulaj[57].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
-                                                        }
-
-                                                        //Menkülni - vég - b
-                                                        if (igen9 == "2")
-                                                        {
-                                                            Console.Clear();
-                                                            Console.WriteLine(jptulaj[56].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
-                                                        }
-                                                    }
-
-                                                    //Ball - vég -ny
-                                                    if (igen8 == "2")
-                                                    {
-                                                        Console.Clear();
-                                                        Console.WriteLine(jptulaj[58].szoveg);
-                                                        Console.ForegroundColor = ConsoleColor.Red;
-                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                        Console.ForegroundColor = ConsoleColor.White;
-                                                    }
-                                                }
-
-                                                //Menekülsz - vég - b
-                                                if (igen7 == "2")
-                                                {
-                                                    Console.Clear();
-                                                    Console.WriteLine(jptulaj[49].szoveg);
-                                                    Console.ForegroundColor = ConsoleColor.Red;
-                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
-                                                    Console.ForegroundColor = ConsoleColor.White;
-                                                }
                                             }
                                         }
                                     }
@@ -14674,7 +14653,597 @@ namespace Projekt
                                 if (igen4 == "2")
                                 {
                                     Console.Clear();
+                                    Console.WriteLine(jpdolgozo[60].szoveg);
+                                    Console.WriteLine(jpdolgozo[31].szoveg);
+                                    Console.WriteLine(jpdolgozo[32].szoveg);
+                                    string igen5;
+                                    do
+                                    {
+                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                        igen5 = Console.ReadLine();
+                                    } while (igen5 != "1" && igen5 != "2");
 
+                                    //Otthon
+                                    if (igen5 == "1")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Felevesz
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Letesz
+                                        if (igen6 == "2")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
+
+                                    //Vezérlőben
+                                    if (igen5 == "2")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Hall
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen10;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen10 = Console.ReadLine();
+                                            } while (igen10 != "1" && igen10 != "2");
+
+                                            //Megkeresed
+                                            if (igen10 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen11;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen11 = Console.ReadLine();
+                                                } while (igen11 != "1" && igen11 != "2");
+
+                                                //Jobb
+                                                if (igen11 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen12;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen12 = Console.ReadLine();
+                                                    } while (igen12 != "1" && igen12 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen12 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen12 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen11 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen10 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Telefon
+                                        if (igen6 == "2")
+                                        {
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen11;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen11 = Console.ReadLine();
+                                                    } while (igen11 != "1" && igen11 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen11 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen11 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
                                 }
                             }
 
@@ -14682,7 +15251,1239 @@ namespace Projekt
                             if (igen3 == "2")
                             {
                                 Console.Clear();
+                                Console.ForegroundColor = ConsoleColor.Cyan;
+                                Console.Write("Dolgozó: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[61].szoveg);
 
+                                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                Console.Write("Tulaj: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[62].szoveg);
+
+                                Console.ForegroundColor = ConsoleColor.Cyan;
+                                Console.Write("Dolgozó: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[63].szoveg);
+
+                                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                Console.Write("Tulaj: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[64].szoveg);
+
+                                Console.ForegroundColor = ConsoleColor.Cyan;
+                                Console.Write("Dolgozó: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[65].szoveg);
+
+                                Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                Console.Write("Tulaj: ");
+                                Console.ForegroundColor = ConsoleColor.White;
+                                Console.WriteLine(jpdolgozo[66].szoveg);
+
+                                Console.WriteLine(jpdolgozo[27].szoveg);
+                                Console.WriteLine(jpdolgozo[28].szoveg);
+                                Console.WriteLine(jpdolgozo[29].szoveg);
+                                string igen4;
+                                do
+                                {
+                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                    igen4 = Console.ReadLine();
+                                } while (igen4 != "1" && igen4 != "2");
+
+                                //Vinni
+                                if (igen4 == "1")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(jpdolgozo[30].szoveg);
+                                    Console.WriteLine(jpdolgozo[31].szoveg);
+                                    Console.WriteLine(jpdolgozo[32].szoveg);
+                                    string igen5;
+                                    do
+                                    {
+                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                        igen5 = Console.ReadLine();
+                                    } while (igen5 != "1" && igen5 != "2");
+
+                                    //Otthon
+                                    if (igen5 == "1")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Felevesz
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Letesz
+                                        if (igen6 == "2")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
+
+                                    //Vezérlőben
+                                    if (igen5 == "2")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Hall
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen10;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen10 = Console.ReadLine();
+                                            } while (igen10 != "1" && igen10 != "2");
+
+                                            //Megkeresed
+                                            if (igen10 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen11;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen11 = Console.ReadLine();
+                                                } while (igen11 != "1" && igen11 != "2");
+
+                                                //Jobb
+                                                if (igen11 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen12;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen12 = Console.ReadLine();
+                                                    } while (igen12 != "1" && igen12 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen12 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen12 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen11 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen10 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Telefon
+                                        if (igen6 == "2")
+                                        {
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen11;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen11 = Console.ReadLine();
+                                                    } while (igen11 != "1" && igen11 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen11 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen11 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
+                                }
+
+                                //Dobni
+                                if (igen4 == "2")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(jpdolgozo[60].szoveg);
+                                    Console.WriteLine(jpdolgozo[31].szoveg);
+                                    Console.WriteLine(jpdolgozo[32].szoveg);
+                                    string igen5;
+                                    do
+                                    {
+                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                        igen5 = Console.ReadLine();
+                                    } while (igen5 != "1" && igen5 != "2");
+
+                                    //Otthon
+                                    if (igen5 == "1")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Felevesz
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Letesz
+                                        if (igen6 == "2")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen9;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen9 = Console.ReadLine();
+                                                    } while (igen9 != "1" && igen9 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen9 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen9 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
+
+                                    //Vezérlőben
+                                    if (igen5 == "2")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[33].szoveg);
+                                        Console.WriteLine(jpdolgozo[34].szoveg);
+                                        Console.WriteLine(jpdolgozo[35].szoveg);
+                                        string igen6;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen6 = Console.ReadLine();
+                                        } while (igen6 != "1" && igen6 != "2");
+
+                                        //Hall
+                                        if (igen6 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.Clear();
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen10;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen10 = Console.ReadLine();
+                                            } while (igen10 != "1" && igen10 != "2");
+
+                                            //Megkeresed
+                                            if (igen10 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen11;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen11 = Console.ReadLine();
+                                                } while (igen11 != "1" && igen11 != "2");
+
+                                                //Jobb
+                                                if (igen11 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen12;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen12 = Console.ReadLine();
+                                                    } while (igen12 != "1" && igen12 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen12 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen12 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen11 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen10 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                        //Telefon
+                                        if (igen6 == "2")
+                                        {
+                                            Console.WriteLine(jpdolgozo[59].szoveg);
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[38].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[39].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[40].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[41].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[42].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[43].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[44].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.Cyan;
+                                            Console.Write("Dolgozó: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[45].szoveg);
+
+                                            Console.ForegroundColor = ConsoleColor.DarkYellow;
+                                            Console.Write("Tulaj: ");
+                                            Console.ForegroundColor = ConsoleColor.White;
+                                            Console.WriteLine(jpdolgozo[46].szoveg);
+
+                                            Console.WriteLine(jpdolgozo[47].szoveg);
+                                            Console.WriteLine(jpdolgozo[48].szoveg);
+                                            string igen7;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen7 = Console.ReadLine();
+                                            } while (igen7 != "1" && igen7 != "2");
+
+                                            //Megkeresed
+                                            if (igen7 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[50].szoveg);
+                                                Console.WriteLine(jpdolgozo[51].szoveg);
+                                                string igen8;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen8 = Console.ReadLine();
+                                                } while (igen8 != "1" && igen8 != "2");
+
+                                                //Jobb
+                                                if (igen8 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[53].szoveg);
+                                                    Console.WriteLine(jpdolgozo[54].szoveg);
+                                                    Console.WriteLine(jpdolgozo[55].szoveg);
+                                                    string igen11;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen11 = Console.ReadLine();
+                                                    } while (igen11 != "1" && igen11 != "2");
+
+                                                    //Segíteni - vég -ny
+                                                    if (igen11 == "1")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[57].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+
+                                                    //Menkülni - vég - b
+                                                    if (igen11 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jptulaj[56].szoveg);
+                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                    }
+                                                }
+
+                                                //Ball - vég -ny
+                                                if (igen8 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jptulaj[58].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+                                            }
+
+                                            //Menekülsz - vég - b
+                                            if (igen7 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jptulaj[49].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+                                            }
+                                        }
+                                    }
+                                }
                             }
                         }
 
@@ -14702,6 +16503,7 @@ namespace Projekt
                     akarsz = Console.ReadLine();
                 } while (akarsz!="i" && akarsz != "n");
             }
+
             Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.WriteLine("Készítette:");
             Console.ForegroundColor = ConsoleColor.White;

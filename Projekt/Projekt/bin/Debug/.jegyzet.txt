@@ -4,8 +4,8 @@ Tulaj - DarkYellow
 mellékszereplő - Gray
 
 
-nyer - 80
-rip - 149
+nyer - 80 + 32
+rip - 149 + 32
                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                 
                                                                                                                                                                                                                                                                                                                                                                                                                 
