@@ -257,6 +257,28 @@ namespace Projekt
             }
             sr4.Close();
 
+            StreamReader sr10 = new StreamReader("2eset.txt");
+            List<ns> masodikeset = new List<ns>();
+            while (!sr10.EndOfStream)
+            {
+                string[] d = sr10.ReadLine().Split(';');
+                nsseged.index = int.Parse(d[0]);
+                nsseged.szoveg = d[1];
+                masodikeset.Add(nsseged);
+            }
+            sr10.Close();
+
+            StreamReader sr11 = new StreamReader("3eset.txt");
+            List<ns> harmadikeset = new List<ns>();
+            while (!sr11.EndOfStream)
+            {
+                string[] d = sr11.ReadLine().Split(';');
+                nsseged.index = int.Parse(d[0]);
+                nsseged.szoveg = d[1];
+                harmadikeset.Add(nsseged);
+            }
+            sr11.Close();
+
             //Jurassic Park 4
             StreamReader sr5 = new StreamReader("jp1.txt");
             List<string> jphatter = new List<string>();
@@ -390,15 +412,17 @@ namespace Projekt
             string beallat;
             int beind=172;
             string egyeset = "Esetszám: 1\nTípus: Bejentés\nÜzenet: Már két napja nem láttuk a lányunkat, nem nyit ajtót, nem veszi fel a telefont. A háza zárva, és két napja nem volt ott mozgás. Segítségre lenne szükségünk!";
-            string kettoeset = "Esetszám: 2\nTípus: Bejentés\nÜzenet: a szomszéd telken gyakran hallottunk furcsa hangokat, nyerítésre hasonlítottak. A múlt hét elején valami nagyon hangos zajra lettünk figyelmesek az éjjel. Az óta se tudunk semmit az esetről, de aggódunk hogy valakinek baja esett. Segítségre lenne szükségünk!";
+            string kettoeset = "Esetszám: 2\nTípus: Bejentés\nÜzenet: A szomszéd telken gyakran hallottunk furcsa hangokat, nyerítésre hasonlítottak. A múlt hét elején valami nagyon hangos zajra lettünk figyelmesek az éjjel. Az óta se tudunk semmit az esetről, de aggódunk hogy valakinek baja esett. Segítségre lenne szükségünk!";
             string haromeset = "Esetszám: 3\nTípus: Bejentés\nÜzenet: A múlt éjjel egy furcsa hangra lettünk figyelmesek a szomszéd lakásból. A folyosón dulakodás nyomait találtunk. A lakó azt mondta részeg volt, és elesett, de nem hiszünk neki, félünk hogy valakinek baja eshetett. Segítségre lenne szükségünk!";
-            string negyeset = "Esetszám: 4\nTípus: Bejentés\nÜzenet: Ma reggel a 12 éves lányunk egyedül ment az iskolába. tanárai jelezték, hogy nem ért be óráira, a barátai nem tudnak róla semmit. A telfont sem veszi fel, kincsöng,de nincs reakció, de volt olyan is a közel 50 hívásból, hogy valaki kinyomta. Ez nem jellemző rá. Segítségre lenne szükségünk!";
             List<string> esetek = new List<string>();
+            List<string> voltak = new List<string>();
+            voltak.Add("1");
+            voltak.Add("2");
+            voltak.Add("3");
             bool elsonap = true;
             esetek.Add(egyeset);
             esetek.Add(kettoeset);
             esetek.Add(haromeset);
-            esetek.Add(negyeset);
             HashSet<int> sorszamok = new HashSet<int>();
 
             //Játék
@@ -3404,12 +3428,13 @@ namespace Projekt
                         {
                             Console.Write("Add meg az általad vélasztott eset esetszámát! ");
                             mi = Console.ReadLine();
-                        } while (mi != "1" && mi != "2" && mi != "3" && mi != "4");
+                        } while (!voltak.Contains(mi));
 
                         //1. eset - Gyilkosság - vég
                         if (mi == "1")
                         {
                             volt++;
+                            voltak.Remove("1");
                             Console.Clear();
                             Console.WriteLine(elsoeset[0].szoveg);
                             Console.WriteLine(elsoeset[1].szoveg);
@@ -3461,7 +3486,7 @@ namespace Projekt
 
                                     do
                                     {
-                                        Console.Write("Bűncselekmény elküvetésének dátuma [év/hónap/nap]: ");
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
                                         mi = Console.ReadLine();
                                     } while (!mi.Contains("/"));
                                     eseged.ido = mi;
@@ -3496,7 +3521,7 @@ namespace Projekt
 
                                     do
                                     {
-                                        Console.Write("Bűncselekmény elküvetésének dátuma [év/hónap/nap]: ");
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
                                         mi = Console.ReadLine();
                                     } while (!mi.Contains("/"));
                                     eseged.ido = mi;
@@ -3540,7 +3565,7 @@ namespace Projekt
 
                                     do
                                     {
-                                        Console.Write("Bűncselekmény elküvetésének dátuma [év/hónap/nap]: ");
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
                                         mi = Console.ReadLine();
                                     } while (!mi.Contains("/"));
                                     eseged.ido = mi;
@@ -3575,7 +3600,7 @@ namespace Projekt
 
                                     do
                                     {
-                                        Console.Write("Bűncselekmény elküvetésének dátuma [év/hónap/nap]: ");
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
                                         mi = Console.ReadLine();
                                     } while (!mi.Contains("/"));
                                     eseged.ido = mi;
@@ -3593,8 +3618,232 @@ namespace Projekt
                         if (mi == "2")
                         {
                             volt++;
+                            voltak.Remove("2");
                             Console.Clear();
+                            Console.WriteLine(elsoeset[0].szoveg);
+                            Console.WriteLine(elsoeset[1].szoveg);
+                            Console.WriteLine(elsoeset[2].szoveg);
+                            string igen1;
+                            do
+                            {
+                                Console.Write("Választásod sorszáma: ");
+                                igen1 = Console.ReadLine();
+                            } while (igen1 != "1" && igen1 != "2");
 
+                            //Vallomás
+                            if (igen1 == "1")
+                            {
+                                Console.Clear();
+                                Console.WriteLine("Szemtanúk vallomása: ");
+                                Console.WriteLine("\t"+elsoeset[3].szoveg);
+                                Console.WriteLine("Úgy döntesz behatolsz a területre.");
+                                Console.WriteLine(elsoeset[4].szoveg);
+                                Console.WriteLine(elsoeset[5].szoveg);
+                                for (int igen=0; igen < rendszamok.Count; igen++)
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Red;
+                                    Console.WriteLine("-------------------------");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    Console.WriteLine($"{rendszamok[igen].rendszam}: {rendszamok[igen].tulaj}");
+                                    Console.ForegroundColor = ConsoleColor.Red;
+                                    if (igen == rendszamok.Count-1)
+                                    {
+                                        Console.WriteLine("-------------------------");
+                                    }
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                }
+                                string igen2;
+                                do
+                                {
+                                    Console.Write("Gyanusított neve: ");
+                                    igen2 = Console.ReadLine();
+                                } while (igen2 != "Balla Zsolt");
+
+                                Console.WriteLine(elsoeset[6].szoveg);
+                                Console.WriteLine(elsoeset[7].szoveg);
+                                string igen3;
+                                do
+                                {
+                                    Console.Write("Választásod sorszáma: ");
+                                    igen3 = Console.ReadLine();
+                                } while (igen3 != "1" && igen3 != "2");
+
+                                //Munkahely
+                                if (igen3 == "1")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(elsoeset[8].szoveg);
+                                    FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                    StreamWriter sw = new StreamWriter(fselknyilv);
+                                    Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                    do
+                                    {
+                                        Console.Write("Elkövető neve: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.nev = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.tett = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                        mi = Console.ReadLine();
+                                    } while (!mi.Contains("/"));
+                                    eseged.ido = mi;
+
+                                    sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                    sw.Close();
+                                    fselknyilv.Close();
+                                }
+
+                                //Lakás
+                                if (igen3 == "2")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(elsoeset[9].szoveg);
+                                    FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                    StreamWriter sw = new StreamWriter(fselknyilv);
+                                    Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                    do
+                                    {
+                                        Console.Write("Elkövető neve: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.nev = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.tett = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                        mi = Console.ReadLine();
+                                    } while (!mi.Contains("/"));
+                                    eseged.ido = mi;
+
+                                    sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                    sw.Close();
+                                    fselknyilv.Close();
+                                }
+                            }
+
+                            //Helyszín
+                            if (igen1 == "2")
+                            {
+                                Console.Clear();
+                                Console.WriteLine(elsoeset[4].szoveg);
+                                Console.WriteLine(elsoeset[5].szoveg);
+                                for (int igen = 0; igen < rendszamok.Count; igen++)
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Red;
+                                    Console.WriteLine("-------------------------");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    Console.WriteLine($"{rendszamok[igen].rendszam}: {rendszamok[igen].tulaj}");
+                                    Console.ForegroundColor = ConsoleColor.Red;
+                                    if (igen == rendszamok.Count - 1)
+                                    {
+                                        Console.WriteLine("-------------------------");
+                                    }
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                }
+                                string igen2;
+                                do
+                                {
+                                    Console.Write("Gyanusított neve: ");
+                                    igen2 = Console.ReadLine();
+                                } while (igen2 != "Balla Zsolt");
+
+                                Console.WriteLine(elsoeset[6].szoveg);
+                                Console.WriteLine(elsoeset[7].szoveg);
+                                string igen3;
+                                do
+                                {
+                                    Console.Write("Választásod sorszáma: ");
+                                    igen3 = Console.ReadLine();
+                                } while (igen3 != "1" && igen3 != "2");
+
+                                //Munkahely
+                                if (igen3 == "1")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(elsoeset[8].szoveg);
+                                    FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                    StreamWriter sw = new StreamWriter(fselknyilv);
+                                    Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                    do
+                                    {
+                                        Console.Write("Elkövető neve: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.nev = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.tett = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                        mi = Console.ReadLine();
+                                    } while (!mi.Contains("/"));
+                                    eseged.ido = mi;
+
+                                    sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                    sw.Close();
+                                    fselknyilv.Close();
+                                }
+
+                                //Lakás
+                                if (igen3 == "2")
+                                {
+                                    Console.Clear();
+                                    Console.WriteLine(elsoeset[9].szoveg);
+                                    FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                    StreamWriter sw = new StreamWriter(fselknyilv);
+                                    Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                    do
+                                    {
+                                        Console.Write("Elkövető neve: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.nev = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény: ");
+                                        mi = Console.ReadLine();
+                                    } while (mi == "");
+                                    eseged.tett = mi;
+
+                                    do
+                                    {
+                                        Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                        mi = Console.ReadLine();
+                                    } while (!mi.Contains("/"));
+                                    eseged.ido = mi;
+
+                                    sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                    sw.Close();
+                                    fselknyilv.Close();
+                                }
+                            }
                             esetek[1] = "";
                         }
 
@@ -3602,18 +3851,91 @@ namespace Projekt
                         if (mi == "3")
                         {
                             volt++;
+                            voltak.Remove("3");
                             Console.Clear();
+                            Console.WriteLine(harmadikeset[0].szoveg);
+                            Console.WriteLine(harmadikeset[1].szoveg);
+                            Console.WriteLine(harmadikeset[2].szoveg);
+                            string igen1;
+                            do
+                            {
+                                Console.Write("Választásod sorszáma: ");
+                                igen1 = Console.ReadLine();
+                            } while (igen1 != "1" && igen1 != "2");
 
+                            //Vallomás
+                            if (igen1 == "1")
+                            {
+                                volt++;
+                                Console.Clear();
+                                Console.WriteLine(harmadikeset[3].szoveg);
+                                Console.WriteLine(harmadikeset[4].szoveg);
+                                FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                StreamWriter sw = new StreamWriter(fselknyilv);
+                                Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                do
+                                {
+                                    Console.Write("Elkövető neve: ");
+                                    mi = Console.ReadLine();
+                                } while (mi == "");
+                                eseged.nev = mi;
+
+                                do
+                                {
+                                    Console.Write("Bűncselekmény: ");
+                                    mi = Console.ReadLine();
+                                } while (mi == "");
+                                eseged.tett = mi;
+
+                                do
+                                {
+                                    Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                    mi = Console.ReadLine();
+                                } while (!mi.Contains("/"));
+                                eseged.ido = mi;
+
+                                sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                sw.Close();
+                                fselknyilv.Close();
+                            }
+
+                            //Behatolsz
+                            if (igen1 == "2")
+                            {
+                                volt++;
+                                Console.Clear();
+                                Console.WriteLine(harmadikeset[5].szoveg);
+                                FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
+                                StreamWriter sw = new StreamWriter(fselknyilv);
+                                Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
+                                do
+                                {
+                                    Console.Write("Elkövető neve: ");
+                                    mi = Console.ReadLine();
+                                } while (mi == "");
+                                eseged.nev = mi;
+
+                                do
+                                {
+                                    Console.Write("Bűncselekmény: ");
+                                    mi = Console.ReadLine();
+                                } while (mi == "");
+                                eseged.tett = mi;
+
+                                do
+                                {
+                                    Console.Write("Bűncselekmény elkövetésének dátuma [év/hónap/nap]: ");
+                                    mi = Console.ReadLine();
+                                } while (!mi.Contains("/"));
+                                eseged.ido = mi;
+
+                                sw.WriteLine($"{eseged.nev};{eseged.tett};{eseged.ido}");
+
+                                sw.Close();
+                                fselknyilv.Close();
+                            }
                             esetek[2] = "";
-                        }
-
-                        //4. eset - Emberrablás
-                        if (mi == "4")
-                        {
-                            volt++;
-                            Console.Clear();
-
-                            esetek[3] = "";
                         }
 
                         Console.Clear();
@@ -3625,7 +3947,7 @@ namespace Projekt
                                 akarsz = Console.ReadLine();
                             } while (akarsz != "i" && akarsz != "n");
                         }
-                        if (volt == 4) akarsz = "n";
+                        if (volt == 3) akarsz = "n";
                         
                     }
                 }

@@ -1,0 +1,10 @@
+0;Kimész a bejelentés helyszínére. Egy régi raktár szerű épületet látsz.
+1;1: Felveszed a szemtanúk vallomását
+2;2: Bemész a helyszínre
+3;A raktárépület Balla Zsolt tulajdona, de már napok óta nem láttuk a környéken, de senki mást sem, viszont az eset óta még mindig hallani egy monoton motorzajt.
+4;A kapu zárva, leszeded a zárszerkezetet, és behatolsz a telekre. A kaputól ballra megpillantasz egy autót, a motor még mindig jár, a jobb első ajtó nyitva, a tolatólámpa betört. A jármű alatt egy ló fekszik. Négy lábán harisnya, a fején egy hosszú, széles hóka, szemei élénk kékek, a szóre erőteljes sárga, szinte teljesen tiszta narancs színe van, amit ellep a sár, és a vér. Lába beszorulva, bordái teljesen kivehetőek, valószínűleg nem etethették meg mostanában. A ló megemeli a fejét, és megpróbál felállni. Azonnal a segítségére siettek, és állatkórházba viszitek.
+5;A jármű rendszáma: SIK-325. Megnyitod a nyilvántatrást, hátha meglesz a tulajdonosa.
+6;1: Elmész az elkövető munkahelyére
+7;2: Elmész az elkövető lakására
+8;Elmész a gyanusított munkahelyére, magas tömbépület irodájában találtok rá. Aznonnal előzetesbe kerül, és még aznap mindet be is vallot.
+9;Elmész a gyanusított lakhelyére, magas tömbépület negyedik emeleti lakásában találtok rá. Aznonnal előzetesbe kerül, és még aznap mindet be is vallot.

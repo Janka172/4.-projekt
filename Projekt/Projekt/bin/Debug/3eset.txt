@@ -1,0 +1,6 @@
+0;Megérkezel a bejelentés helyszínére. A család, aki a bejelentést tette lent vár már a tömbház előtt.
+1;1: Felveszed a vallomásukat
+2;2: Megkéred, hogy mutassák meg melyik lakásról van szó
+3;A szomszédunkban lévő férfit Halász Ákosnak hívják, renszeresen hallunk érdekes hangokat a lakásából, és hihetetlen erős szagokat is, de egyre kevésbé hiszem azt hogy csak a hűtő olvadt le. Jelenleg viszont a lakásban tartózkodik.
+4;Úgy döntesz kérdés nélkül behatolsz a házba. A férfi azonnal becsukja a hálószobája ajtaját. Hirtelen cselekedsz és rányitod az ajtót. A férfi kezében egy konyhakés volt, a ruhája csupa vér. Körbeveszitek, és sikerül elvenni tőle a fegyvert, azonnal beszállítjátok a rendőrségre. Ahogy átkutatjátok a lakást, 13 különböző holttest maradványit találjátok meg.
+5;Bekopogsz a lakásba, de nem érkezik válasz, majd ezt többször is megismétled. Egy lövés hangot hallotok a lakásból. Azonnal kinyitod az ajtót, a feltételezett elkövető egy fegyverrel a kezében fekszik a fölfön. Öngyilkos lett. Ahogy átkutatjátok a lakást, 13 különböző holttest maradványit találjátok meg.
