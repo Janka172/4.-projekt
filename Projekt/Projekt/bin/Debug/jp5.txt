@@ -108,3 +108,6 @@
 107;Felveszed a telefont, a főnököd az.
 108;Tovább dolgozol, de egyértelműen romlott a munkamorálod, egyre kimerültebb vagy, mindened fáj, így az utolsó etetést a darura hagyod, és elmész pihenni előbb. Lefekszel a munkaruhában, a kulcs a kezedben, táska az oldaladon, de te csak fejjel előre dőlsz bele az ágyba, és azonnal elalszol. Jópár órával később a telefonod csörgésére ébredsz.
 109;Mivel a héten várható az Indominusz rex bemutatása, feszített tempóban kezdesz el dolgozni olyannyira, hogy le is betegszek eközben.
+110;Mivel a héten várható az Indominusz rex bemutatása tudod hogy nagyon sok dolgod van még addig.
+111;1: Többet kezdesz dolgozni
+112;2: Tartod az eddigi munkamentet
