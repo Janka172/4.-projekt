@@ -337,7 +337,6 @@ namespace Projekt
             //Képek
             string jplogo = "                  ,\n               ,  ;:._.-`''.\n             ;.;'.;`      _ `.\n              ',;`       ( \\ ,`-.  \n           `:.`,         (_/ ;\\  `-.\n            ';:              / `.   `-._\n          `;.;'              `-,/ .     `-.\n          ';;'              _    `^`       `.\n         ';;            ,'-' `--._          ;\n':      `;;        ,;     `.    ':`,,.__,,_ /\n `;`:;`;:`       ,;  '.    ;,      ';';':';;`\n              .,; '    '-._ `':.;    \n            .:; `          '._ `';;,\n          ;:` `    :'`'       ',__.)\n        `;:;:.,...;'`'\n      ';. '`'::'`''  .'`'\n    ,'   `';;:,..::;`'`'\n, .;`      `'::''`\n,`;`.\n";
             
-            
             string indoraptor = "           ....:::::::::::::...                             \n       ..::......::^^^^::^:^:^::...                         \n    ..               :^^^^::^^^^^::::..      ...            \n  .                   ^^^^..^^^^:::::^^::.....:::.::...     \n                      .^^^.:^:^^:^^^.:^::::::::::::::::^.   \n                      .^^^  ..:^^^::..:^^^::::::^^^^:^^^^^. \n                    :::^^:   .^:. .....      ..::^^^::::^~^.\n                   ::   ^:   ::::::  ...        .....::::::.\n                   ^.             ^^. .:                ..  \n                  .:...            ::.  .                   \n                   .                :.  ..                  \n                                          ...               \n                                            ...             \n";
             
             string indominusrex = "                                                                                \n                                                                                \n                                                                    .... #(/    \n                                                             /***,(#(/,,/#%&*  \n                                                         ...*#%/#...,.*#%/%#(   \n                         ,**,**/**** .                .. ,,*(,*(*,/#(%/%%%      \n  @&&&#####((///*/*****/(/***/***/**,*,,,             ./,/**,,#&&&&&&//.        \n &&*   ,&&%#######%%%%%#((*,*(//*,**(,*/****.        /***,*/(&((##&&&           \n &%         /&&%%%%&&%%(#(////(/((//****/,,*,*/*. ,*,**,/**,/(#%((#(//*  ,/     \n *%              %%&%&%#((((/###(####(/(///**,/,/,/*,*//*/#*%###((((&&%# .      \n  &                   ##%(((((%%%#((##%#((///**,*(/((//(#///%(#%%%#(/((/#.(/    \n   *                   #%#####%%%%%%%%##(((#((((#%((/#&#(/((#%#        ,%#(&%%# \n                       &%%%%#%&&%&%%%%#/((#(###%#%%((&%##(###                   \n     ,                 (%%%#%%%###%%%/%%%%%#%%%#%###(%%                         \n                      /&%#%%&%   .%(#%&@&%&&&%##%%%#.                           \n                       %%%&&%  ,*//%%#&%%/%%%%##(.                              \n                       %&&&*  (%%#(%&%/       ,%&                               \n                      /%&&&   %%%% *#%#       *&%%,                             \n                      /#%/&   /%&/  ,##(   ., #%%#                              \n                      ##**    #&&*%*  (#/   #(%.                                \n                     (#*#%*  ./&&&&#%%#(#//((#((/,.                             \n                 ##%%##/@%%%%////////**(/##(((,.                                \n                .,,********///**,,...,,%/////(,..                               \n                                                                                \n";
@@ -383,7 +382,6 @@ namespace Projekt
             string pthera = "                                   .^^::.                             \n                                    :~~~!~^..                         \n                                   .~~~!!!!!~!!~~~^^^^^^^^::::.:....  \n                                   ^^~!~!!!!!77??7777!!~!!~^^^::...   \n.                                 ^!!^~!!!7?7777??77!~~^::.           \n^.                               ^7??^.^^^^^^::...                    \n:~^^.         ...           ...:~7JJ^                                 \n ^~~^           :^^:      .^!!!7?JY7                                  \n :~~~~^^^^.       :~~~^~^^~!777!7?7!.                                 \n  ^~77~~~~~^        :~!!~^!!7!!7??7!^                                 \n  :~!7!!~~~~~:.       ^~^~77!!????!!^                                 \n   .^~!!~~~~!!!!~^:. .^~^~!!~!77!~~!!~^:.                             \n     .^!!~~77!777J?!~~~~~^^^~~~~^^^^^~~~~~^^^^.                       \n       :!7!77!!!!???7!!!!!~~~~~~~~~~~!!!!!!~~~^                       \n        .^!777!!7777777777777777!~^~!~~~~!!~~~:                       \n          .^!!!!7777?777777777777!^~7^^~!!!~~~.                       \n            .:^~!!!777??777777!77~^7~   :^~~~~                        \n               .:^~!!!!77?7777!!!^!!       .:^:::                     \n                  .:^~!!!!77777!^~!.          ..:                     \n                      .:~~~!!!!~~!:                                   \n                         .^~!!!~~~                                    \n                            .^~~^^::.                                 \n                               .:....                                 \n";
 
             string plesio = "         :^^~!^^:                                                 .~7?J??7777!^                                         \n     ~????77!!!!7!7!:                            ~:         \n   .!???Y?7!!~?YYJ?77:            .:           .~!.         \n   !JJ?JY?77^ .!YYYJ!!.            ^~.       .~77.          \n  ~??JJJYJ7!.   !YYYJ7~             ~7?7777777?!.           \n ^?!!J7JYY57.   .JYJJ?!          ^7Y55PP55YYJ!:       ....  \n^J!^~~!?J5Y?7^   75YJJ!.      :7YP55Y555YYJ?7~:^^~~^^^::..  \n^7!~~^7YYYJ?!.   7P5JJ7.    :JPP555P5555JJ7!^.....          \n^~^!7?Y55YYY7    !55JJ7~..:!Y5555YYYYYY?7~^:                \n ^~!77JJYYY5~    :JYYY7?J555YYYJJYJ??77~:..                 \n  .^!?77?J?J^     ^JYY?7!?JJ?77!!!~~^^^.                    \n    :!7?777J^      .^!!!~~~~~^:.....:::.                    \n     :~!?7~~            .::.         ::^:.                  \n      .^~~^.           ^~:.          .^^~~:                 \n                      ~^.             .:~77^.               \n                      .                 .^7?!:              \n                                           :^^.             \n";
-
 
             string sino = "    .^^: ^^::!J~.^~  ::                                     \n   :~!??~~!7~~~!!~!^77:                                     \n  :7!~~^~~~~~~~!!!!777!                                     \n  ^~~~~~~~~~!7!!~~77777!:  .                                \n  :~~~~^^~~~!!!7~ .^!7??77!.                                \n  .~~~^. :~~!7??J7^:7?JJ??:.                                \n  .~~~~  ~!~!7?YJY555JJJ?J?J!~^:                            \n.^^~^~!!!JY7~!??5PP5Y?J?JY?JYYY5J7!:                        \n..:^~~!7!7??!~7?J5P5YJJ5Y5JJYYYYY5YY?~.                     \n  .:^~!7??JJ!!!7?????7J55J?JYJJJJY5YYYJ!.                   \n   .^~7777??7!777777!7??7!?JJJJJJYY5JJJJ?:                  \n    :~!!!~777~7J7!!~???7!!7???JYYYYYJJJ?JJ^                 \n     ~^^:^^~~^^?5?~75YJJJ?77???JYJ?J??JJ?JY7:               \n         :~77!^75J7J5PJ7!~!7????J?77?7?J????J?~:            \n       .~~!JY!^^!!?YYP7!~^~7????J!!77^!?J??777?J?~:.     .:^\n       .::~~7?~^~!7PGP?!^:^~!7??J7?7^^^~!!!7!!!77???77777!~.\n         :~^^7J~^!7J5J7~^^^:^~!7?!~^::^^!!7777???77777!^:   \n         ~!!~~7~~?YJ!~~~~~^~~^~7?~ .  :^^~~!:.:^^^^:..      \n         ~!~~~^..~7!~~~^::^^~~!77~     :^^~!.               \n        ~!^:^^:     ..:.   ^~~7???.     ^~!7.               \n       ~!^^^:.            :~^^!?JJ7     ^~7?~               \n      ^7!~^^            .^~~^~7???J:    ^~77?~.             \n     .~^^^:^.           .:..^~?!?7?:    .^^:~^^             \n";
 
@@ -3382,6 +3380,8 @@ namespace Projekt
                             }
                         }
                     }
+
+                    mi = "igen";
                 }
                 
                 //Rendőrség
@@ -3394,11 +3394,11 @@ namespace Projekt
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("Rendőr szimulátor");
                         Console.ForegroundColor = ConsoleColor.White;
-                        Console.WriteLine("A játék során több különböző bűntény után tudsz nyomozni, illetve elkövetőket elfogni. A döntéseid befolyásolják ezek sikerességét. Ha döntési lehetőség elé kerülsz, és nincsen egyéb instrukció, a döntésed sorszámával tudod azt végrehajtani.\nAmennyiben elfogadtad a játék szamályzatot, azt az ");
+                        Console.Write("A játék során több különböző bűntény után tudsz nyomozni, illetve elkövetőket elfogni. A döntéseid befolyásolják ezek sikerességét. Ha döntési lehetőség elé kerülsz, és nincsen egyéb instrukció, a döntésed sorszámával tudod azt végrehajtani.\nAmennyiben elfogadtad a játék szamályzatot, azt az ");
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("ENTER");
+                        Console.Write("ENTER");
                         Console.ForegroundColor = ConsoleColor.White;
-                        Console.WriteLine(" lenyomássával jelezd!");
+                        Console.Write(" lenyomássával jelezd!");
                         do
                         {
                             mi = Console.ReadLine();
@@ -3952,7 +3952,8 @@ namespace Projekt
                             } while (akarsz != "i" && akarsz != "n");
                         }
                         if (volt == 3) akarsz = "n";
-                        
+
+                        mi = "igen";
                     }
                 }
                 
@@ -3970,7 +3971,7 @@ namespace Projekt
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
                     Console.Write("ENTER");
                     Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine(" lenyomássával jelezd!\n");
+                    Console.Write(" lenyomássával jelezd!\n");
 
                     Console.Write("Mennyiben kíváncsi vagy arra, hogy milyen dinoszauruszok jelnnek meg a történet során a ");
                     Console.ForegroundColor = ConsoleColor.DarkGreen;
@@ -4060,10 +4061,6 @@ namespace Projekt
                             } while (k != "i" && k != "n");
                             Console.Clear();
                         } while (k == "i");
-                        
-
-
-
                     }
 
 
@@ -4091,9 +4088,9 @@ namespace Projekt
                     Console.WriteLine($"A háttértörténet:\n\t{jphatter[0]}");
                     Console.Write("Amennyiben elolvastad a történetet, és készen állsz a játékra, azt az ");
                     Console.ForegroundColor = ConsoleColor.Red;
-                    Console.WriteLine("ENTER");
+                    Console.Write("ENTER");
                     Console.ForegroundColor = ConsoleColor.White;
-                    Console.WriteLine(" lenyomássával jelezd!");
+                    Console.Write(" lenyomássával jelezd!");
 
                     do
                     {
@@ -14481,6 +14478,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -14619,6 +14617,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -14773,6 +14772,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen11;
                                                 do
                                                 {
@@ -14910,6 +14910,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -15078,6 +15079,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -15216,6 +15218,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -15370,6 +15373,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen11;
                                                 do
                                                 {
@@ -15507,6 +15511,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -15720,6 +15725,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -15858,6 +15864,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -16012,6 +16019,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen11;
                                                 do
                                                 {
@@ -16149,6 +16157,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -16317,6 +16326,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -16455,6 +16465,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -16609,6 +16620,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen11;
                                                 do
                                                 {
@@ -16746,6 +16758,7 @@ namespace Projekt
                                                 Console.Clear();
                                                 Console.WriteLine(jpdolgozo[50].szoveg);
                                                 Console.WriteLine(jpdolgozo[51].szoveg);
+                                                Console.WriteLine(jpdolgozo[52].szoveg);
                                                 string igen8;
                                                 do
                                                 {
@@ -18216,13 +18229,165 @@ namespace Projekt
                                 if (igen14 == "2")
                                 {
                                     Console.Clear();
+                                    Console.WriteLine(jpdolgozo[113].szoveg);
+                                    Console.WriteLine(jpdolgozo[114].szoveg);
+                                    Console.WriteLine(jpdolgozo[115].szoveg);
+                                    string igen15;
+                                    do
+                                    {
+                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                        igen15 = Console.ReadLine();
+                                    } while (igen15 != "1" && igen15 != "2");
 
+                                    //Te
+                                    if (igen15 == "1")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[116].szoveg);
+                                        Console.WriteLine(jpdolgozo[].szoveg);
+                                        Console.WriteLine(jpdolgozo[].szoveg);
+                                        string igen16;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen16 = Console.ReadLine();
+                                        } while (igen16 != "1" && igen16 != "2");
+
+
+                                    }
+
+                                    //Daru
+                                    if (igen15 == "2")
+                                    {
+                                        Console.Clear();
+                                        Console.WriteLine(jpdolgozo[117].szoveg);
+                                        Console.WriteLine(jpdolgozo[118].szoveg);
+                                        Console.WriteLine(jpdolgozo[119].szoveg);
+                                        string igen16;
+                                        do
+                                        {
+                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                            igen16 = Console.ReadLine();
+                                        } while (igen16 != "1" && igen16 != "2");
+
+                                        //Daru
+                                        if (igen16 == "1")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[120].szoveg);
+                                            Console.WriteLine(jpdolgozo[121].szoveg);
+                                            Console.WriteLine(jpdolgozo[122].szoveg);
+                                            string igen17;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen17 = Console.ReadLine();
+                                            } while (igen17 != "1" && igen17 != "2");
+
+                                            //Segítség
+                                            if (igen17 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[124].szoveg);
+                                                Console.WriteLine(jpdolgozo[125].szoveg);
+                                                Console.WriteLine(jpdolgozo[126].szoveg);
+                                                string igen18;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen18 = Console.ReadLine();
+                                                } while (igen18 != "1" && igen18 != "2");
+
+                                                //Kültér - vég - b
+                                                if (igen18 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[127].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Nem sikerült túlélned a bemutató napját.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+
+                                                //Kifutó
+                                                if (igen18 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[].szoveg);
+                                                    Console.WriteLine(jpdolgozo[].szoveg);
+                                                    Console.WriteLine(jpdolgozo[].szoveg);
+                                                    string igen19;
+                                                    do
+                                                    {
+                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                        igen19 = Console.ReadLine();
+                                                    } while (igen19 != "1" && igen19 != "2");
+                                                }
+                                            }
+
+                                            //Megoldod - vég - ny
+                                            if (igen17 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[123].szoveg);
+                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                Console.ForegroundColor = ConsoleColor.White;
+
+                                            }
+                                        }
+
+                                        //Te
+                                        if (igen16 == "2")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[116].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            string igen17;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen17 = Console.ReadLine();
+                                            } while (igen17 != "1" && igen17 != "2");
+
+                                            //
+                                            if (igen17 == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen18;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen18 = Console.ReadLine();
+                                                } while (igen18 != "1" && igen18 != "2");
+                                            }
+
+                                            //
+                                            if (igen17 == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen18;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen18 = Console.ReadLine();
+                                                } while (igen18 != "1" && igen18 != "2");
+                                            }
+                                        }
+                                    }
                                 }
                             }
                         }
                     }
                 }
 
+                mi = "igen";
 
                 do
                 {
@@ -18232,18 +18397,45 @@ namespace Projekt
                 } while (akarsz!="i" && akarsz != "n");
             }
 
-            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Készítette:");
             Console.ForegroundColor = ConsoleColor.White;
 
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.Write("\tH");
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.Write("egedüs ");
-            Console.ForegroundColor = ConsoleColor.Cyan;
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
             Console.Write("J");
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.Write("anka");
+
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.WriteLine("\nCsapat:");
+            Console.ForegroundColor = ConsoleColor.White;
+
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write("\tH");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.Write("egedüs ");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write("J");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.Write("anka");
+
+            Console.WriteLine();
+
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write("\tB");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.Write("ujtor ");
+            Console.ForegroundColor = ConsoleColor.DarkCyan;
+            Console.Write("B");
+            Console.ForegroundColor = ConsoleColor.DarkRed;
+            Console.Write("álint");
+
+            Console.WriteLine();
 
             Console.ReadKey();
         }

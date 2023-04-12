@@ -111,3 +111,20 @@
 110;Mivel a héten várható az Indominusz rex bemutatása tudod hogy nagyon sok dolgod van még addig.
 111;1: Többet kezdesz dolgozni
 112;2: Tartod az eddigi munkamentet
+113;Szokásod szerint végzed a munkád, és a hét gyorsabban telik el, mint vártad. Elérkezett a bemutató napja, rengeteg ember kíváncsi az új állat bemutatására. Hajnalban kimész megfigyelni, hogyan reagál Infernó a hangzavarra, és az egyre csak gyűlő tömegre. Az embrek csak gyűlek az üveg mentén tudják, hogy most következik az etetés.
+114;1: Te viszel be neki ételt
+115;2: Megeteted a daru segítségével
+116;Bemész a kifutó feletti szerkezetre, a hatalmas állat már azonnal tudja mi fog történni. Egy rövid gyakorlás után megeteted Infernót. A látogatóknak nagyon tetszik, az hogy milyen jól tud viselkedni egy ilyen barátságtalan külsejű állat.
+117;A daru segítségével melógatsz a kifutóba egy hatalmas húsdarabot. A nézőtéren megfagy a levegő, mindenki izgatottan figyeli a rex mozdulatait. Az állat négylábra eresztkedik, megszagolja a húst, de sokkal inkább a darudal van elfoglalva, de nem eszik. Megfordul, és elmegy inkább enni.
+118;1: Beljebb engedet a daru harját
+119;2: Beviszed neki az ételt
+120;Az állat a kifutó közepén fekszik. Amint meghallja a daru ropogó hangját, felkel, és teljes sebességével a daru felé indul. Feláll a két hátulsó lábára. A jobb mellső lábát karként használva megfogja a darut. Megpróbálod visszahúzni, de ekkor már a fém szerkezet az szorításában van. Megfagy a levegő a kifutó teljes területén...
+121;1: Segítséget hívsz, hogy kilőjjék az állatot
+122;2: Megpróbálod megnyugtatni
+123;Gyorsan kapcsolsz, és tudod, hogy az indominusz sokkal erősebb nem csak nálad de a daru szerkezeténél is. Kifutsz a vezérlőből, keresztül a tömgen, kinyitod a kifutó felső bejáratát, és feljutsz a kifutó feletti szerkezetre. Infernó azonnal észrevesz attól függetlenül is, hogy éppen háttal áll neked. Elengedi a darut, aminek a vége nagy hangzavar közepette hullik a porba. Az állat megfordul, kétlábra áll, és mellső lábával megfogja a felette húzódó rács melletted lévő részét. Ez az emberekből egy pánikot vált ki, de te csak megsimogatod az állat orrát. Láthatóan ideges, nehezen tudja kezelni a rengeteg újdonságot.
+124;Segítséget hívsz, és megpróbálod megmenteni a darut. Abban a pillanatban, hogy te meghúzod befelé a daru karját, az indominusz megrántja azt a maga irányába, és nem csak a darukar, hanem a fal egy része is bedől vele együtt. Ekkor érkeznek meg a mefogó csapatok, akik elkezdenek az állatra tüzelni. Emiatt az állat többször is nekiront a fal sérült részének.
+125;1: Elkezdesz menekülni a helységből, a kültér felé
+126;2: Elkezdesz menekülni a helységből, a kifutóba
+127;Elkezdesz futni a kijárat irányába, de késő. Infernó áttöri a falat, ezzel a törmelék maga alá temet.
+
+
