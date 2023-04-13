@@ -1,6 +1,7 @@
 Karakter - szín
 Kutató - Green
 Tulaj - DarkYellow
+Dolgozó - Cyan
 mellékszereplő - Gray
 
 
