@@ -125,6 +125,13 @@
 124;Segítséget hívsz, és megpróbálod megmenteni a darut. Abban a pillanatban, hogy te meghúzod befelé a daru karját, az indominusz megrántja azt a maga irányába, és nem csak a darukar, hanem a fal egy része is bedől vele együtt. Ekkor érkeznek meg a mefogó csapatok, akik elkezdenek az állatra tüzelni. Emiatt az állat többször is nekiront a fal sérült részének.
 125;1: Elkezdesz menekülni a helységből, a kültér felé
 126;2: Elkezdesz menekülni a helységből, a kifutóba
-127;Elkezdesz futni a kijárat irányába, de késő. Infernó áttöri a falat, ezzel a törmelék maga alá temet.
+127;Elkezdesz futni a kijárat irányába, de késő. Infernó áttöri a falat, ezzel a törmelék maga alá temet. Előszőr egy nagy nyomást érzel, majd már többé semmit sem. Az állat rálép a törmelére, ami alatt fekszel tehtetlenül. Vége.
+128;Befutsz a kifutóba, a fal összeomlik mögötted, a tetőszerkezet egész sablilan tartja magát, annak ellenére, sz azt tartó szerkezet már darabokban van. Ahogy hátranézel megpillantod Infernó rikító fehér hátát, ahogy egyszer csak eltűnik a fák sokasága közt.
+129;1: Utánna mész
+130;2: A befogócsapatra bízod
+131;Visszamész a vezérlőhöz, de ahogy becsukod a szemed megjelenik előtted a kép, hogy az elfogó-csapatok szitává lövik Infernót. Álmodsz vagy a lelkiismereted az? Bármi is az, összeszeded magad és elindulsz megkeresni szeretett állatodat.
+132;1: Korán elmész aludni
+133;2: Megkérdezed az emberek véleményét az állattal kapcsolatban
+
 
 

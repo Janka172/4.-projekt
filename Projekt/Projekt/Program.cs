@@ -6282,7 +6282,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -7070,7 +7070,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -7800,7 +7800,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Kiüríted - vég -ny
+                                                //Kiüríted - vég - ny
                                                 if (igen9 == "2")
                                                 {
                                                     Console.Clear();
@@ -8329,7 +8329,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -9117,7 +9117,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -9847,7 +9847,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Kiüríted - vég -ny
+                                                //Kiüríted - vég - ny
                                                 if (igen9 == "2")
                                                 {
                                                     Console.Clear();
@@ -10419,7 +10419,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -11207,7 +11207,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -11937,7 +11937,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Kiüríted - vég -ny
+                                                //Kiüríted - vég - ny
                                                 if (igen9 == "2")
                                                 {
                                                     Console.Clear();
@@ -12466,7 +12466,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -13254,7 +13254,7 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Kiüríted - vég -ny
+                                                        //Kiüríted - vég - ny
                                                         if (igen9 == "2")
                                                         {
                                                             Console.Clear();
@@ -13984,7 +13984,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Kiüríted - vég -ny
+                                                //Kiüríted - vég - ny
                                                 if (igen9 == "2")
                                                 {
                                                     Console.Clear();
@@ -14500,7 +14500,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -14521,7 +14521,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -14639,7 +14639,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -14660,7 +14660,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -14794,7 +14794,7 @@ namespace Projekt
                                                         igen12 = Console.ReadLine();
                                                     } while (igen12 != "1" && igen12 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen12 == "1")
                                                     {
                                                         Console.Clear();
@@ -14815,7 +14815,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen11 == "2")
                                                 {
                                                     Console.Clear();
@@ -14932,7 +14932,7 @@ namespace Projekt
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen11 == "1")
                                                     {
                                                         Console.Clear();
@@ -14953,7 +14953,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -15101,7 +15101,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -15122,7 +15122,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -15240,7 +15240,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -15261,7 +15261,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -15395,7 +15395,7 @@ namespace Projekt
                                                         igen12 = Console.ReadLine();
                                                     } while (igen12 != "1" && igen12 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen12 == "1")
                                                     {
                                                         Console.Clear();
@@ -15416,7 +15416,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen11 == "2")
                                                 {
                                                     Console.Clear();
@@ -15533,7 +15533,7 @@ namespace Projekt
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen11 == "1")
                                                     {
                                                         Console.Clear();
@@ -15554,7 +15554,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -15747,7 +15747,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -15768,7 +15768,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -15886,7 +15886,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -15907,7 +15907,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -16041,7 +16041,7 @@ namespace Projekt
                                                         igen12 = Console.ReadLine();
                                                     } while (igen12 != "1" && igen12 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen12 == "1")
                                                     {
                                                         Console.Clear();
@@ -16062,7 +16062,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen11 == "2")
                                                 {
                                                     Console.Clear();
@@ -16179,7 +16179,7 @@ namespace Projekt
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen11 == "1")
                                                     {
                                                         Console.Clear();
@@ -16200,7 +16200,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -16348,7 +16348,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -16369,7 +16369,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -16487,7 +16487,7 @@ namespace Projekt
                                                         igen9 = Console.ReadLine();
                                                     } while (igen9 != "1" && igen9 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen9 == "1")
                                                     {
                                                         Console.Clear();
@@ -16508,7 +16508,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -16642,7 +16642,7 @@ namespace Projekt
                                                         igen12 = Console.ReadLine();
                                                     } while (igen12 != "1" && igen12 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen12 == "1")
                                                     {
                                                         Console.Clear();
@@ -16663,7 +16663,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen11 == "2")
                                                 {
                                                     Console.Clear();
@@ -16780,7 +16780,7 @@ namespace Projekt
                                                         igen11 = Console.ReadLine();
                                                     } while (igen11 != "1" && igen11 != "2");
 
-                                                    //Segíteni - vég -ny
+                                                    //Segíteni - vég - ny
                                                     if (igen11 == "1")
                                                     {
                                                         Console.Clear();
@@ -16801,7 +16801,7 @@ namespace Projekt
                                                     }
                                                 }
 
-                                                //Ball - vég -ny
+                                                //Ball - vég - ny
                                                 if (igen8 == "2")
                                                 {
                                                     Console.Clear();
@@ -18244,8 +18244,8 @@ namespace Projekt
                                     {
                                         Console.Clear();
                                         Console.WriteLine(jpdolgozo[116].szoveg);
-                                        Console.WriteLine(jpdolgozo[].szoveg);
-                                        Console.WriteLine(jpdolgozo[].szoveg);
+                                        Console.WriteLine(jpdolgozo[132].szoveg);
+                                        Console.WriteLine(jpdolgozo[133].szoveg);
                                         string igen16;
                                         do
                                         {
@@ -18253,7 +18253,50 @@ namespace Projekt
                                             igen16 = Console.ReadLine();
                                         } while (igen16 != "1" && igen16 != "2");
 
+                                        //
+                                        if (igen == "")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            string igen;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen = Console.ReadLine();
+                                            } while (igen != "1" && igen != "2");
 
+                                            //
+                                            if (igen == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen = Console.ReadLine();
+                                                } while (igen != "1" && igen != "2");
+                                            }
+
+                                            //
+                                            if (igen == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen = Console.ReadLine();
+                                                } while (igen != "1" && igen != "2");
+                                            }
+                                        }
                                     }
 
                                     //Daru
@@ -18312,15 +18355,136 @@ namespace Projekt
                                                 if (igen18 == "2")
                                                 {
                                                     Console.Clear();
-                                                    Console.WriteLine(jpdolgozo[].szoveg);
-                                                    Console.WriteLine(jpdolgozo[].szoveg);
-                                                    Console.WriteLine(jpdolgozo[].szoveg);
+                                                    Console.WriteLine(jpdolgozo[128].szoveg);
+                                                    Console.WriteLine(jpdolgozo[129].szoveg);
+                                                    Console.WriteLine(jpdolgozo[130].szoveg);
                                                     string igen19;
                                                     do
                                                     {
                                                         Console.Write("Add meg a döntésed sorszámát! ");
                                                         igen19 = Console.ReadLine();
                                                     } while (igen19 != "1" && igen19 != "2");
+
+                                                    //Megoldod
+                                                    if (igen18 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jpdolgozo[97].szoveg);
+                                                        Console.WriteLine(jpdolgozo[98].szoveg);
+                                                        Console.WriteLine(jpdolgozo[99].szoveg);
+                                                        string igen7;
+                                                        do
+                                                        {
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                            igen7 = Console.ReadLine();
+                                                        } while (igen7 != "1" && igen7 != "2");
+
+                                                        //Jobb
+                                                        if (igen7 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[100].szoveg);
+                                                            Console.WriteLine(jpdolgozo[101].szoveg);
+                                                            Console.WriteLine(jpdolgozo[102].szoveg);
+                                                            string igen8;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen8 = Console.ReadLine();
+                                                            } while (igen8 != "1" && igen8 != "2");
+
+                                                            //Fegyver - vég - ny  - vég - ny
+                                                            if (igen8 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jptulaj[104].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Menkülsz - vég - b - vég - b
+                                                            if (igen8 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jptulaj[103].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+                                                        }
+
+                                                        //Ball - vég - ny
+                                                        if (igen7 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jptulaj[105].szoveg);
+                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                        }
+                                                    }
+
+                                                    //Csapatok
+                                                    if (igen18 == "2")
+                                                    {
+                                                        Console.Clear();
+                                                        Console.WriteLine(jpdolgozo[131].szoveg);
+                                                        Console.WriteLine(jpdolgozo[97].szoveg);
+                                                        Console.WriteLine(jpdolgozo[98].szoveg);
+                                                        Console.WriteLine(jpdolgozo[99].szoveg);
+                                                        string igen7;
+                                                        do
+                                                        {
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                            igen7 = Console.ReadLine();
+                                                        } while (igen7 != "1" && igen7 != "2");
+
+                                                        //Jobb
+                                                        if (igen7 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[100].szoveg);
+                                                            Console.WriteLine(jpdolgozo[101].szoveg);
+                                                            Console.WriteLine(jpdolgozo[102].szoveg);
+                                                            string igen8;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen8 = Console.ReadLine();
+                                                            } while (igen8 != "1" && igen8 != "2");
+
+                                                            //Fegyver - vég - ny  - vég - ny
+                                                            if (igen8 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jptulaj[104].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Menkülsz - vég - b - vég - b
+                                                            if (igen8 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jptulaj[103].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+                                                        }
+
+                                                        //Ball - vég - ny
+                                                        if (igen7 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jptulaj[105].szoveg);
+                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
+                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                        }
+                                                    }
                                                 }
                                             }
 
@@ -18441,3 +18605,50 @@ namespace Projekt
         }
     }
 }
+
+/*
+ *                                      //
+                                        if (igen == "")
+                                        {
+                                            Console.Clear();
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            Console.WriteLine(jpdolgozo[].szoveg);
+                                            string igen;
+                                            do
+                                            {
+                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                igen = Console.ReadLine();
+                                            } while (igen != "1" && igen != "2");
+
+                                            //
+                                            if (igen == "1")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen = Console.ReadLine();
+                                                } while (igen != "1" && igen != "2");
+                                            }
+
+                                            //
+                                            if (igen == "2")
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                Console.WriteLine(jpdolgozo[].szoveg);
+                                                string igen;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen = Console.ReadLine();
+                                                } while (igen != "1" && igen != "2");
+                                            }
+                                        }
+ */
