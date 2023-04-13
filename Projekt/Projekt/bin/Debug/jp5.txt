@@ -132,6 +132,30 @@
 131;Visszamész a vezérlőhöz, de ahogy becsukod a szemed megjelenik előtted a kép, hogy az elfogó-csapatok szitává lövik Infernót. Álmodsz vagy a lelkiismereted az? Bármi is az, összeszeded magad és elindulsz megkeresni szeretett állatodat.
 132;1: Korán elmész aludni
 133;2: Megkérdezed az emberek véleményét az állattal kapcsolatban
+134;Fáradt vagy, ezért elmész aludni, már éppen keztél elaludni, mikor a telefonod csengése ébreszt fel...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
