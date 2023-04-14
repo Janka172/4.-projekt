@@ -133,10 +133,35 @@
 132;1: Korán elmész aludni
 133;2: Megkérdezed az emberek véleményét az állattal kapcsolatban
 134;Fáradt vagy, ezért elmész aludni, már éppen keztél elaludni, mikor a telefonod csengése ébreszt fel...
+135;Lemész az állat kifutójához, hogy megtudd az emberek véleményét.
+136;A családommal érkezettem a szigetre, tulajdonképpen nyaralni, a két gyerek nagyon kíváncsi volt az új állatra. Mondhatni megrémültek tőle, de lehet, hogy nem csak a gyerekek.
+137;Nemrégiben találkoztam előszőr a féltestvéremmel, eleinte viharos volt a kapcsolatunk, de azt hisszük ez az élmény majd közelebb hoz minket. Egyelőre nem csalódtunk.
+138;Estig beszélgetsz az emberekkel, várod hogy hátha valaki végre megerősítse a félelmedet, de nem. Mindenki csak pozitív véleménnyel van az új dinoszauruszról. Egyre jobban kezd kiürülni a hely, hiszen elérkezett a záróra, az emberek visszamennek a szállásra, hiszen kezdődik a karbantartás. Valami miatt te maradsz addig, amíg mindenki el nem megy. Az üveg előtt állsz, de már egy ideje nem látod az állatot, amíg nem...
+139;Azok a karmolások eddig is ott voltak?
+140;Nem láttam, de lehet, hogy csak az emberek takarták ki.
+141;1: Késő van már, ezért figyelmen kívül hagyod, és elmész aludni
+142;2: Felmész a falra, hátha onnan látod az állatot
+143;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki nem veszi fel.
+144;1: Lemész az eligazítóba
+145;2: Kimész a fő utcára
 
-
-
-
+146;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd mit fosz kezdeni magaddal, hisz feltetted az életpályád erre a parkra... Ezt a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
+147;1: Bemenekülsz a legközelebbi épületbe
+148;2: Lefutsz az aluljáróba
+149;Befutsz az élületbe, az óriás azonnal kapcsol és előrehajtott fejjel ront neki az épületnek. Az épületek sem bírják ezt a szintű megterhelést, az állat által elkövetett támadás a földdel teszi egyenlővé. A giganoto egy darabig lökdösi a romokat, amik alatt fekve reménykedsz abban, hogy elmegy. Aztán hallod a dübörgő lépteit ahogyan egyre csak távolodnak. Elment. Csak fekszel a romok alatt, hirtelen egy magas szintű nyugalom tört rád. Nem ez az első hibád... Egy kotorászó hangot hallasz, majd egy jellegzetes pattogás szerű üvöltést, majd egy másikat, majd megint. Egyértelműen három különböző állatról van szó. Velociraptorok. Pontosan jól tudják, hogy a romok alatt vagy. Nem mersz mozdulni sem, de nem is kell az egyik veloci ki rángat a romok közül. Ekkor már tudod, hogy nincs menekvés. A zöld fellép a hátadra, és jelez a többinek, ekkor már négyen voltak. Majd egy szürke raptor kék sávval melléd lép, ő lehet az vezető. Lehajol a fejedhez, a tarkódon érzed a leheletet, a fogai a fejedhez érnek, majd összezár. Vége.
+150;Lefutsz az aluljáróba, ami fénykorában még a mozi bejárata volt. A giganoto orra figyel feléd a kijárat felől. Keresned kell egy másik megoldást, mert az az állat nem fog kímélni. Haladsz tovább az úton, fáradt vagy, nem tudod mi visz tovább, de nem mersz megállni. Megpillantod a vetítőszoba bejáratát.
+151;1: Bemész a vetítőbe
+152;2: Haladsz tovább a folyosón
+153;Tovább haladsz a folyosón, figyeled a plakátokat. "A világ legnagyobb és egyetlen őslényeket bemutató park!", "Kitüntetés a tudományos egyesülettől", "A dinoszauruszok csodájára jár a világ". Majd hirtelen megállsz, nincs időd a bűntudatod okozta lassú búcsúzkodás folyamatát megélned. Veled szemben egy üveggel elfedett plakát, egy carnotaurus feje látható rajta, az egyik itt vetített film palákája az "Együtt élünk vagy velük vagy ők élnek helyettünk?", a gondolataidba merülsz majd mintha a plakát pislogott volna. remek már hallucinálsz is? Nem. Hátrafordul és mögötted áll egy carno. Az állat időt sem hagyott, hogy átgondold hova futsz majd, az állkapcsa azonnal nyílik, majd összezár. Vége.
+154;Belépsz a vetítőszobába, minden üres, popcornos zacskók üdítős poharak mindenhol a földön. Megpillantod annak a gyereknek a testét, akinek az apját az indominusz kifutójánál kérdezted... Úgy tűnik mégsem lett egy nagyszerű családi nyaralás... Ahogyan ezen gondolkozol megpillantod mi tehette ezt vele, a mozivászon szétszakad és egy baryonyx jön ki mögüle.
+155;1: Gyorsan bemászol a szellőzőbe
+156;2: Megpróbálod elhagyni a termet
+157;Elkezdesz a kijárat felé rohanni, azzal nem számolva, hogy a baryonyx gyorsabb nálad. Utolért. Lelök a földre, hatalmas hosszúkás pofáját a fejed mellé teszi, közelről is megvizsgálja az új prédáját. Egyszer csak elkezded érezni a tarkódon az állat fogsorát, majd összezár. Vége.
+158;Bemászol a szellőzőnyílásba, a baryonyx utánad hajol, hatalmas hosszúkás pofáját bedugja a szellőzőnyílásba. Te nem lassítasz, csak kúszol előre, és reménykedsz.
+159;1: Haladsz tovább az szobádig
+160;2: Az első lehetőségnél kijössz a szellőzőből
+161;Az szobád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 compy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
+162;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz de el kezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
 
 
 
