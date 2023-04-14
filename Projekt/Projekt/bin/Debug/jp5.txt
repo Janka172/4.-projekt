@@ -144,7 +144,6 @@
 143;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki nem veszi fel.
 144;1: Lemész az eligazítóba
 145;2: Kimész a fő utcára
-
 146;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd mit fosz kezdeni magaddal, hisz feltetted az életpályád erre a parkra... Ezt a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
 147;1: Bemenekülsz a legközelebbi épületbe
 148;2: Lefutsz az aluljáróba
