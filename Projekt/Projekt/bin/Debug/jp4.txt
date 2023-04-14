@@ -264,3 +264,4 @@
 263;Úgy hogy kitörni nem hiszem, hogy ki tudnának, de ha megtudják a kódot simán kinyitják.
 264;Persze, majd egy dinoszaurusz beírja a kapukódot, ne nevettessen!
 265;Velük vagyok amióta kikeltek, tudom, hogy képesek rá, hihetetlen intelligensek!
+266;Az állatot megsemmisítik, és folytatják a kutatást egy olyan állat létrehozásáig, ami kevesebb veszélyt fog jelenteni az emberekre.

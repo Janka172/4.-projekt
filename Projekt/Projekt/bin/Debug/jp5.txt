@@ -101,38 +101,38 @@
 100;Elindulsz a hatalmas lábnyomok irányába, majd megpillantod, a giganotosaurus... Az ereidben megfagy a vér, kétségbeesetten elkezdesz futni, és segítségért kiáltani, majd megbotlasz a befogócsapat egyik tagjának holttestében. A giganoto feléd fordul, mikor megpillantod Infernót, az állat eléd lép és hatalmas fogait a giga nyakába mélyeszti. Felkelsz a földről...
 101;1: Elveszed az őr altató-fegyverét, és besegítesz az állataidnak
 102;2: Elkezdesz menekülni
-103;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, azonnal rádveti magát. Kellett cserbenhagyni azokat, akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
-104;Felkaptod fegyvert mire sikerül betöltened a fegyvert, és felnézel az állatokra megpillantod közvetlen közelről Infernó orrát. Lehajtod a fegyvert, és megsimogatod az orrát, ahogy elnézel mellette a giganoto fekszik a földön, de már nem él, a hibája az volt, hogy rád támadott. Napkeltére az összes állat a kifutójában van, te is visszasétálsz Infernóval kifutóhoz, aki önként, ébren sétálnak be a kifutójába.
+103;Elkezdesz menekülni, de szembe találod magad egy allosurussal, tőle viszont nincs ki megvédjen. Az állat nem habozik, azonnal rád veti magát. Kellett cserbenhagyni azokat, akik megmentettek... Az állat az álkapcsát a fejed köré helyezi, majd összezár. Vége.
+104;Felkaptod fegyvert mire sikerül betöltenéd a fegyvert, és felnézel az állatokra megpillantod közvetlen közelről Infernó orrát. Lehajtod a fegyvert, és megsimogatod az orrát, ahogy elnézel mellette a giganoto fekszik a földön, de már nem él, a hibája az volt, hogy rád támadott. Napkeltére az összes állat a kifutójában van, te is visszasétálsz Infernóval kifutóhoz, aki önként, ébren sétálnak be a kifutójába.
 105;Követed furcsa lábnyomok sorát. Egyszer csak megpillantasz egy baryonyxet az út porában. Halott. Megszűnt az összeköttetés a feje és a teste között. A vesztét okozó sérülés friss volt. Próbálod közelebbről szemügyre venni a tetemet, de meg hallasz egy ismerős hangot. Infernó teljes sebességgel halad feléd. Majd közvetlen előtted megtorpan. Az utcát a befogó-csapatok lepik el, és teljes erőbedobással kezdik összeszedni az állatokat. Napkeltére az összes állat a kifutójában van, te is visszasétálsz Infernóval kifutóhoz, aki önként, ébren sétálnak be a kifutójába.
 106;Visszafekszel aludni, ahogy becsukod a szemed megjelenik előtted a kép, hogy az elfogó-csapatok szitává lövik Infernót. Álmodsz vagy a lelkiismereted az? Bármi is az, összeszeded magad és elindulsz megkeresni szeretett állatodat.
 107;Felveszed a telefont, a főnököd az.
-108;Tovább dolgozol, de egyértelműen romlott a munkamorálod, egyre kimerültebb vagy, mindened fáj, így az utolsó etetést a darura hagyod, és elmész pihenni előbb. Lefekszel a munkaruhában, a kulcs a kezedben, táska az oldaladon, de te csak fejjel előre dőlsz bele az ágyba, és azonnal elalszol. Jópár órával később a telefonod csörgésére ébredsz.
+108;Tovább dolgozol, de egyértelműen romlott a munkamorálod, egyre kimerültebb vagy, mindened fáj, így az utolsó etetést a darura hagyod, és elmész pihenni előbb. Lefekszel a munkaruhában, a kulcs a kezedben, táska az oldaladon, de te csak fejjel előre dőlsz bele az ágyba, és azonnal elalszol. Jó pár órával később a telefonod csörgésére ébredsz.
 109;Mivel a héten várható az Indominusz rex bemutatása, feszített tempóban kezdesz el dolgozni olyannyira, hogy le is betegszek eközben.
 110;Mivel a héten várható az Indominusz rex bemutatása tudod hogy nagyon sok dolgod van még addig.
 111;1: Többet kezdesz dolgozni
 112;2: Tartod az eddigi munkamentet
-113;Szokásod szerint végzed a munkád, és a hét gyorsabban telik el, mint vártad. Elérkezett a bemutató napja, rengeteg ember kíváncsi az új állat bemutatására. Hajnalban kimész megfigyelni, hogyan reagál Infernó a hangzavarra, és az egyre csak gyűlő tömegre. Az embrek csak gyűlek az üveg mentén tudják, hogy most következik az etetés.
+113;Szokásod szerint végzed a munkád, és a hét gyorsabban telik el, mint vártad. Elérkezett a bemutató napja, rengeteg ember kíváncsi az új állat bemutatására. Hajnalban kimész megfigyelni, hogyan reagál Infernó a hangzavarra, és az egyre csak gyűlő tömegre. Az emberek csak gyűlek az üveg mentén tudják, hogy most következik az etetés.
 114;1: Te viszel be neki ételt
 115;2: Megeteted a daru segítségével
-116;Bemész a kifutó feletti szerkezetre, a hatalmas állat már azonnal tudja mi fog történni. Egy rövid gyakorlás után megeteted Infernót. A látogatóknak nagyon tetszik, az hogy milyen jól tud viselkedni egy ilyen barátságtalan külsejű állat.
-117;A daru segítségével melógatsz a kifutóba egy hatalmas húsdarabot. A nézőtéren megfagy a levegő, mindenki izgatottan figyeli a rex mozdulatait. Az állat négylábra eresztkedik, megszagolja a húst, de sokkal inkább a darudal van elfoglalva, de nem eszik. Megfordul, és elmegy inkább enni.
-118;1: Beljebb engedet a daru harját
+116;Bemész a kifutó feletti szerkezetre, a hatalmas állat már azonnal tudja mi fog történni. Egy rövid gyakorlás után megeteted Infernót. A látogatóknak nagyon tetszik, az, hogy milyen jól tud viselkedni egy ilyen barátságtalan külsejű állat.
+117;A daru segítségével belógatsz a kifutóba egy hatalmas húsdarabot. A nézőtéren megfagy a levegő, mindenki izgatottan figyeli a rex mozdulatait. Az állat négylábra ereszkedik, megszagolja a húst, de sokkal inkább a darudal van elfoglalva, de nem eszik. Megfordul, és elmegy inkább enni.
+118;1: Beljebb engeded a daru karját
 119;2: Beviszed neki az ételt
-120;Az állat a kifutó közepén fekszik. Amint meghallja a daru ropogó hangját, felkel, és teljes sebességével a daru felé indul. Feláll a két hátulsó lábára. A jobb mellső lábát karként használva megfogja a darut. Megpróbálod visszahúzni, de ekkor már a fém szerkezet az szorításában van. Megfagy a levegő a kifutó teljes területén...
+120;Az állat a kifutó közepén fekszik. Amint meghallja a daru ropogó hangját, felkel, és teljes sebességével a daru felé indul. Feláll a két hátulsó lábára. A jobb mellső lábát karként használva megfogja a darut. Megpróbálod visszahúzni, de ekkor már a fémszerkezet az szorításában van. Megfagy a levegő a kifutó teljes területén...
 121;1: Segítséget hívsz, hogy kilőjjék az állatot
 122;2: Megpróbálod megnyugtatni
-123;Gyorsan kapcsolsz, és tudod, hogy az indominusz sokkal erősebb nem csak nálad de a daru szerkezeténél is. Kifutsz a vezérlőből, keresztül a tömgen, kinyitod a kifutó felső bejáratát, és feljutsz a kifutó feletti szerkezetre. Infernó azonnal észrevesz attól függetlenül is, hogy éppen háttal áll neked. Elengedi a darut, aminek a vége nagy hangzavar közepette hullik a porba. Az állat megfordul, kétlábra áll, és mellső lábával megfogja a felette húzódó rács melletted lévő részét. Ez az emberekből egy pánikot vált ki, de te csak megsimogatod az állat orrát. Láthatóan ideges, nehezen tudja kezelni a rengeteg újdonságot.
-124;Segítséget hívsz, és megpróbálod megmenteni a darut. Abban a pillanatban, hogy te meghúzod befelé a daru karját, az indominusz megrántja azt a maga irányába, és nem csak a darukar, hanem a fal egy része is bedől vele együtt. Ekkor érkeznek meg a mefogó csapatok, akik elkezdenek az állatra tüzelni. Emiatt az állat többször is nekiront a fal sérült részének.
+123;Gyorsan kapcsolsz, és tudod, hogy az indominusz sokkal erősebb nem csak nálad de a daru szerkezeténél is. Kifutsz a vezérlőből, keresztül a tömegen, kinyitod a kifutó felső bejáratát, és feljutsz a kifutó feletti szerkezetre. Infernó azonnal észrevesz attól függetlenül is, hogy éppen háttal áll neked. Elengedi a darut, aminek a vége nagy hangzavar közepette hullik a porba. Az állat megfordul, kétlábra áll, és mellső lábával megfogja a felette húzódó rács melletted lévő részét. Ez az emberekből egy pánikot vált ki, de te csak megsimogatod az állat orrát. Láthatóan ideges, nehezen tudja kezelni a rengeteg újdonságot.
+124;Segítséget hívsz, és megpróbálod megmenteni a darut. Abban a pillanatban, hogy te meghúzod befelé a daru karját, az indominusz megrántja azt a maga irányába, és nem csak a darukar, hanem a fal egy része is bedől vele együtt. Ekkor érkeznek meg a befogó csapatok, akik elkezdenek az állatra tüzelni. Emiatt az állat többször is nekiront a fal sérült részének.
 125;1: Elkezdesz menekülni a helységből, a kültér felé
 126;2: Elkezdesz menekülni a helységből, a kifutóba
-127;Elkezdesz futni a kijárat irányába, de késő. Infernó áttöri a falat, ezzel a törmelék maga alá temet. Előszőr egy nagy nyomást érzel, majd már többé semmit sem. Az állat rálép a törmelére, ami alatt fekszel tehtetlenül. Vége.
+127;Elkezdesz futni a kijárat irányába, de késő. Infernó áttöri a falat, ezzel a törmelék maga alá temet. Előszőr egy nagy nyomást érzel, majd már többé semmit sem. Az állat rálép a törmelékre, ami alatt fekszel tehetetlenül. Vége.
 128;Befutsz a kifutóba, a fal összeomlik mögötted, a tetőszerkezet egész sablilan tartja magát, annak ellenére, sz azt tartó szerkezet már darabokban van. Ahogy hátranézel megpillantod Infernó rikító fehér hátát, ahogy egyszer csak eltűnik a fák sokasága közt.
-129;1: Utánna mész
+129;1: Utána mész
 130;2: A befogócsapatra bízod
 131;Visszamész a vezérlőhöz, de ahogy becsukod a szemed megjelenik előtted a kép, hogy az elfogó-csapatok szitává lövik Infernót. Álmodsz vagy a lelkiismereted az? Bármi is az, összeszeded magad és elindulsz megkeresni szeretett állatodat.
 132;1: Korán elmész aludni
 133;2: Megkérdezed az emberek véleményét az állattal kapcsolatban
-134;Fáradt vagy, ezért elmész aludni, már éppen keztél elaludni, mikor a telefonod csengése ébreszt fel...
+134;Fáradt vagy, ezért elmész aludni, már éppen kezdtél elaludni, mikor a telefonod csengése ébreszt fel...
 135;Lemész az állat kifutójához, hogy megtudd az emberek véleményét.
 136;A családommal érkezettem a szigetre, tulajdonképpen nyaralni, a két gyerek nagyon kíváncsi volt az új állatra. Mondhatni megrémültek tőle, de lehet, hogy nem csak a gyerekek.
 137;Nemrégiben találkoztam előszőr a féltestvéremmel, eleinte viharos volt a kapcsolatunk, de azt hisszük ez az élmény majd közelebb hoz minket. Egyelőre nem csalódtunk.
@@ -140,11 +140,11 @@
 139;Azok a karmolások eddig is ott voltak?
 140;Nem láttam, de lehet, hogy csak az emberek takarták ki.
 141;1: Késő van már, ezért figyelmen kívül hagyod, és elmész aludni
-142;2: Felmész a falra, hátha onnan látod az állatot
+142;2: Bemész a kifutóba leellenőrizni, minden rendben van-e
 143;Sikerült kellően kialudnod magadat, nem is véletlen, hiszen már 10 óra volt. Ahogy felkelsz ránézel a telefonodra. 58 nem fogadott hívás... Próbálod őket visszahívni, de senki nem veszi fel.
 144;1: Lemész az eligazítóba
 145;2: Kimész a fő utcára
-146;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd mit fosz kezdeni magaddal, hisz feltetted az életpályád erre a parkra... Ezt a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
+146;Ahogyan a lábnyomok mentén haladsz elkezdsz gondolkozni, nem is csak azon, hogy mi vár rád ennek az útnak a végén, de hol lehet ebben mind a te felelőséged, mit tettél te, amivel ezt okoztad. Vajon, ha ezt túléled akkor majd mit fogsz kezdeni magaddal, hisz feltetted az életpályád erre a parkra... Ezt a gondolkozást mindenki kedvenc giganotosaurusa zavarja meg.
 147;1: Bemenekülsz a legközelebbi épületbe
 148;2: Lefutsz az aluljáróba
 149;Befutsz az élületbe, az óriás azonnal kapcsol és előrehajtott fejjel ront neki az épületnek. Az épületek sem bírják ezt a szintű megterhelést, az állat által elkövetett támadás a földdel teszi egyenlővé. A giganoto egy darabig lökdösi a romokat, amik alatt fekve reménykedsz abban, hogy elmegy. Aztán hallod a dübörgő lépteit ahogyan egyre csak távolodnak. Elment. Csak fekszel a romok alatt, hirtelen egy magas szintű nyugalom tört rád. Nem ez az első hibád... Egy kotorászó hangot hallasz, majd egy jellegzetes pattogás szerű üvöltést, majd egy másikat, majd megint. Egyértelműen három különböző állatról van szó. Velociraptorok. Pontosan jól tudják, hogy a romok alatt vagy. Nem mersz mozdulni sem, de nem is kell az egyik veloci ki rángat a romok közül. Ekkor már tudod, hogy nincs menekvés. A zöld fellép a hátadra, és jelez a többinek, ekkor már négyen voltak. Majd egy szürke raptor kék sávval melléd lép, ő lehet az vezető. Lehajol a fejedhez, a tarkódon érzed a leheletet, a fogai a fejedhez érnek, majd összezár. Vége.
@@ -160,26 +160,15 @@
 159;1: Haladsz tovább az szobádig
 160;2: Az első lehetőségnél kijössz a szellőzőből
 161;Az szobád fölé érkezve kimászol a szellőzőből, egyre kimerültebb vagy, de tudod, hogy most nem adhatod fel. Elkeresel telefonért kutatni, ezzel talán túlzottan is nagy zajt csapva. Találsz is egy telefont, nincs hálózat... akkor ezért nem tudtál reggel visszahívni senkit... Felnézel a szellőzőre, amiből nagyjából 20 compy ugrik ki. Ők többségében dögevők, de bizonyított róluk az is, hogy a harapásukkal egy idegmérget juttattnak az áldozat testébe. Ekkor nyílik az ajtó és még közel 20 kis compy érkezik a szobába, nekihátrálsz a szekrénynek. Felkapod az egyik díjat, amit a park szerzett, egy arany borítású compy szobrocska, majd hozzájuk vágod abban reménykedve, hogy meg ilyednek és majd békén hagynak. Tévedtél, megint. Az állatok ezen felhergelve rád vetik magukat, egyszerre közel negyven kis állat harap a testedbe, akármennyire is próbálod nem tudod leszedni őket magadról. Érzed, ahogy egyre több darabot tépnek ki belőled. Nem tudsz mozdulni, mert megbénít a méreg és a félelem keveréke. te még élsz, de ők már esznek. Majd szépen lassan elvérzel ahogy a belső szerveidig érnek... Vége.
-162;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz de el kezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+162;Kimászol a szellőzőből, kint vagy a mólón, és megpillantasz egy hajót a vízen, még mindig vannak emberek a szigeten! Nem tudod hirtelen, hogy csak hallucinálsz-e a fáradtágtól, vagy igaz, amit látsz, de el kezdesz a hajó felé futni. Sikerül felszállnod a hajóra.
+163;Lemész az eligazítóba. A dolgozok az átlagtól eltérően néma csendben figyelik a hatalmas monitorokat. A falon egy kifejezetten nagy monitoron látszódott az egész sziget alaprajza, és az azon jelölt állatok, kifutók, területeit látványosságok. Az egész térkép közepén egy nagy piros pulzáló pont volt megtalálható.
+164;Mi történt?
+165;A feszült csend tovább húzódott ezzel együtt provokálva téged a további kérdésekre.
+166;Kérdeztem valamit! Most kellene beszélni! Mi történt?!
+167;Hát az indominusz rex... ömm... kiszabadult!
+168;Micsoda hogy történt?
+169;Nem találták a kifutóban, ezért felmentek a falra, de ehhez kikapcsolták az áramot... az állat akkor rontott neki a falnak és kiszabadult. Eddig 4 befogócsapat elesett, valamit már jó pár látogató, megkezdődött az evakuáció, de nincs elég hajó...
+170;1: Elhagyod a szigetet
+171;2: Kimész az utcára, hátha tudsz segíteni
+172;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel, hiszen meglátod az embereket pánikolni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+173;Bemész a kifutóba, Infernó elég zaklatottan viselkedik, többször is nekiront a falnak. Megpróbálod megközelíteni az állatot, és megnyugtatni. Közel fél órát maradtál bent vele, mire sikerült megnyugtatnod.
