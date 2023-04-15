@@ -430,7 +430,7 @@ namespace Projekt
             {
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("TRJ szimulátor játékok\n\n");
+                Console.WriteLine("\t\tTRJ szimulátor játékok\n\n");
                 Console.ForegroundColor = ConsoleColor.White;
                 do
                 {
@@ -3987,7 +3987,7 @@ namespace Projekt
                     {
                         mi = Console.ReadLine();
                         mi = mi.ToLower();
-                        if (mi != "") Console.WriteLine("Nem ez az ENTER!");
+                        if (mi != "" && mi != "help") Console.WriteLine("Nem ez az ENTER!");
                     } while (mi != "" && mi != "help");
                     Console.Clear();
 
@@ -16083,14 +16083,39 @@ namespace Projekt
                                                 }
                                             }
 
-                                            //Menekülsz - vég - b
+                                            //Menekülsz
                                             if (igen10 == "2")
                                             {
                                                 Console.Clear();
-                                                Console.WriteLine(jpdolgozo[49].szoveg);
-                                                Console.ForegroundColor = ConsoleColor.Red;
-                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
-                                                Console.ForegroundColor = ConsoleColor.White;
+                                                Console.WriteLine(jpdolgozo[175].szoveg);
+                                                Console.WriteLine(jpdolgozo[176].szoveg);
+                                                Console.WriteLine(jpdolgozo[177].szoveg);
+                                                string igen12;
+                                                do
+                                                {
+                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                    igen12 = Console.ReadLine();
+                                                } while (igen12 != "1" && igen12 != "2");
+
+                                                //Kikötő - vég - b
+                                                if (igen12 == "1")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[49].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
+
+                                                //Kopter - vég - b
+                                                if (igen12 == "2")
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(jpdolgozo[174].szoveg);
+                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                }
                                             }
                                         }
                                         
@@ -19379,7 +19404,7 @@ namespace Projekt
                                                             igen8 = Console.ReadLine();
                                                         } while (igen8 != "1" && igen8 != "2");
 
-                                                        //Fegyver - vég - ny  - vég - ny
+                                                        //Fegyver - vég - ny
                                                         if (igen8 == "1")
                                                         {
                                                             Console.Clear();
@@ -19400,14 +19425,114 @@ namespace Projekt
                                                         }
                                                     }
 
-                                                    //Ball - vég - ny
+                                                    //Ball
                                                     if (igen7 == "2")
                                                     {
                                                         Console.Clear();
-                                                        Console.WriteLine(jpdolgozo[105].szoveg);
-                                                        Console.ForegroundColor = ConsoleColor.Red;
-                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                        Console.WriteLine(jpdolgozo[146].szoveg);
+                                                        Console.WriteLine(jpdolgozo[147].szoveg);
+                                                        Console.WriteLine(jpdolgozo[148].szoveg);
+                                                        string igen20;
+                                                        do
+                                                        {
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                            igen20 = Console.ReadLine();
+                                                        } while (igen20 != "1" && igen20 != "2");
+
+                                                        //Épület - vég - b
+                                                        if (igen20 == "1")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[149].szoveg);
+                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                        }
+
+                                                        //Aluljáró
+                                                        if (igen20 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[150].szoveg);
+                                                            Console.WriteLine(jpdolgozo[151].szoveg);
+                                                            Console.WriteLine(jpdolgozo[152].szoveg);
+                                                            string igen21;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen21 = Console.ReadLine();
+                                                            } while (igen21 != "1" && igen21 != "2");
+
+                                                            //Vetítő
+                                                            if (igen21 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                string igen22;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen22 = Console.ReadLine();
+                                                                } while (igen22 != "1" && igen22 != "2");
+
+                                                                //Szellőző
+                                                                if (igen22 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                    string igen23;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen23 = Console.ReadLine();
+                                                                    } while (igen23 != "1" && igen23 != "2");
+
+                                                                    //Szobád - vég - b
+                                                                    if (igen23 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+
+                                                                    //Elhagyni - vég - ny
+                                                                    if (igen23 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Elhagyni - vég - b
+                                                                if (igen22 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
+
+                                                            //Folyosó - vég - b
+                                                            if (igen21 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+                                                        }
                                                     }
                                                 }
 
@@ -19439,7 +19564,7 @@ namespace Projekt
                                                             igen8 = Console.ReadLine();
                                                         } while (igen8 != "1" && igen8 != "2");
 
-                                                        //Fegyver - vég - ny - vég - ny
+                                                        //Fegyver - vég - ny
                                                         if (igen8 == "1")
                                                         {
                                                             Console.Clear();
@@ -19460,14 +19585,114 @@ namespace Projekt
                                                         }
                                                     }
 
-                                                    //Ball - vég - ny
+                                                    //Ball
                                                     if (igen7 == "2")
                                                     {
                                                         Console.Clear();
-                                                        Console.WriteLine(jpdolgozo[105].szoveg);
-                                                        Console.ForegroundColor = ConsoleColor.Red;
-                                                        Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                        Console.WriteLine(jpdolgozo[146].szoveg);
+                                                        Console.WriteLine(jpdolgozo[147].szoveg);
+                                                        Console.WriteLine(jpdolgozo[148].szoveg);
+                                                        string igen20;
+                                                        do
+                                                        {
+                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                            igen20 = Console.ReadLine();
+                                                        } while (igen20 != "1" && igen20 != "2");
+
+                                                        //Épület - vég - b
+                                                        if (igen20 == "1")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[149].szoveg);
+                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                        }
+
+                                                        //Aluljáró
+                                                        if (igen20 == "2")
+                                                        {
+                                                            Console.Clear();
+                                                            Console.WriteLine(jpdolgozo[150].szoveg);
+                                                            Console.WriteLine(jpdolgozo[151].szoveg);
+                                                            Console.WriteLine(jpdolgozo[152].szoveg);
+                                                            string igen21;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen21 = Console.ReadLine();
+                                                            } while (igen21 != "1" && igen21 != "2");
+
+                                                            //Vetítő
+                                                            if (igen21 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                string igen22;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen22 = Console.ReadLine();
+                                                                } while (igen22 != "1" && igen22 != "2");
+
+                                                                //Szellőző
+                                                                if (igen22 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                    string igen23;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen23 = Console.ReadLine();
+                                                                    } while (igen23 != "1" && igen23 != "2");
+
+                                                                    //Szobád - vég - b
+                                                                    if (igen23 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+
+                                                                    //Elhagyni - vég - ny
+                                                                    if (igen23 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Elhagyni - vég - b
+                                                                if (igen22 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
+
+                                                            //Folyosó - vég - b
+                                                            if (igen21 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+                                                        }
                                                     }
                                                 }
                                             }
@@ -19756,7 +19981,7 @@ namespace Projekt
                                                     } while (igen7 != "1" && igen7 != "2");
 
                                                     //Jobb
-                                                    if (igen7 == "2")
+                                                    if (igen7 == "1")
                                                     {
                                                         Console.Clear();
                                                         Console.WriteLine(jpdolgozo[100].szoveg);
@@ -20009,7 +20234,7 @@ namespace Projekt
                                                                 igen8 = Console.ReadLine();
                                                             } while (igen8 != "1" && igen8 != "2");
 
-                                                            //Fegyver - vég - ny  - vég - ny
+                                                            //Fegyver - vég - ny
                                                             if (igen8 == "1")
                                                             {
                                                                 Console.Clear();
@@ -20030,14 +20255,114 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Ball - vég - ny
+                                                        //Ball
                                                         if (igen7 == "2")
                                                         {
                                                             Console.Clear();
-                                                            Console.WriteLine(jpdolgozo[105].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                            Console.WriteLine(jpdolgozo[146].szoveg);
+                                                            Console.WriteLine(jpdolgozo[147].szoveg);
+                                                            Console.WriteLine(jpdolgozo[148].szoveg);
+                                                            string igen20;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen20 = Console.ReadLine();
+                                                            } while (igen20 != "1" && igen20 != "2");
+
+                                                            //Épület - vég - b
+                                                            if (igen20 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[149].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Aluljáró
+                                                            if (igen20 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[150].szoveg);
+                                                                Console.WriteLine(jpdolgozo[151].szoveg);
+                                                                Console.WriteLine(jpdolgozo[152].szoveg);
+                                                                string igen21;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen21 = Console.ReadLine();
+                                                                } while (igen21 != "1" && igen21 != "2");
+
+                                                                //Vetítő
+                                                                if (igen21 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                    string igen22;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen22 = Console.ReadLine();
+                                                                    } while (igen22 != "1" && igen22 != "2");
+
+                                                                    //Szellőző
+                                                                    if (igen22 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                        string igen23;
+                                                                        do
+                                                                        {
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                                            igen23 = Console.ReadLine();
+                                                                        } while (igen23 != "1" && igen23 != "2");
+
+                                                                        //Szobád - vég - b
+                                                                        if (igen23 == "1")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+
+                                                                        //Elhagyni - vég - ny
+                                                                        if (igen23 == "2")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+                                                                    }
+
+                                                                    //Elhagyni - vég - b
+                                                                    if (igen22 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Folyosó - vég - b
+                                                                if (igen21 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
                                                         }
                                                     }
 
@@ -20070,7 +20395,7 @@ namespace Projekt
                                                                 igen8 = Console.ReadLine();
                                                             } while (igen8 != "1" && igen8 != "2");
 
-                                                            //Fegyver - vég - ny  - vég - ny
+                                                            //Fegyver - vég - ny
                                                             if (igen8 == "1")
                                                             {
                                                                 Console.Clear();
@@ -20091,14 +20416,114 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Ball - vég - ny
+                                                        //Ball
                                                         if (igen7 == "2")
                                                         {
                                                             Console.Clear();
-                                                            Console.WriteLine(jpdolgozo[105].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                            Console.WriteLine(jpdolgozo[146].szoveg);
+                                                            Console.WriteLine(jpdolgozo[147].szoveg);
+                                                            Console.WriteLine(jpdolgozo[148].szoveg);
+                                                            string igen20;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen20 = Console.ReadLine();
+                                                            } while (igen20 != "1" && igen20 != "2");
+
+                                                            //Épület - vég - b
+                                                            if (igen20 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[149].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Aluljáró
+                                                            if (igen20 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[150].szoveg);
+                                                                Console.WriteLine(jpdolgozo[151].szoveg);
+                                                                Console.WriteLine(jpdolgozo[152].szoveg);
+                                                                string igen21;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen21 = Console.ReadLine();
+                                                                } while (igen21 != "1" && igen21 != "2");
+
+                                                                //Vetítő
+                                                                if (igen21 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                    string igen22;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen22 = Console.ReadLine();
+                                                                    } while (igen22 != "1" && igen22 != "2");
+
+                                                                    //Szellőző
+                                                                    if (igen22 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                        string igen23;
+                                                                        do
+                                                                        {
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                                            igen23 = Console.ReadLine();
+                                                                        } while (igen23 != "1" && igen23 != "2");
+
+                                                                        //Szobád - vég - b
+                                                                        if (igen23 == "1")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+
+                                                                        //Elhagyni - vég - ny
+                                                                        if (igen23 == "2")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+                                                                    }
+
+                                                                    //Elhagyni - vég - b
+                                                                    if (igen22 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Folyosó - vég - b
+                                                                if (igen21 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
                                                         }
                                                     }
                                                 }
@@ -20258,7 +20683,7 @@ namespace Projekt
                                                                 igen8 = Console.ReadLine();
                                                             } while (igen8 != "1" && igen8 != "2");
 
-                                                            //Fegyver - vég - ny  - vég - ny
+                                                            //Fegyver - vég - ny
                                                             if (igen8 == "1")
                                                             {
                                                                 Console.Clear();
@@ -20279,14 +20704,114 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Ball - vég - ny
+                                                        //Ball
                                                         if (igen7 == "2")
                                                         {
                                                             Console.Clear();
-                                                            Console.WriteLine(jpdolgozo[105].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                            Console.WriteLine(jpdolgozo[146].szoveg);
+                                                            Console.WriteLine(jpdolgozo[147].szoveg);
+                                                            Console.WriteLine(jpdolgozo[148].szoveg);
+                                                            string igen20;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen20 = Console.ReadLine();
+                                                            } while (igen20 != "1" && igen20 != "2");
+
+                                                            //Épület - vég - b
+                                                            if (igen20 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[149].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Aluljáró
+                                                            if (igen20 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[150].szoveg);
+                                                                Console.WriteLine(jpdolgozo[151].szoveg);
+                                                                Console.WriteLine(jpdolgozo[152].szoveg);
+                                                                string igen21;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen21 = Console.ReadLine();
+                                                                } while (igen21 != "1" && igen21 != "2");
+
+                                                                //Vetítő
+                                                                if (igen21 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                    string igen22;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen22 = Console.ReadLine();
+                                                                    } while (igen22 != "1" && igen22 != "2");
+
+                                                                    //Szellőző
+                                                                    if (igen22 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                        string igen23;
+                                                                        do
+                                                                        {
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                                            igen23 = Console.ReadLine();
+                                                                        } while (igen23 != "1" && igen23 != "2");
+
+                                                                        //Szobád - vég - b
+                                                                        if (igen23 == "1")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+
+                                                                        //Elhagyni - vég - ny
+                                                                        if (igen23 == "2")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+                                                                    }
+
+                                                                    //Elhagyni - vég - b
+                                                                    if (igen22 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Folyosó - vég - b
+                                                                if (igen21 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
                                                         }
                                                     }
                                                 }
@@ -20344,7 +20869,7 @@ namespace Projekt
                                                                 igen8 = Console.ReadLine();
                                                             } while (igen8 != "1" && igen8 != "2");
 
-                                                            //Fegyver - vég - ny  - vég - ny
+                                                            //Fegyver - vég - ny
                                                             if (igen8 == "1")
                                                             {
                                                                 Console.Clear();
@@ -20365,14 +20890,114 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Ball - vég - ny
+                                                        //Ball
                                                         if (igen7 == "2")
                                                         {
                                                             Console.Clear();
-                                                            Console.WriteLine(jpdolgozo[105].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                            Console.WriteLine(jpdolgozo[146].szoveg);
+                                                            Console.WriteLine(jpdolgozo[147].szoveg);
+                                                            Console.WriteLine(jpdolgozo[148].szoveg);
+                                                            string igen20;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen20 = Console.ReadLine();
+                                                            } while (igen20 != "1" && igen20 != "2");
+
+                                                            //Épület - vég - b
+                                                            if (igen20 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[149].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Aluljáró
+                                                            if (igen20 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[150].szoveg);
+                                                                Console.WriteLine(jpdolgozo[151].szoveg);
+                                                                Console.WriteLine(jpdolgozo[152].szoveg);
+                                                                string igen21;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen21 = Console.ReadLine();
+                                                                } while (igen21 != "1" && igen21 != "2");
+
+                                                                //Vetítő
+                                                                if (igen21 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                    string igen22;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen22 = Console.ReadLine();
+                                                                    } while (igen22 != "1" && igen22 != "2");
+
+                                                                    //Szellőző
+                                                                    if (igen22 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                        string igen23;
+                                                                        do
+                                                                        {
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                                            igen23 = Console.ReadLine();
+                                                                        } while (igen23 != "1" && igen23 != "2");
+
+                                                                        //Szobád - vég - b
+                                                                        if (igen23 == "1")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+
+                                                                        //Elhagyni - vég - ny
+                                                                        if (igen23 == "2")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+                                                                    }
+
+                                                                    //Elhagyni - vég - b
+                                                                    if (igen22 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Folyosó - vég - b
+                                                                if (igen21 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
                                                         }
                                                     }
 
@@ -20404,7 +21029,7 @@ namespace Projekt
                                                                 igen8 = Console.ReadLine();
                                                             } while (igen8 != "1" && igen8 != "2");
 
-                                                            //Fegyver - vég - ny - vég - ny
+                                                            //Fegyver - vég - ny
                                                             if (igen8 == "1")
                                                             {
                                                                 Console.Clear();
@@ -20425,14 +21050,114 @@ namespace Projekt
                                                             }
                                                         }
 
-                                                        //Ball - vég - ny
+                                                        //Ball
                                                         if (igen7 == "2")
                                                         {
                                                             Console.Clear();
-                                                            Console.WriteLine(jpdolgozo[105].szoveg);
-                                                            Console.ForegroundColor = ConsoleColor.Red;
-                                                            Console.WriteLine("Sikerült megakadályoznod egy katasztrófát.");
-                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                            Console.WriteLine(jpdolgozo[146].szoveg);
+                                                            Console.WriteLine(jpdolgozo[147].szoveg);
+                                                            Console.WriteLine(jpdolgozo[148].szoveg);
+                                                            string igen20;
+                                                            do
+                                                            {
+                                                                Console.Write("Add meg a döntésed sorszámát! ");
+                                                                igen20 = Console.ReadLine();
+                                                            } while (igen20 != "1" && igen20 != "2");
+
+                                                            //Épület - vég - b
+                                                            if (igen20 == "1")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[149].szoveg);
+                                                                Console.ForegroundColor = ConsoleColor.Red;
+                                                                Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                Console.ForegroundColor = ConsoleColor.White;
+                                                            }
+
+                                                            //Aluljáró
+                                                            if (igen20 == "2")
+                                                            {
+                                                                Console.Clear();
+                                                                Console.WriteLine(jpdolgozo[150].szoveg);
+                                                                Console.WriteLine(jpdolgozo[151].szoveg);
+                                                                Console.WriteLine(jpdolgozo[152].szoveg);
+                                                                string igen21;
+                                                                do
+                                                                {
+                                                                    Console.Write("Add meg a döntésed sorszámát! ");
+                                                                    igen21 = Console.ReadLine();
+                                                                } while (igen21 != "1" && igen21 != "2");
+
+                                                                //Vetítő
+                                                                if (igen21 == "1")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[154].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[155].szoveg);
+                                                                    Console.WriteLine(jpdolgozo[156].szoveg);
+                                                                    string igen22;
+                                                                    do
+                                                                    {
+                                                                        Console.Write("Add meg a döntésed sorszámát! ");
+                                                                        igen22 = Console.ReadLine();
+                                                                    } while (igen22 != "1" && igen22 != "2");
+
+                                                                    //Szellőző
+                                                                    if (igen22 == "1")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[158].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[159].szoveg);
+                                                                        Console.WriteLine(jpdolgozo[160].szoveg);
+                                                                        string igen23;
+                                                                        do
+                                                                        {
+                                                                            Console.Write("Add meg a döntésed sorszámát! ");
+                                                                            igen23 = Console.ReadLine();
+                                                                        } while (igen23 != "1" && igen23 != "2");
+
+                                                                        //Szobád - vég - b
+                                                                        if (igen23 == "1")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[161].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+
+                                                                        //Elhagyni - vég - ny
+                                                                        if (igen23 == "2")
+                                                                        {
+                                                                            Console.Clear();
+                                                                            Console.WriteLine(jpdolgozo[162].szoveg);
+                                                                            Console.ForegroundColor = ConsoleColor.Red;
+                                                                            Console.WriteLine("Sikerült kijutnod a szigetről.");
+                                                                            Console.ForegroundColor = ConsoleColor.White;
+                                                                        }
+                                                                    }
+
+                                                                    //Elhagyni - vég - b
+                                                                    if (igen22 == "2")
+                                                                    {
+                                                                        Console.Clear();
+                                                                        Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                        Console.ForegroundColor = ConsoleColor.Red;
+                                                                        Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                        Console.ForegroundColor = ConsoleColor.White;
+                                                                    }
+                                                                }
+
+                                                                //Folyosó - vég - b
+                                                                if (igen21 == "2")
+                                                                {
+                                                                    Console.Clear();
+                                                                    Console.WriteLine(jpdolgozo[157].szoveg);
+                                                                    Console.ForegroundColor = ConsoleColor.Red;
+                                                                    Console.WriteLine("Nem sikerült kijutnod a szigetről.");
+                                                                    Console.ForegroundColor = ConsoleColor.White;
+                                                                }
+                                                            }
                                                         }
                                                     }
                                                 }
@@ -20559,7 +21284,7 @@ namespace Projekt
                                                             } while (igen7 != "1" && igen7 != "2");
 
                                                             //Jobb
-                                                            if (igen7 == "2")
+                                                            if (igen7 == "1")
                                                             {
                                                                 Console.Clear();
                                                                 Console.WriteLine(jpdolgozo[100].szoveg);
@@ -20721,7 +21446,7 @@ namespace Projekt
                                                         } while (igen7 != "1" && igen7 != "2");
 
                                                         //Jobb
-                                                        if (igen7 == "2")
+                                                        if (igen7 == "1")
                                                         {
                                                             Console.Clear();
                                                             Console.WriteLine(jpdolgozo[100].szoveg);

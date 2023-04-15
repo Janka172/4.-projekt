@@ -172,3 +172,7 @@
 171;2: Kimész az utcára, hátha tudsz segíteni
 172;Kimész a kikötőbe, és megpillantod a hajót. Elkezdesz futni fel, hiszen meglátod az embereket pánikolni. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
 173;Bemész a kifutóba, Infernó elég zaklatottan viselkedik, többször is nekiront a falnak. Megpróbálod megközelíteni az állatot, és megnyugtatni. Közel fél órát maradtál bent vele, mire sikerült megnyugtatnod.
+174;Felmész a helikopterleszállóhoz, egyik gép sincs már ott. Visszafordulsz a lejáróhoz. Egyszer csak egy erős nyomást érzel a kulcs-csontjaidon, egy ptheranodon. Kivitt a tenger felé, többször is beledob a vízbe, majd újra felkap. Nem tudod, hogy előbb öl meg a madár, vagy inkább vízbe fulladsz. Egyik sem. Érzel egy furcsa morajlást a vízből, majd a mosasaurus ugrik fel a vízből. Felnézel az égre, látod magad körül a hatalmas állat fogait, majd összezár. Vége.
+175;Megállsz az eligazítópont előtt...
+176;1: Kimész a kikötőbe
+177;2: Felmész a helikpter leszállóhoz
