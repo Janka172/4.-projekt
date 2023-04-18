@@ -430,7 +430,7 @@ namespace Projekt
             {
                 Console.Clear();
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.WriteLine("\t\tTRJ szimulátor játékok\n\n");
+                Console.WriteLine("\n\t\tSzimulátor játékok\n\n");
                 Console.ForegroundColor = ConsoleColor.White;
                 do
                 {
@@ -3483,7 +3483,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Kovács Ádám");
                                     eseged.nev = mi;
 
                                     do
@@ -3518,7 +3518,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Kovács Ádám");
                                     eseged.nev = mi;
 
                                     do
@@ -3562,7 +3562,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Kovács Ádám");
                                     eseged.nev = mi;
 
                                     do
@@ -3597,7 +3597,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Kovács Ádám");
                                     eseged.nev = mi;
 
                                     do
@@ -3629,9 +3629,9 @@ namespace Projekt
                             volt++;
                             voltak.Remove("2");
                             Console.Clear();
-                            Console.WriteLine(elsoeset[0].szoveg);
-                            Console.WriteLine(elsoeset[1].szoveg);
-                            Console.WriteLine(elsoeset[2].szoveg);
+                            Console.WriteLine(masodikeset[0].szoveg);
+                            Console.WriteLine(masodikeset[1].szoveg);
+                            Console.WriteLine(masodikeset[2].szoveg);
                             string igen1;
                             do
                             {
@@ -3646,8 +3646,7 @@ namespace Projekt
                                 Console.WriteLine("Szemtanúk vallomása: ");
                                 Console.WriteLine("\t"+elsoeset[3].szoveg);
                                 Console.WriteLine("Úgy döntesz behatolsz a területre.");
-                                Console.WriteLine(elsoeset[4].szoveg);
-                                Console.WriteLine(elsoeset[5].szoveg);
+                                Console.WriteLine(masodikeset[5].szoveg);
                                 for (int igen=0; igen < rendszamok.Count; igen++)
                                 {
                                     Console.ForegroundColor = ConsoleColor.Red;
@@ -3668,8 +3667,8 @@ namespace Projekt
                                     igen2 = Console.ReadLine();
                                 } while (igen2 != "Balla Zsolt");
 
-                                Console.WriteLine(elsoeset[6].szoveg);
-                                Console.WriteLine(elsoeset[7].szoveg);
+                                Console.WriteLine(masodikeset[6].szoveg);
+                                Console.WriteLine(masodikeset[7].szoveg);
                                 string igen3;
                                 do
                                 {
@@ -3681,7 +3680,7 @@ namespace Projekt
                                 if (igen3 == "1")
                                 {
                                     Console.Clear();
-                                    Console.WriteLine(elsoeset[8].szoveg);
+                                    Console.WriteLine(masodikeset[8].szoveg);
                                     FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
                                     StreamWriter sw = new StreamWriter(fselknyilv);
                                     Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
@@ -3689,7 +3688,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Balla Zsolt");
                                     eseged.nev = mi;
 
                                     do
@@ -3716,7 +3715,7 @@ namespace Projekt
                                 if (igen3 == "2")
                                 {
                                     Console.Clear();
-                                    Console.WriteLine(elsoeset[9].szoveg);
+                                    Console.WriteLine(masodikeset[9].szoveg);
                                     FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
                                     StreamWriter sw = new StreamWriter(fselknyilv);
                                     Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
@@ -3724,7 +3723,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Balla Zsolt");
                                     eseged.nev = mi;
 
                                     do
@@ -3752,8 +3751,8 @@ namespace Projekt
                             if (igen1 == "2")
                             {
                                 Console.Clear();
-                                Console.WriteLine(elsoeset[4].szoveg);
-                                Console.WriteLine(elsoeset[5].szoveg);
+                                Console.WriteLine(masodikeset[4].szoveg);
+                                Console.WriteLine(masodikeset[5].szoveg);
                                 for (int igen = 0; igen < rendszamok.Count; igen++)
                                 {
                                     Console.ForegroundColor = ConsoleColor.Red;
@@ -3774,8 +3773,8 @@ namespace Projekt
                                     igen2 = Console.ReadLine();
                                 } while (igen2 != "Balla Zsolt");
 
-                                Console.WriteLine(elsoeset[6].szoveg);
-                                Console.WriteLine(elsoeset[7].szoveg);
+                                Console.WriteLine(masodikeset[6].szoveg);
+                                Console.WriteLine(masodikeset[7].szoveg);
                                 string igen3;
                                 do
                                 {
@@ -3787,7 +3786,7 @@ namespace Projekt
                                 if (igen3 == "1")
                                 {
                                     Console.Clear();
-                                    Console.WriteLine(elsoeset[8].szoveg);
+                                    Console.WriteLine(masodikeset[8].szoveg);
                                     FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
                                     StreamWriter sw = new StreamWriter(fselknyilv);
                                     Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
@@ -3795,7 +3794,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Balla Zsolt");
                                     eseged.nev = mi;
 
                                     do
@@ -3822,7 +3821,7 @@ namespace Projekt
                                 if (igen3 == "2")
                                 {
                                     Console.Clear();
-                                    Console.WriteLine(elsoeset[9].szoveg);
+                                    Console.WriteLine(masodikeset[9].szoveg);
                                     FileStream fselknyilv = new FileStream("elknyilv.txt", FileMode.Append);
                                     StreamWriter sw = new StreamWriter(fselknyilv);
                                     Console.WriteLine("Vedd fel az elkövető nevét a nyilvántartásba!");
@@ -3830,7 +3829,7 @@ namespace Projekt
                                     {
                                         Console.Write("Elkövető neve: ");
                                         mi = Console.ReadLine();
-                                    } while (mi == "");
+                                    } while (mi != "Balla Zsolt");
                                     eseged.nev = mi;
 
                                     do
@@ -3886,7 +3885,7 @@ namespace Projekt
                                 {
                                     Console.Write("Elkövető neve: ");
                                     mi = Console.ReadLine();
-                                } while (mi == "");
+                                } while (mi != "Halász Ákos");
                                 eseged.nev = mi;
 
                                 do
@@ -3922,7 +3921,7 @@ namespace Projekt
                                 {
                                     Console.Write("Elkövető neve: ");
                                     mi = Console.ReadLine();
-                                } while (mi == "");
+                                } while (mi != "Halász Ákos");
                                 eseged.nev = mi;
 
                                 do

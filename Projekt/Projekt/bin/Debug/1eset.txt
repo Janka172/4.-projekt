@@ -1,7 +1,7 @@
 0;Kiérkezel a ház elé, ahhonan a bejenetés érkezett. Az épület előt egy középkorú nő, és egy szintén abban a korban lévő férfi állt. Láthatóan zaklatottak. Bizonyára az érintett szülei lesznek.
 1;1: Meghallgatod a szülők vallomását
 2;2: Bemész a házba
-3;A múlt pénteken nálunk ebédelt a lányuk. Kicsit furcsán viselkedett, de nem kérdeztünk tőle sokat, mivel éppen egy szakításon ment keresztül, betudtuk annak. Már hetek óta próbál újra nyitni a volt párja fejé, aki mindig nagyon bunkón küldi őt el. Említette, hogy elmegy vele vacsorázni, és megpróbáják megbeszélni a problémáikat. A férfi neve Kovács Ádám, és a helyi vágóhídon dolgozik.
+3;A múlt pénteken nálunk ebédelt a lányuk. Kicsit furcsán viselkedett, de nem kérdeztünk tőle sokat, mivel éppen egy szakításon ment keresztül, betudtuk annak. Már hetek óta próbál újra nyitni a volt párja felé, aki mindig nagyon bunkón küldi őt el. Említette, hogy elmegy vele vacsorázni, és megpróbáják megbeszélni a problémáikat. A férfi neve Kovács Ádám, és a helyi vágóhídon dolgozik.
 4;Bemész a házba. Az összes lámpa alszik. Felkapcsolod a lámpát a nappaliban. A helyszínen dulakodás nyomai. A hálószobából a páros lepedőkészletből az egyik hiányik. A matracon pedig egy vérfolt található, amiből mintát is veszel.
 5;A szülők elmondása alapján megvan az első számú gyanúsított.
 6;1: Elmész a gyanúsított lakására
